@@ -1,0 +1,6 @@
+TCGA-CESC TLS survival validation
+Study: cesc_tcga  Profile: cesc_tcga_rna_seq_v2_mrna_median_Zscores
+n=304  events=72  endpoint=OS  adj=age
+
+C1:  HR=0.562 [0.345–0.918]  p=0.0213  n=304  *
+C4:  HR=0.589 [0.359–0.965]  p=0.0357  n=304  *

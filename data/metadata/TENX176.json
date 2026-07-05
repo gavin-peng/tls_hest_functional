@@ -1,0 +1,23 @@
+{
+    "pixel_size_um_embedded": 0.2645833333333333,
+    "pixel_size_um_estimated": 0.27380213598691144,
+    "spots_under_tissue": 2232,
+    "fullres_px_width": 48978,
+    "fullres_px_height": 38147,
+    "dataset_title": "Visium HD 3' Gene Expression Library, Mouse Embryo (Fresh Frozen)",
+    "subseries": NaN,
+    "patient": NaN,
+    "species": "Mus musculus",
+    "disease_comment": NaN,
+    "disease_state": "Healthy",
+    "oncotree_code": NaN,
+    "tissue": "Embryo",
+    "organ": "Embryo",
+    "preservation_method": "Fresh Frozen",
+    "st_technology": "Visium HD 3'",
+    "data_publication_date": "2025-06-10",
+    "license": "Creative Commons Attribution",
+    "study_link": NaN,
+    "download_page_link1": "https://www.10xgenomics.com/datasets/visium-hd-three-prime-mouse-embryo-fresh-frozen",
+    "id": "TENX176"
+}

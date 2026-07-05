@@ -1,0 +1,4 @@
+variant	resolution	n_clusters	stability_ari_mean	stability_ari_std	platform_silhouette	cancer_silhouette	platform_dominates	idc_visium_n	idc_visium_norm_entropy	idc_visium_top_frac	idc_visium_interpretation
+670	0.1	2	0.9319	0.2043	0.2039	-0.225	True	14	0.0	1.0	concentrated (poor calibration anchor)
+670	0.3	6	0.8348	0.1446	0.2039	-0.225	True	14	0.0	1.0	concentrated (poor calibration anchor)
+670	0.5	9	0.8964	0.0576	0.2039	-0.225	True	14	0.0	1.0	concentrated (poor calibration anchor)

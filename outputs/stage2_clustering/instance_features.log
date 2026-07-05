@@ -1,0 +1,22 @@
+[04_features] Loading /mnt/e/hest/outputs/stage2_clustering/tls_neighborhood_spots.h5ad
+[04_features]   64236 spots × 40270 genes
+[04_features]   747 instances across 119 samples
+[04_features] Computing features for 747 instances...
+[04_features] 
+Wrote 747 instances × 17 columns → /mnt/e/hest/outputs/stage2_clustering/instance_features.tsv
+[04_features] Cohort breakdown: {'BLCA': 3, 'CESC': 12, 'COAD': 16, 'EPM': 32, 'GBM': 1, 'IDC': 580, 'LUAD': 1, 'LUSC': 10, 'PAAD': 8, 'PRAD': 78, 'READ': 4, 'SKCM': 2}
+[04_features] No NaN values in any feature column
+[04_features] 
+Feature summary (mean ± std):
+[04_features]   GC_score                             0.3194 ± 0.3999
+[04_features]   Tfh_score                            0.1958 ± 0.3563
+[04_features]   Plasma_score                         1.8320 ± 2.1343
+[04_features]   HEV_score                            0.4083 ± 0.5272
+[04_features]   Suppressive                          0.4753 ± 0.4397
+[04_features]   Myeloid_supp                         0.1353 ± 0.3209
+[04_features]   Cytotoxic                            0.2852 ± 0.4568
+[04_features]   Neighbor_TGFB1                       2.1316 ± 1.3186
+[04_features]   Neighbor_VEGFA                       1.9721 ± 1.5478
+[04_features]   Neighbor_CD8A                        0.2438 ± 0.3697
+[04_features]   Neighbor_tumor_fraction              4.0433 ± 1.6120
+[04_features]   Neighbor_myeloid_fraction            2.3694 ± 1.4092

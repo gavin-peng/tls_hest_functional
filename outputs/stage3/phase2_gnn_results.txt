@@ -1,0 +1,30 @@
+Device: cuda
+Loading cluster labels...
+C4 patients (9): ['SPA100', 'SPA102', 'SPA103', 'SPA104', 'SPA57', 'SPA58', 'SPA59', 'SPA66', 'SPA90']
+C1-SPA: 112 instances, 27 patients
+
+Loading embeddings from h5...
+  Loaded 182/182 instances (others missing patches)
+
+=================================================================
+METRIC 1: C1-SPA vs C4 AUROC (PRIMARY, biology signal)
+=================================================================
+  Fold 0 (left out: SPA100, n_test=17): AUROC=0.938
+  Fold 1 (left out: SPA102, n_test=26): AUROC=1.000
+  Fold 2 (left out: SPA103, n_test=43): AUROC=0.533
+  Fold 3 (left out: SPA104, n_test=28): AUROC=1.000
+  Fold 4 (left out: SPA57, n_test=15): AUROC=1.000
+  Fold 5 (left out: SPA58, n_test=19): AUROC=1.000
+  Fold 6 (left out: SPA59, n_test=19): AUROC=1.000
+  Fold 7 (left out: SPA66, n_test=9): AUROC=0.625
+  Fold 8 (left out: SPA90, n_test=14): AUROC=0.615
+  AUROC: 0.857 (range [0.533, 1.000])
+
+=================================================================
+SUMMARY
+=================================================================
+  Phase 1 RF baseline  C1-SPA vs C4:  0.744  [0.000–1.000]
+  Phase 2 GAT primary  C1-SPA vs C4:  0.857  [0.533–1.000]
+  Delta vs baseline: +0.113
+
+  Verdict: GNN IMPROVES over RF baseline — spatial organisation adds signal

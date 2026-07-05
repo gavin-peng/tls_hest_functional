@@ -1,0 +1,51 @@
+[05_batch] Loading /mnt/e/hest/outputs/stage2_clustering/instance_features.tsv
+[05_batch]   747 instances × 12 features
+[05_batch]   Cohorts: {'IDC': 580, 'PRAD': 78, 'EPM': 32, 'COAD': 16, 'CESC': 12, 'LUSC': 10, 'PAAD': 8, 'READ': 4, 'BLCA': 3, 'SKCM': 2, 'LUAD': 1, 'GBM': 1}
+[05_batch]   Platforms: {'Spatial Transcriptomics': 566, 'Visium': 181}
+[05_batch] 
+Batch variable: st_technology (2 levels)
+[05_batch] Confound check — oncotree_code × st_technology:
+[05_batch] 
+st_technology  Spatial Transcriptomics  Visium
+oncotree_code                                 
+BLCA                                 0       3
+CESC                                 0      12
+COAD                                 0      16
+EPM                                  0      32
+GBM                                  0       1
+IDC                                566      14
+LUAD                                 0       1
+LUSC                                 0      10
+PAAD                                 0       8
+PRAD                                 0      78
+READ                                 0       4
+SKCM                                 0       2
+[05_batch]   Cohorts fully on one platform: 11/12
+[05_batch] 
+Z-score standardizing features...
+[05_batch]   [before correction] Cross-batch range (z-score units) — top 5:
+[05_batch]     Neighbor_TGFB1                       range=1.110  {'Spatial Transcriptomics': '+0.269', 'Visium': '-0.841'}
+[05_batch]     Neighbor_myeloid_fraction            range=0.841  {'Spatial Transcriptomics': '+0.204', 'Visium': '-0.637'}
+[05_batch]     GC_score                             range=0.812  {'Spatial Transcriptomics': '-0.197', 'Visium': '+0.615'}
+[05_batch]     Neighbor_tumor_fraction              range=0.794  {'Spatial Transcriptomics': '+0.192', 'Visium': '-0.602'}
+[05_batch]     Suppressive                          range=0.670  {'Spatial Transcriptomics': '+0.162', 'Visium': '-0.508'}
+[05_batch] 
+Wrote z-scored features → /mnt/e/hest/outputs/stage2_clustering/instance_features_scaled.tsv
+[05_batch] 
+Running ComBat...
+/usr/lib/python3.12/functools.py:909: ImplicitModificationWarning: Transforming to str index.
+  return dispatch(args[0].__class__)(*args, **kw)
+[05_batch]   [after ComBat] Cross-batch range (z-score units) — top 5:
+[05_batch]     Neighbor_TGFB1                       range=0.033  {'Spatial Transcriptomics': '+0.016', 'Visium': '-0.017'}
+[05_batch]     GC_score                             range=0.033  {'Spatial Transcriptomics': '-0.012', 'Visium': '+0.021'}
+[05_batch]     Myeloid_supp                         range=0.028  {'Spatial Transcriptomics': '-0.009', 'Visium': '+0.019'}
+[05_batch]     Neighbor_tumor_fraction              range=0.025  {'Spatial Transcriptomics': '+0.008', 'Visium': '-0.017'}
+[05_batch]     Neighbor_myeloid_fraction            range=0.022  {'Spatial Transcriptomics': '+0.012', 'Visium': '-0.010'}
+[05_batch] 
+  Mean cross-batch range: 0.542 → 0.019 (96.5% reduction)
+[05_batch] Wrote ComBat-corrected features → /mnt/e/hest/outputs/stage2_clustering/instance_features_corrected.tsv
+[05_batch] 
+Summary:
+[05_batch]   instance_features_scaled.tsv    — z-score only; preserves all inter-cohort differences
+[05_batch]   instance_features_corrected.tsv — ComBat on st_technology; removes platform offset
+[05_batch]   RECOMMENDATION: use corrected for clustering.

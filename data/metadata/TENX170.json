@@ -1,0 +1,23 @@
+{
+    "pixel_size_um_embedded": 0.2645833333333333,
+    "pixel_size_um_estimated": 0.27381161527724973,
+    "spots_under_tissue": 1877,
+    "fullres_px_width": 25078,
+    "fullres_px_height": 43266,
+    "dataset_title": "Visium HD Spatial Gene Expression Libraries, Post-Xenium, Human Lung Cancer (FFPE)",
+    "subseries": "Experiment 2, HD only (control)",
+    "patient": NaN,
+    "species": "Homo sapiens",
+    "disease_comment": NaN,
+    "disease_state": "Cancer",
+    "oncotree_code": "LUAD",
+    "tissue": "Lung",
+    "organ": "Lung",
+    "preservation_method": "FFPE",
+    "st_technology": "Visium HD",
+    "data_publication_date": "2024-09-24",
+    "license": "Creative Commons Attribution",
+    "study_link": NaN,
+    "download_page_link1": "https://www.10xgenomics.com/datasets/visium-hd-cytassist-gene-expression-human-lung-cancer-post-xenium-expt",
+    "id": "TENX170"
+}

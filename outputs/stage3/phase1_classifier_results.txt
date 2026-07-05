@@ -1,0 +1,74 @@
+Loading features...
+  670 instances, 427 with all features complete
+  Feature NaN counts: {'log_area_um2': 0, 'elongation': 0, 'circularity': 241, 'convexity': 241, 'he_mean_A': 2, 'he_var_A': 2, 'he_mean_B': 0, 'he_var_B': 0, 'he_ratio_BA': 2}
+
+Cluster composition:
+st_technology  Spatial Transcriptomics  Visium
+cluster                                       
+0                                  190       1
+1                                  112      56
+2                                    8      93
+3                                   45      31
+4                                   70       0
+5                                   64       0
+
+C4 patients (9): ['SPA100', 'SPA102', 'SPA103', 'SPA104', 'SPA57', 'SPA58', 'SPA59', 'SPA66', 'SPA90']
+C1 patients: 40 total, 27 SPA, 13 Visium
+
+=================================================================
+METRIC 1: C1-SPA vs C4 AUROC (PRIMARY, biology signal)
+=================================================================
+  Instances: 182 (C1-SPA=112, C4=70)
+  AUROC: 0.744 (range [0.000, 1.000])
+  Per-fold: ['0.438', '0.988', '0.845', '1.000', '1.000', '0.889', '0.690', '0.000', '0.846']
+
+=================================================================
+METRIC 2: C1 vs C4 AUROC (full, mixed platform)
+=================================================================
+  Instances: 238 (C1=168, C4=70)
+  AUROC: 0.855 (range [0.500, 1.000])
+  Per-fold: ['0.818', '0.918', '0.995', '0.825', '1.000', '0.993', '0.643', '0.500', '1.000']
+
+=================================================================
+METRIC 3: C1-Visium vs C1-SPA AUROC (platform confound control)
+=================================================================
+  Instances: 168 (C1-SPA=112, C1-Visium=56)
+  AUROC: 0.866 (range [0.516, 1.000])
+  Interpretation: near 0.5 = platform invisible; near 1.0 = platform confounds
+
+=================================================================
+METRIC 4: C1 vs C0 AUROC (ST necessity — expect ~0.5)
+=================================================================
+  Instances: 359 (C0=191, C1=168)
+  AUROC: 0.678
+  Per-fold: ['0.550', '0.749', '0.736']
+
+=================================================================
+METRIC 5: 6-class macro F1 (context)
+=================================================================
+  Instances: 670
+  Macro F1: 0.349
+  Per-fold: ['0.348', '0.369', '0.331']
+
+Computing feature importance (full data, no CV)...
+     feature  importance
+   he_mean_B    0.275493
+  elongation    0.225207
+log_area_um2    0.133025
+    he_var_B    0.085235
+   he_mean_A    0.071414
+ circularity    0.067489
+   convexity    0.056396
+    he_var_A    0.053363
+ he_ratio_BA    0.032378
+
+=================================================================
+SUMMARY
+=================================================================
+  Primary   C1-SPA vs C4 AUROC:       0.744  [0.000–1.000]
+  Secondary C1 vs C4 full AUROC:       0.855  [0.500–1.000]
+  Platform  C1-Visium vs C1-SPA AUROC: 0.866  [0.516–1.000]
+  ST-nec.   C1 vs C0 AUROC:            0.678
+  Context   6-class macro F1:          0.349
+
+  Decision: PROCEED to Phase 2 GNN (primary AUROC > 0.70)

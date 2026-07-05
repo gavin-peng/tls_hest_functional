@@ -1,0 +1,331 @@
+[03_extract] Loaded Ensembl map: 46,920 entries
+[03_extract] Duplicates excluded: ['SPA126', 'SPA127', 'SPA128', 'SPA129', 'SPA130', 'SPA93', 'SPA94', 'SPA95', 'SPA96', 'SPA97', 'SPA98', 'SPA99', 'TENX29']
+[03_extract] Skipped 52 samples: {'INT1': 'organ=Lymph node', 'INT10': 'organ=Lymph node', 'INT14': 'organ=Lymph node', 'INT17': 'organ=Lymph node', 'INT19': 'organ=Lymph node', 'INT2': 'organ=Lymph node', 'INT24': 'organ=Lymph node', 'INT3': 'organ=Lymph node', 'INT4': 'organ=Lymph node', 'INT5': 'organ=Lymph node'}...
+[03_extract] Processing 133 samples
+[03_extract]   MEND139 (nan, Visium): 0 instances with ≥1 spot
+[03_extract]   MEND139: no spots extracted
+[03_extract]   MEND140 (nan, Visium): 1 instances with ≥1 spot
+[03_extract]     1 in_tls batches, 1 neighborhood batches
+[03_extract]   MEND141 (nan, Visium): 0 instances with ≥1 spot
+[03_extract]   MEND141: no spots extracted
+[03_extract]   MEND142 (nan, Visium): 3 instances with ≥1 spot
+[03_extract]     3 in_tls batches, 3 neighborhood batches
+[03_extract]   MEND147 (nan, Visium): 0 instances with ≥1 spot
+[03_extract]   MEND147: no spots extracted
+[03_extract]   MEND149 (nan, Visium): 2 instances with ≥1 spot
+[03_extract]     2 in_tls batches, 2 neighborhood batches
+[03_extract]   MEND151 (nan, Visium): 1 instances with ≥1 spot
+[03_extract]     1 in_tls batches, 1 neighborhood batches
+[03_extract]   MEND154 (nan, Visium): 8 instances with ≥1 spot
+[03_extract]     8 in_tls batches, 8 neighborhood batches
+[03_extract]   MEND156 (nan, Visium): 21 instances with ≥1 spot
+[03_extract]     21 in_tls batches, 21 neighborhood batches
+[03_extract]   MEND157 (nan, Visium): 5 instances with ≥1 spot
+[03_extract]     5 in_tls batches, 5 neighborhood batches
+[03_extract]   MEND158 (nan, Visium): 2 instances with ≥1 spot
+[03_extract]     2 in_tls batches, 2 neighborhood batches
+[03_extract]   MEND159 (nan, Visium): 21 instances with ≥1 spot
+[03_extract]     21 in_tls batches, 21 neighborhood batches
+[03_extract]   MEND160 (nan, Visium): 9 instances with ≥1 spot
+[03_extract]     9 in_tls batches, 9 neighborhood batches
+[03_extract]   MEND161 (nan, Visium): 2 instances with ≥1 spot
+[03_extract]     2 in_tls batches, 2 neighborhood batches
+[03_extract]   MEND37 (nan, Visium): 1 instances with ≥1 spot
+[03_extract]     1 in_tls batches, 1 neighborhood batches
+[03_extract]   MEND39 (nan, Visium): 1 instances with ≥1 spot
+[03_extract]     1 in_tls batches, 1 neighborhood batches
+[03_extract]   MEND61 (nan, Visium): 3 instances with ≥1 spot
+[03_extract]     3 in_tls batches, 3 neighborhood batches
+[03_extract]   MEND63 (nan, Visium): 1 instances with ≥1 spot
+[03_extract]     1 in_tls batches, 1 neighborhood batches
+[03_extract]   MISC19 (nan, Visium): 1 instances with ≥1 spot
+[03_extract]     1 in_tls batches, 1 neighborhood batches
+[03_extract]   MISC26 (nan, Visium): 2 instances with ≥1 spot
+[03_extract]     2 in_tls batches, 2 neighborhood batches
+[03_extract]   MISC29 (nan, Visium): 7 instances with ≥1 spot
+[03_extract]     7 in_tls batches, 7 neighborhood batches
+[03_extract]   MISC32 (nan, Visium): 1 instances with ≥1 spot
+[03_extract]     1 in_tls batches, 1 neighborhood batches
+[03_extract]   NCBI571 (PAAD, Visium): 3 instances with ≥1 spot
+[03_extract]     3 in_tls batches, 3 neighborhood batches
+[03_extract]   NCBI572 (PAAD, Visium): 5 instances with ≥1 spot
+[03_extract]     5 in_tls batches, 5 neighborhood batches
+[03_extract]   NCBI628 (EPM, Visium): 3 instances with ≥1 spot
+[03_extract]     3 in_tls batches, 3 neighborhood batches
+[03_extract]   NCBI629 (EPM, Visium): 11 instances with ≥1 spot
+[03_extract]     11 in_tls batches, 11 neighborhood batches
+[03_extract]   NCBI631 (EPM, Visium): 1 instances with ≥1 spot
+[03_extract]     1 in_tls batches, 1 neighborhood batches
+[03_extract]   NCBI633 (EPM, Visium): 6 instances with ≥1 spot
+[03_extract]     6 in_tls batches, 6 neighborhood batches
+[03_extract]   NCBI635 (EPM, Visium): 0 instances with ≥1 spot
+[03_extract]   NCBI635: no spots extracted
+[03_extract]   NCBI637 (EPM, Visium): 7 instances with ≥1 spot
+[03_extract]     7 in_tls batches, 7 neighborhood batches
+[03_extract]   NCBI638 (EPM, Visium): 3 instances with ≥1 spot
+[03_extract]     3 in_tls batches, 3 neighborhood batches
+[03_extract]   NCBI641 (EPM, Visium): 1 instances with ≥1 spot
+[03_extract]     1 in_tls batches, 1 neighborhood batches
+[03_extract]   NCBI855 (BLCA, Visium): 3 instances with ≥1 spot
+[03_extract]     3 in_tls batches, 3 neighborhood batches
+[03_extract]   SPA0 (IDC, Spatial Transcriptomics): 1 instances with ≥1 spot
+[03_extract]     1 in_tls batches, 1 neighborhood batches
+[03_extract]   SPA1 (IDC, Spatial Transcriptomics): 1 instances with ≥1 spot
+[03_extract]     1 in_tls batches, 1 neighborhood batches
+[03_extract]   SPA100 (IDC, Spatial Transcriptomics): 16 instances with ≥1 spot
+[03_extract]     SPA100: Ensembl→symbol converted (16238 genes)
+[03_extract]     16 in_tls batches, 16 neighborhood batches
+[03_extract]   SPA101 (IDC, Spatial Transcriptomics): 13 instances with ≥1 spot
+[03_extract]     SPA101: Ensembl→symbol converted (16056 genes)
+[03_extract]     13 in_tls batches, 13 neighborhood batches
+[03_extract]   SPA102 (IDC, Spatial Transcriptomics): 16 instances with ≥1 spot
+[03_extract]     SPA102: Ensembl→symbol converted (16232 genes)
+[03_extract]     16 in_tls batches, 16 neighborhood batches
+[03_extract]   SPA103 (IDC, Spatial Transcriptomics): 14 instances with ≥1 spot
+[03_extract]     SPA103: Ensembl→symbol converted (16288 genes)
+[03_extract]     14 in_tls batches, 14 neighborhood batches
+[03_extract]   SPA104 (IDC, Spatial Transcriptomics): 16 instances with ≥1 spot
+[03_extract]     SPA104: Ensembl→symbol converted (15800 genes)
+[03_extract]     16 in_tls batches, 16 neighborhood batches
+[03_extract]   SPA108 (IDC, Spatial Transcriptomics): 12 instances with ≥1 spot
+[03_extract]     SPA108: Ensembl→symbol converted (16602 genes)
+[03_extract]     12 in_tls batches, 12 neighborhood batches
+[03_extract]   SPA109 (IDC, Spatial Transcriptomics): 13 instances with ≥1 spot
+[03_extract]     SPA109: Ensembl→symbol converted (16456 genes)
+[03_extract]     13 in_tls batches, 13 neighborhood batches
+[03_extract]   SPA110 (IDC, Spatial Transcriptomics): 16 instances with ≥1 spot
+[03_extract]     SPA110: Ensembl→symbol converted (16276 genes)
+[03_extract]     16 in_tls batches, 16 neighborhood batches
+[03_extract]   SPA111 (IDC, Spatial Transcriptomics): 5 instances with ≥1 spot
+[03_extract]     SPA111: Ensembl→symbol converted (15953 genes)
+[03_extract]     5 in_tls batches, 5 neighborhood batches
+[03_extract]   SPA112 (IDC, Spatial Transcriptomics): 3 instances with ≥1 spot
+[03_extract]     SPA112: Ensembl→symbol converted (16257 genes)
+[03_extract]     3 in_tls batches, 3 neighborhood batches
+[03_extract]   SPA113 (IDC, Spatial Transcriptomics): 7 instances with ≥1 spot
+[03_extract]     SPA113: Ensembl→symbol converted (16837 genes)
+[03_extract]     7 in_tls batches, 7 neighborhood batches
+[03_extract]   SPA114 (IDC, Spatial Transcriptomics): 6 instances with ≥1 spot
+[03_extract]     SPA114: Ensembl→symbol converted (16679 genes)
+[03_extract]     6 in_tls batches, 6 neighborhood batches
+[03_extract]   SPA115 (IDC, Spatial Transcriptomics): 6 instances with ≥1 spot
+[03_extract]     SPA115: Ensembl→symbol converted (17236 genes)
+[03_extract]     6 in_tls batches, 6 neighborhood batches
+[03_extract]   SPA116 (IDC, Spatial Transcriptomics): 4 instances with ≥1 spot
+[03_extract]     SPA116: Ensembl→symbol converted (15292 genes)
+[03_extract]     4 in_tls batches, 4 neighborhood batches
+[03_extract]   SPA117 (IDC, Spatial Transcriptomics): 3 instances with ≥1 spot
+[03_extract]     SPA117: Ensembl→symbol converted (15327 genes)
+[03_extract]     3 in_tls batches, 3 neighborhood batches
+[03_extract]   SPA118 (IDC, Spatial Transcriptomics): 2 instances with ≥1 spot
+[03_extract]     SPA118: Ensembl→symbol converted (15269 genes)
+[03_extract]     2 in_tls batches, 2 neighborhood batches
+[03_extract]   SPA119 (IDC, Spatial Transcriptomics): 8 instances with ≥1 spot
+[03_extract]     8 in_tls batches, 8 neighborhood batches
+[03_extract]   SPA120 (IDC, Spatial Transcriptomics): 8 instances with ≥1 spot
+[03_extract]     8 in_tls batches, 8 neighborhood batches
+[03_extract]   SPA121 (IDC, Spatial Transcriptomics): 10 instances with ≥1 spot
+[03_extract]     10 in_tls batches, 10 neighborhood batches
+[03_extract]   SPA122 (IDC, Spatial Transcriptomics): 6 instances with ≥1 spot
+[03_extract]     6 in_tls batches, 6 neighborhood batches
+[03_extract]   SPA123 (IDC, Spatial Transcriptomics): 3 instances with ≥1 spot
+[03_extract]     3 in_tls batches, 3 neighborhood batches
+[03_extract]   SPA124 (IDC, Spatial Transcriptomics): 1 instances with ≥1 spot
+[03_extract]     1 in_tls batches, 1 neighborhood batches
+[03_extract]   SPA125 (IDC, Spatial Transcriptomics): 20 instances with ≥1 spot
+[03_extract]     20 in_tls batches, 20 neighborhood batches
+[03_extract]   SPA131 (IDC, Spatial Transcriptomics): 5 instances with ≥1 spot
+[03_extract]     5 in_tls batches, 5 neighborhood batches
+[03_extract]   SPA132 (IDC, Spatial Transcriptomics): 4 instances with ≥1 spot
+[03_extract]     4 in_tls batches, 4 neighborhood batches
+[03_extract]   SPA133 (IDC, Spatial Transcriptomics): 5 instances with ≥1 spot
+[03_extract]     5 in_tls batches, 5 neighborhood batches
+[03_extract]   SPA134 (IDC, Spatial Transcriptomics): 3 instances with ≥1 spot
+[03_extract]     3 in_tls batches, 3 neighborhood batches
+[03_extract]   SPA135 (IDC, Spatial Transcriptomics): 8 instances with ≥1 spot
+[03_extract]     8 in_tls batches, 8 neighborhood batches
+[03_extract]   SPA136 (IDC, Spatial Transcriptomics): 1 instances with ≥1 spot
+[03_extract]     1 in_tls batches, 1 neighborhood batches
+[03_extract]   SPA137 (IDC, Spatial Transcriptomics): 3 instances with ≥1 spot
+[03_extract]     3 in_tls batches, 3 neighborhood batches
+[03_extract]   SPA138 (IDC, Spatial Transcriptomics): 3 instances with ≥1 spot
+[03_extract]     3 in_tls batches, 3 neighborhood batches
+[03_extract]   SPA139 (IDC, Spatial Transcriptomics): 2 instances with ≥1 spot
+[03_extract]     2 in_tls batches, 2 neighborhood batches
+[03_extract]   SPA140 (IDC, Spatial Transcriptomics): 1 instances with ≥1 spot
+[03_extract]     1 in_tls batches, 1 neighborhood batches
+[03_extract]   SPA141 (IDC, Spatial Transcriptomics): 1 instances with ≥1 spot
+[03_extract]     1 in_tls batches, 1 neighborhood batches
+[03_extract]   SPA142 (IDC, Spatial Transcriptomics): 3 instances with ≥1 spot
+[03_extract]     3 in_tls batches, 3 neighborhood batches
+[03_extract]   SPA143 (IDC, Spatial Transcriptomics): 1 instances with ≥1 spot
+[03_extract]     1 in_tls batches, 1 neighborhood batches
+[03_extract]   SPA144 (IDC, Spatial Transcriptomics): 3 instances with ≥1 spot
+[03_extract]     3 in_tls batches, 3 neighborhood batches
+[03_extract]   SPA145 (IDC, Spatial Transcriptomics): 2 instances with ≥1 spot
+[03_extract]     2 in_tls batches, 2 neighborhood batches
+[03_extract]   SPA146 (IDC, Spatial Transcriptomics): 2 instances with ≥1 spot
+[03_extract]     2 in_tls batches, 2 neighborhood batches
+[03_extract]   SPA147 (IDC, Spatial Transcriptomics): 4 instances with ≥1 spot
+[03_extract]     4 in_tls batches, 4 neighborhood batches
+[03_extract]   SPA148 (IDC, Spatial Transcriptomics): 3 instances with ≥1 spot
+[03_extract]     3 in_tls batches, 3 neighborhood batches
+[03_extract]   SPA149 (IDC, Spatial Transcriptomics): 0 instances with ≥1 spot
+[03_extract]   SPA149: no spots extracted
+[03_extract]   SPA151 (IDC, Spatial Transcriptomics): 0 instances with ≥1 spot
+[03_extract]   SPA151: no spots extracted
+[03_extract]   SPA152 (IDC, Spatial Transcriptomics): 0 instances with ≥1 spot
+[03_extract]   SPA152: no spots extracted
+[03_extract]   SPA153 (IDC, Spatial Transcriptomics): 0 instances with ≥1 spot
+[03_extract]   SPA153: no spots extracted
+[03_extract]   SPA154 (IDC, Spatial Transcriptomics): 0 instances with ≥1 spot
+[03_extract]   SPA154: no spots extracted
+[03_extract]   SPA2 (IDC, Spatial Transcriptomics): 0 instances with ≥1 spot
+[03_extract]   SPA2: no spots extracted
+[03_extract]   SPA3 (IDC, Spatial Transcriptomics): 2 instances with ≥1 spot
+[03_extract]     2 in_tls batches, 2 neighborhood batches
+[03_extract]   SPA51 (IDC, Spatial Transcriptomics): 9 instances with ≥1 spot
+[03_extract]     SPA51: Ensembl→symbol converted (16953 genes)
+[03_extract]     9 in_tls batches, 9 neighborhood batches
+[03_extract]   SPA52 (IDC, Spatial Transcriptomics): 4 instances with ≥1 spot
+[03_extract]     SPA52: Ensembl→symbol converted (16739 genes)
+[03_extract]     4 in_tls batches, 4 neighborhood batches
+[03_extract]   SPA53 (IDC, Spatial Transcriptomics): 9 instances with ≥1 spot
+[03_extract]     SPA53: Ensembl→symbol converted (17358 genes)
+[03_extract]     9 in_tls batches, 9 neighborhood batches
+[03_extract]   SPA54 (IDC, Spatial Transcriptomics): 19 instances with ≥1 spot
+[03_extract]     SPA54: Ensembl→symbol converted (16148 genes)
+[03_extract]     19 in_tls batches, 19 neighborhood batches
+[03_extract]   SPA55 (IDC, Spatial Transcriptomics): 17 instances with ≥1 spot
+[03_extract]     SPA55: Ensembl→symbol converted (16428 genes)
+[03_extract]     17 in_tls batches, 17 neighborhood batches
+[03_extract]   SPA56 (IDC, Spatial Transcriptomics): 19 instances with ≥1 spot
+[03_extract]     SPA56: Ensembl→symbol converted (16182 genes)
+[03_extract]     19 in_tls batches, 19 neighborhood batches
+[03_extract]   SPA57 (IDC, Spatial Transcriptomics): 6 instances with ≥1 spot
+[03_extract]     SPA57: Ensembl→symbol converted (15856 genes)
+[03_extract]     6 in_tls batches, 6 neighborhood batches
+[03_extract]   SPA58 (IDC, Spatial Transcriptomics): 9 instances with ≥1 spot
+[03_extract]     SPA58: Ensembl→symbol converted (16002 genes)
+[03_extract]     9 in_tls batches, 9 neighborhood batches
+[03_extract]   SPA59 (IDC, Spatial Transcriptomics): 8 instances with ≥1 spot
+[03_extract]     SPA59: Ensembl→symbol converted (15833 genes)
+[03_extract]     8 in_tls batches, 8 neighborhood batches
+[03_extract]   SPA60 (IDC, Spatial Transcriptomics): 2 instances with ≥1 spot
+[03_extract]     SPA60: Ensembl→symbol converted (16353 genes)
+[03_extract]     2 in_tls batches, 2 neighborhood batches
+[03_extract]   SPA61 (IDC, Spatial Transcriptomics): 1 instances with ≥1 spot
+[03_extract]     SPA61: Ensembl→symbol converted (16447 genes)
+[03_extract]     1 in_tls batches, 1 neighborhood batches
+[03_extract]   SPA62 (IDC, Spatial Transcriptomics): 1 instances with ≥1 spot
+[03_extract]     SPA62: Ensembl→symbol converted (15456 genes)
+[03_extract]     1 in_tls batches, 1 neighborhood batches
+[03_extract]   SPA63 (IDC, Spatial Transcriptomics): 3 instances with ≥1 spot
+[03_extract]     SPA63: Ensembl→symbol converted (15655 genes)
+[03_extract]     3 in_tls batches, 3 neighborhood batches
+[03_extract]   SPA64 (IDC, Spatial Transcriptomics): 9 instances with ≥1 spot
+[03_extract]     SPA64: Ensembl→symbol converted (15829 genes)
+[03_extract]     9 in_tls batches, 9 neighborhood batches
+[03_extract]   SPA65 (IDC, Spatial Transcriptomics): 13 instances with ≥1 spot
+[03_extract]     SPA65: Ensembl→symbol converted (15847 genes)
+[03_extract]     13 in_tls batches, 13 neighborhood batches
+[03_extract]   SPA66 (IDC, Spatial Transcriptomics): 1 instances with ≥1 spot
+[03_extract]     SPA66: Ensembl→symbol converted (16594 genes)
+[03_extract]     1 in_tls batches, 1 neighborhood batches
+[03_extract]   SPA67 (IDC, Spatial Transcriptomics): 0 instances with ≥1 spot
+[03_extract]     SPA67: Ensembl→symbol converted (16665 genes)
+[03_extract]   SPA67: no spots extracted
+[03_extract]   SPA68 (IDC, Spatial Transcriptomics): 1 instances with ≥1 spot
+[03_extract]     SPA68: Ensembl→symbol converted (16773 genes)
+[03_extract]     1 in_tls batches, 1 neighborhood batches
+[03_extract]   SPA69 (IDC, Spatial Transcriptomics): 11 instances with ≥1 spot
+[03_extract]     SPA69: Ensembl→symbol converted (16569 genes)
+[03_extract]     11 in_tls batches, 11 neighborhood batches
+[03_extract]   SPA70 (IDC, Spatial Transcriptomics): 10 instances with ≥1 spot
+[03_extract]     SPA70: Ensembl→symbol converted (16908 genes)
+[03_extract]     10 in_tls batches, 10 neighborhood batches
+[03_extract]   SPA71 (IDC, Spatial Transcriptomics): 14 instances with ≥1 spot
+[03_extract]     SPA71: Ensembl→symbol converted (16826 genes)
+[03_extract]     14 in_tls batches, 14 neighborhood batches
+[03_extract]   SPA72 (IDC, Spatial Transcriptomics): 6 instances with ≥1 spot
+[03_extract]     SPA72: Ensembl→symbol converted (16743 genes)
+[03_extract]     6 in_tls batches, 6 neighborhood batches
+[03_extract]   SPA73 (IDC, Spatial Transcriptomics): 4 instances with ≥1 spot
+[03_extract]     SPA73: Ensembl→symbol converted (16461 genes)
+[03_extract]     4 in_tls batches, 4 neighborhood batches
+[03_extract]   SPA74 (IDC, Spatial Transcriptomics): 8 instances with ≥1 spot
+[03_extract]     SPA74: Ensembl→symbol converted (16270 genes)
+[03_extract]     8 in_tls batches, 8 neighborhood batches
+[03_extract]   SPA78 (IDC, Spatial Transcriptomics): 3 instances with ≥1 spot
+[03_extract]     SPA78: Ensembl→symbol converted (16106 genes)
+[03_extract]     3 in_tls batches, 3 neighborhood batches
+[03_extract]   SPA79 (IDC, Spatial Transcriptomics): 3 instances with ≥1 spot
+[03_extract]     SPA79: Ensembl→symbol converted (16035 genes)
+[03_extract]     3 in_tls batches, 3 neighborhood batches
+[03_extract]   SPA80 (IDC, Spatial Transcriptomics): 2 instances with ≥1 spot
+[03_extract]     SPA80: Ensembl→symbol converted (15861 genes)
+[03_extract]     2 in_tls batches, 2 neighborhood batches
+[03_extract]   SPA81 (IDC, Spatial Transcriptomics): 20 instances with ≥1 spot
+[03_extract]     SPA81: Ensembl→symbol converted (16007 genes)
+[03_extract]     20 in_tls batches, 20 neighborhood batches
+[03_extract]   SPA82 (IDC, Spatial Transcriptomics): 18 instances with ≥1 spot
+[03_extract]     SPA82: Ensembl→symbol converted (16000 genes)
+[03_extract]     18 in_tls batches, 18 neighborhood batches
+[03_extract]   SPA83 (IDC, Spatial Transcriptomics): 13 instances with ≥1 spot
+[03_extract]     SPA83: Ensembl→symbol converted (16076 genes)
+[03_extract]     13 in_tls batches, 13 neighborhood batches
+[03_extract]   SPA84 (IDC, Spatial Transcriptomics): 9 instances with ≥1 spot
+[03_extract]     SPA84: Ensembl→symbol converted (15943 genes)
+[03_extract]     9 in_tls batches, 9 neighborhood batches
+[03_extract]   SPA85 (IDC, Spatial Transcriptomics): 6 instances with ≥1 spot
+[03_extract]     SPA85: Ensembl→symbol converted (16371 genes)
+[03_extract]     6 in_tls batches, 6 neighborhood batches
+[03_extract]   SPA86 (IDC, Spatial Transcriptomics): 7 instances with ≥1 spot
+[03_extract]     SPA86: Ensembl→symbol converted (16069 genes)
+[03_extract]     7 in_tls batches, 7 neighborhood batches
+[03_extract]   SPA87 (IDC, Spatial Transcriptomics): 13 instances with ≥1 spot
+[03_extract]     SPA87: Ensembl→symbol converted (15802 genes)
+[03_extract]     13 in_tls batches, 13 neighborhood batches
+[03_extract]   SPA88 (IDC, Spatial Transcriptomics): 6 instances with ≥1 spot
+[03_extract]     SPA88: Ensembl→symbol converted (15814 genes)
+[03_extract]     6 in_tls batches, 6 neighborhood batches
+[03_extract]   SPA89 (IDC, Spatial Transcriptomics): 5 instances with ≥1 spot
+[03_extract]     SPA89: Ensembl→symbol converted (15907 genes)
+[03_extract]     5 in_tls batches, 5 neighborhood batches
+[03_extract]   SPA90 (IDC, Spatial Transcriptomics): 8 instances with ≥1 spot
+[03_extract]     SPA90: Ensembl→symbol converted (16096 genes)
+[03_extract]     8 in_tls batches, 8 neighborhood batches
+[03_extract]   SPA91 (IDC, Spatial Transcriptomics): 0 instances with ≥1 spot
+[03_extract]     SPA91: Ensembl→symbol converted (16215 genes)
+[03_extract]   SPA91: no spots extracted
+[03_extract]   SPA92 (IDC, Spatial Transcriptomics): 3 instances with ≥1 spot
+[03_extract]     SPA92: Ensembl→symbol converted (16179 genes)
+[03_extract]     3 in_tls batches, 3 neighborhood batches
+[03_extract]   TENX13 (IDC, Visium): 7 instances with ≥1 spot
+[03_extract]     7 in_tls batches, 7 neighborhood batches
+[03_extract]   TENX14 (IDC, Visium): 7 instances with ≥1 spot
+[03_extract]     7 in_tls batches, 7 neighborhood batches
+[03_extract]   TENX28 (COAD, Visium): 2 instances with ≥1 spot
+[03_extract]     2 in_tls batches, 2 neighborhood batches
+[03_extract]   TENX49 (COAD, Visium): 1 instances with ≥1 spot
+[03_extract]     1 in_tls batches, 1 neighborhood batches
+[03_extract]   TENX50 (CESC, Visium): 12 instances with ≥1 spot
+[03_extract]     12 in_tls batches, 12 neighborhood batches
+[03_extract]   TENX53 (IDC, Visium): 0 instances with ≥1 spot
+[03_extract]   TENX53: no spots extracted
+[03_extract]   ZEN36 (READ, Visium): 0 instances with ≥1 spot
+[03_extract]   ZEN36: no spots extracted
+[03_extract]   ZEN42 (COAD, Visium): 2 instances with ≥1 spot
+[03_extract]     2 in_tls batches, 2 neighborhood batches
+[03_extract]   ZEN46 (COAD, Visium): 8 instances with ≥1 spot
+[03_extract]     8 in_tls batches, 8 neighborhood batches
+[03_extract]   ZEN47 (COAD, Visium): 3 instances with ≥1 spot
+[03_extract]     3 in_tls batches, 3 neighborhood batches
+[03_extract]   ZEN49 (READ, Visium): 4 instances with ≥1 spot
+[03_extract]     4 in_tls batches, 4 neighborhood batches
+[03_extract] Gene union: 40270 genes across 87 unique gene spaces
+[03_extract] 
+Wrote 64236 spots × 40270 genes → /mnt/e/hest/outputs/stage2_clustering/tls_neighborhood_spots.h5ad
+[03_extract] Instances: 747 across 119 samples
+[03_extract] Spot breakdown: 9103 in_tls, 55133 neighborhood
+[03_extract] Cohorts: {'BLCA': 233, 'CESC': 1828, 'COAD': 1175, 'EPM': 4735, 'IDC': 34562, 'PAAD': 953, 'READ': 482, 'nan': 20268}

@@ -1,0 +1,748 @@
+instance_id	sample_id	oncotree_code	st_technology	n_spots_in_tls	area_um2	large	split_from	exclusion
+MEND140_2	MEND140	PRAD	Visium	6	85008.0	False		
+MEND142_18	MEND142	PRAD	Visium	17	123856.0	False		
+MEND142_21	MEND142	PRAD	Visium	14	111592.0	False		
+MEND142_24	MEND142	PRAD	Visium	6	122112.0	False		
+MEND149_2	MEND149	PRAD	Visium	9	66392.0	False		
+MEND149_3	MEND149	PRAD	Visium	18	146544.0	False		
+MEND151_2	MEND151	PRAD	Visium	5	71224.0	False		
+MEND154_0	MEND154	PRAD	Visium	17	133467.0	False		
+MEND154_1	MEND154	PRAD	Visium	8	65200.0	False		
+MEND154_2	MEND154	PRAD	Visium	8	64424.0	False		
+MEND154_3	MEND154	PRAD	Visium	9	58687.0	False		
+MEND154_5	MEND154	PRAD	Visium	4	51736.0	False		
+MEND154_6	MEND154	PRAD	Visium	8	90438.0	False		
+MEND154_7	MEND154	PRAD	Visium	11	88936.0	False		
+MEND154_8	MEND154	PRAD	Visium	10	84040.0	False		
+MEND156_0	MEND156	PRAD	Visium	6	72463.0	False		
+MEND156_1	MEND156	PRAD	Visium	12	114800.0	False		
+MEND156_10	MEND156	PRAD	Visium	24	206704.0	True	705.0	
+MEND156_11	MEND156	PRAD	Visium	22	212084.0	True	705.0	
+MEND156_12	MEND156	PRAD	Visium	17	156356.0	True	705.0	
+MEND156_13	MEND156	PRAD	Visium	13	103080.0	True	705.0	
+MEND156_14	MEND156	PRAD	Visium	5	51595.0	False		
+MEND156_15	MEND156	PRAD	Visium	12	80336.0	False		
+MEND156_16	MEND156	PRAD	Visium	6	63016.0	False		
+MEND156_17	MEND156	PRAD	Visium	31	261286.0	False		
+MEND156_19	MEND156	PRAD	Visium	7	78740.0	False		
+MEND156_2	MEND156	PRAD	Visium	16	149638.0	False		
+MEND156_21	MEND156	PRAD	Visium	7	107159.0	False		
+MEND156_23	MEND156	PRAD	Visium	40	345856.0	False		
+MEND156_3	MEND156	PRAD	Visium	18	170775.0	False		
+MEND156_4	MEND156	PRAD	Visium	36	342300.0	False		
+MEND156_5	MEND156	PRAD	Visium	46	452730.0	False		
+MEND156_6	MEND156	PRAD	Visium	71	649088.0	False		
+MEND156_7	MEND156	PRAD	Visium	16	119502.0	False		
+MEND156_8	MEND156	PRAD	Visium	121	1007964.0	True	705.0	
+MEND156_9	MEND156	PRAD	Visium	95	813580.0	True	705.0	
+MEND157_0	MEND157	PRAD	Visium	6	74112.0	False		
+MEND157_1	MEND157	PRAD	Visium	8	68888.0	False		
+MEND157_2	MEND157	PRAD	Visium	13	108301.0	False		
+MEND157_3	MEND157	PRAD	Visium	21	190174.0	False		
+MEND157_4	MEND157	PRAD	Visium	8	54976.0	False		
+MEND158_0	MEND158	PRAD	Visium	8	71120.0	False		
+MEND158_1	MEND158	PRAD	Visium	8	63441.0	False		
+MEND159_0	MEND159	PRAD	Visium	22	166062.0	False		
+MEND159_1	MEND159	PRAD	Visium	15	108600.0	False		
+MEND159_10	MEND159	PRAD	Visium	34	723332.0	True	694.0	
+MEND159_11	MEND159	PRAD	Visium	100	855708.0	True	694.0	
+MEND159_12	MEND159	PRAD	Visium	75	632048.0	True	694.0	
+MEND159_13	MEND159	PRAD	Visium	40	389660.0	True	694.0	
+MEND159_14	MEND159	PRAD	Visium	78	636968.0	True	694.0	
+MEND159_15	MEND159	PRAD	Visium	68	599504.0	True	694.0	
+MEND159_16	MEND159	PRAD	Visium	74	657084.0	True	694.0	
+MEND159_17	MEND159	PRAD	Visium	22	218140.0	True	694.0	
+MEND159_18	MEND159	PRAD	Visium	36	388776.0	True	694.0	
+MEND159_19	MEND159	PRAD	Visium	29	278744.0	True	694.0	
+MEND159_2	MEND159	PRAD	Visium	72	608120.0	False		
+MEND159_20	MEND159	PRAD	Visium	26	216710.0	False		
+MEND159_3	MEND159	PRAD	Visium	40	362212.0	False		
+MEND159_4	MEND159	PRAD	Visium	152	1333372.0	True	694.0	
+MEND159_5	MEND159	PRAD	Visium	108	1044448.0	True	694.0	
+MEND159_6	MEND159	PRAD	Visium	70	1006004.0	True	694.0	
+MEND159_7	MEND159	PRAD	Visium	87	736184.0	True	694.0	
+MEND159_8	MEND159	PRAD	Visium	65	580084.0	True	694.0	
+MEND159_9	MEND159	PRAD	Visium	40	568496.0	True	694.0	
+MEND160_0	MEND160	PRAD	Visium	1	106480.0	False		
+MEND160_1	MEND160	PRAD	Visium	17	141288.0	False		
+MEND160_2	MEND160	PRAD	Visium	8	98240.0	False		
+MEND160_3	MEND160	PRAD	Visium	17	148640.0	False		
+MEND160_4	MEND160	PRAD	Visium	8	55512.0	False		
+MEND160_5	MEND160	PRAD	Visium	11	83400.0	False		
+MEND160_6	MEND160	PRAD	Visium	7	56361.0	False		
+MEND160_7	MEND160	PRAD	Visium	15	104400.0	False		
+MEND160_8	MEND160	PRAD	Visium	79	674617.0	False		
+MEND161_0	MEND161	PRAD	Visium	6	52002.0	False		
+MEND161_1	MEND161	PRAD	Visium	6	109356.0	False		
+MEND37_0	MEND37	SKCM	Visium	8	59776.0	False		
+MEND39_0	MEND39	SKCM	Visium	6	56984.0	False		
+MEND61_1	MEND61	PRAD	Visium	5	45816.0	False		
+MEND61_2	MEND61	PRAD	Visium	6	44960.0	False		
+MEND61_3	MEND61	PRAD	Visium	19	458000.0	False		
+MEND63_0	MEND63	GBM	Visium	6	55840.0	False		
+MISC19_4	MISC19	LUAD	Visium	6	49968.0	False		
+MISC26_2	MISC26	LUSC	Visium	20	188568.0	False		
+MISC26_3	MISC26	LUSC	Visium	9	83448.0	False		
+MISC29_0	MISC29	LUSC	Visium	4	79544.0	False		
+MISC29_1	MISC29	LUSC	Visium	14	159800.0	False		
+MISC29_2	MISC29	LUSC	Visium	1	136968.0	False		
+MISC29_3	MISC29	LUSC	Visium	115	989028.0	True	74.0	
+MISC29_4	MISC29	LUSC	Visium	30	275452.0	True	74.0	
+MISC29_5	MISC29	LUSC	Visium	14	106856.0	False		
+MISC29_7	MISC29	LUSC	Visium	6	47456.0	False		
+MISC32_0	MISC32	LUSC	Visium	18	161856.0	False		
+NCBI571_0	NCBI571	PAAD	Visium	42	358888.0	False		
+NCBI571_1	NCBI571	PAAD	Visium	16	116848.0	False		
+NCBI571_2	NCBI571	PAAD	Visium	3	215208.0	False		
+NCBI572_0	NCBI572	PAAD	Visium	10	55472.0	False		
+NCBI572_1	NCBI572	PAAD	Visium	14	139968.0	False		
+NCBI572_2	NCBI572	PAAD	Visium	36	305840.0	False		
+NCBI572_3	NCBI572	PAAD	Visium	11	94232.0	False		
+NCBI572_4	NCBI572	PAAD	Visium	14	130432.0	False		
+NCBI628_0	NCBI628	EPM	Visium	24	240336.0	False		
+NCBI628_2	NCBI628	EPM	Visium	35	667570.0	False		
+NCBI628_4	NCBI628	EPM	Visium	3	85588.0	False		
+NCBI629_0	NCBI629	EPM	Visium	6	45274.0	False		
+NCBI629_1	NCBI629	EPM	Visium	28	220894.5	False		
+NCBI629_10	NCBI629	EPM	Visium	60	581056.0	True	262.0	
+NCBI629_11	NCBI629	EPM	Visium	7	73932.0	True	262.0	
+NCBI629_2	NCBI629	EPM	Visium	21	180424.0	False		
+NCBI629_3	NCBI629	EPM	Visium	6	62710.0	False		
+NCBI629_4	NCBI629	EPM	Visium	4	92518.0	False		
+NCBI629_6	NCBI629	EPM	Visium	8	75464.0	False		
+NCBI629_7	NCBI629	EPM	Visium	124	1036820.0	True	262.0	
+NCBI629_8	NCBI629	EPM	Visium	62	543844.0	True	262.0	
+NCBI629_9	NCBI629	EPM	Visium	68	603284.0	True	262.0	
+NCBI631_0	NCBI631	EPM	Visium	2	51714.0	False		
+NCBI633_0	NCBI633	EPM	Visium	16	130244.0	False		
+NCBI633_1	NCBI633	EPM	Visium	18	151278.0	False		
+NCBI633_2	NCBI633	EPM	Visium	9	57736.0	False		
+NCBI633_3	NCBI633	EPM	Visium	9	104493.0	False		
+NCBI633_4	NCBI633	EPM	Visium	16	141664.0	False		
+NCBI633_6	NCBI633	EPM	Visium	2	50760.0	False		
+NCBI637_2	NCBI637	EPM	Visium	15	118152.0	False		
+NCBI637_3	NCBI637	EPM	Visium	3	42688.0	False		
+NCBI637_4	NCBI637	EPM	Visium	12	105010.0	False		
+NCBI637_6	NCBI637	EPM	Visium	4	42872.0	False		
+NCBI637_7	NCBI637	EPM	Visium	15	163328.0	False		
+NCBI637_8	NCBI637	EPM	Visium	6	107496.0	False		
+NCBI637_9	NCBI637	EPM	Visium	8	60864.0	False		
+NCBI638_1	NCBI638	EPM	Visium	5	50072.0	False		
+NCBI638_2	NCBI638	EPM	Visium	30	308591.0	False		
+NCBI638_3	NCBI638	EPM	Visium	37	521132.5	False		
+NCBI641_0	NCBI641	EPM	Visium	17	119376.0	False		
+NCBI855_0	NCBI855	BLCA	Visium	28	283864.2	False		
+NCBI855_1	NCBI855	BLCA	Visium	9	82503.0	False		
+NCBI855_3	NCBI855	BLCA	Visium	2	333052.2	False		
+SPA0_0	SPA0	IDC	Spatial Transcriptomics	1	42246.0	False		
+SPA100_0	SPA100	IDC	Spatial Transcriptomics	6	426756.0	False		
+SPA100_1	SPA100	IDC	Spatial Transcriptomics	2	78514.0	False		
+SPA100_10	SPA100	IDC	Spatial Transcriptomics	7	210075.0	False		
+SPA100_11	SPA100	IDC	Spatial Transcriptomics	1	44286.0	False		
+SPA100_12	SPA100	IDC	Spatial Transcriptomics	7	229574.0	False		
+SPA100_13	SPA100	IDC	Spatial Transcriptomics	4	174718.0	False		
+SPA100_14	SPA100	IDC	Spatial Transcriptomics	6	280083.5	False		
+SPA100_15	SPA100	IDC	Spatial Transcriptomics	1	60998.0	False		
+SPA100_16	SPA100	IDC	Spatial Transcriptomics	10	431268.0	False		
+SPA100_2	SPA100	IDC	Spatial Transcriptomics	2	156300.0	False		
+SPA100_3	SPA100	IDC	Spatial Transcriptomics	1	63661.0	False		
+SPA100_4	SPA100	IDC	Spatial Transcriptomics	2	92053.0	False		
+SPA100_5	SPA100	IDC	Spatial Transcriptomics	10	505812.0	True	497.0	
+SPA100_6	SPA100	IDC	Spatial Transcriptomics	30	1059792.0	True	497.0	
+SPA100_7	SPA100	IDC	Spatial Transcriptomics	7	437648.0	True	497.0	
+SPA100_9	SPA100	IDC	Spatial Transcriptomics	3	63419.5	False		
+SPA101_0	SPA101	IDC	Spatial Transcriptomics	7	387482.5	False		
+SPA101_1	SPA101	IDC	Spatial Transcriptomics	1	68924.5	False		
+SPA101_10	SPA101	IDC	Spatial Transcriptomics	1	98790.2	False		
+SPA101_11	SPA101	IDC	Spatial Transcriptomics	3	260130.0	False		
+SPA101_12	SPA101	IDC	Spatial Transcriptomics	23	895698.0	False		
+SPA101_2	SPA101	IDC	Spatial Transcriptomics	25	1003267.5	True		
+SPA101_3	SPA101	IDC	Spatial Transcriptomics	7	291157.5	False		
+SPA101_4	SPA101	IDC	Spatial Transcriptomics	20	819451.8	False		
+SPA101_5	SPA101	IDC	Spatial Transcriptomics	1	84794.0	False		
+SPA101_6	SPA101	IDC	Spatial Transcriptomics	7	159135.0	False		
+SPA101_7	SPA101	IDC	Spatial Transcriptomics	13	470294.0	False		
+SPA101_8	SPA101	IDC	Spatial Transcriptomics	2	79085.5	False		
+SPA101_9	SPA101	IDC	Spatial Transcriptomics	13	629835.8	False		
+SPA102_0	SPA102	IDC	Spatial Transcriptomics	3	76172.0	False		
+SPA102_1	SPA102	IDC	Spatial Transcriptomics	1	316088.0	False		
+SPA102_10	SPA102	IDC	Spatial Transcriptomics	7	267492.0	True	110.0	
+SPA102_11	SPA102	IDC	Spatial Transcriptomics	16	582508.0	True	110.0	
+SPA102_12	SPA102	IDC	Spatial Transcriptomics	7	305600.0	True	110.0	
+SPA102_13	SPA102	IDC	Spatial Transcriptomics	22	806668.0	True	110.0	
+SPA102_14	SPA102	IDC	Spatial Transcriptomics	12	419136.0	True	110.0	
+SPA102_15	SPA102	IDC	Spatial Transcriptomics	5	289920.0	True	110.0	
+SPA102_2	SPA102	IDC	Spatial Transcriptomics	26	928416.0	True	110.0	
+SPA102_3	SPA102	IDC	Spatial Transcriptomics	21	947104.0	True	110.0	
+SPA102_4	SPA102	IDC	Spatial Transcriptomics	17	701568.0	True	110.0	
+SPA102_5	SPA102	IDC	Spatial Transcriptomics	19	664056.0	True	110.0	
+SPA102_6	SPA102	IDC	Spatial Transcriptomics	20	796212.0	True	110.0	
+SPA102_7	SPA102	IDC	Spatial Transcriptomics	23	930848.0	True	110.0	
+SPA102_8	SPA102	IDC	Spatial Transcriptomics	8	662500.0	True	110.0	
+SPA102_9	SPA102	IDC	Spatial Transcriptomics	14	557500.0	True	110.0	
+SPA103_0	SPA103	IDC	Spatial Transcriptomics	2	98526.0	False		
+SPA103_1	SPA103	IDC	Spatial Transcriptomics	41	1537372.0	True	176.0	
+SPA103_10	SPA103	IDC	Spatial Transcriptomics	10	342396.0	True	176.0	
+SPA103_11	SPA103	IDC	Spatial Transcriptomics	2	213896.0	True	176.0	
+SPA103_12	SPA103	IDC	Spatial Transcriptomics	3	106664.0	True	176.0	
+SPA103_13	SPA103	IDC	Spatial Transcriptomics	2	44976.0	False		
+SPA103_2	SPA103	IDC	Spatial Transcriptomics	22	740232.0	True	176.0	
+SPA103_3	SPA103	IDC	Spatial Transcriptomics	26	1113904.0	True	176.0	
+SPA103_4	SPA103	IDC	Spatial Transcriptomics	9	660212.0	True	176.0	
+SPA103_5	SPA103	IDC	Spatial Transcriptomics	11	404008.0	True	176.0	
+SPA103_6	SPA103	IDC	Spatial Transcriptomics	36	1502636.0	True	176.0	
+SPA103_7	SPA103	IDC	Spatial Transcriptomics	22	788528.0	True	176.0	
+SPA103_8	SPA103	IDC	Spatial Transcriptomics	7	374208.0	True	176.0	
+SPA103_9	SPA103	IDC	Spatial Transcriptomics	26	1231728.0	True	176.0	
+SPA104_0	SPA104	IDC	Spatial Transcriptomics	25	996776.0	True	119.0	
+SPA104_1	SPA104	IDC	Spatial Transcriptomics	22	836488.0	True	119.0	
+SPA104_11	SPA104	IDC	Spatial Transcriptomics	20	714044.0	True	119.0	
+SPA104_12	SPA104	IDC	Spatial Transcriptomics	22	913664.0	True	119.0	
+SPA104_13	SPA104	IDC	Spatial Transcriptomics	6	554376.0	True	119.0	
+SPA104_14	SPA104	IDC	Spatial Transcriptomics	22	848108.0	True	119.0	
+SPA104_15	SPA104	IDC	Spatial Transcriptomics	7	288116.0	True	119.0	
+SPA104_16	SPA104	IDC	Spatial Transcriptomics	11	390696.0	True	119.0	
+SPA104_2	SPA104	IDC	Spatial Transcriptomics	37	1388600.0	True	119.0	
+SPA104_3	SPA104	IDC	Spatial Transcriptomics	5	357352.0	True	119.0	
+SPA104_4	SPA104	IDC	Spatial Transcriptomics	23	1033056.0	True	119.0	
+SPA104_5	SPA104	IDC	Spatial Transcriptomics	5	247836.0	True	119.0	
+SPA104_6	SPA104	IDC	Spatial Transcriptomics	19	691704.0	True	119.0	
+SPA104_7	SPA104	IDC	Spatial Transcriptomics	9	481792.0	True	119.0	
+SPA104_8	SPA104	IDC	Spatial Transcriptomics	11	360076.0	True	119.0	
+SPA104_9	SPA104	IDC	Spatial Transcriptomics	20	785848.0	True	119.0	
+SPA108_0	SPA108	IDC	Spatial Transcriptomics	9	549240.0	True	29.0	
+SPA108_1	SPA108	IDC	Spatial Transcriptomics	7	255712.0	True	29.0	
+SPA108_10	SPA108	IDC	Spatial Transcriptomics	8	391800.0	True	29.0	
+SPA108_11	SPA108	IDC	Spatial Transcriptomics	9	521284.0	True	29.0	
+SPA108_12	SPA108	IDC	Spatial Transcriptomics	19	703352.0	True	29.0	
+SPA108_2	SPA108	IDC	Spatial Transcriptomics	17	1061176.0	True	29.0	
+SPA108_3	SPA108	IDC	Spatial Transcriptomics	18	774524.0	True	29.0	
+SPA108_4	SPA108	IDC	Spatial Transcriptomics	5	268532.0	True	29.0	
+SPA108_6	SPA108	IDC	Spatial Transcriptomics	9	610352.0	True	29.0	
+SPA108_7	SPA108	IDC	Spatial Transcriptomics	9	348952.0	True	29.0	
+SPA108_8	SPA108	IDC	Spatial Transcriptomics	18	790604.0	True	29.0	
+SPA108_9	SPA108	IDC	Spatial Transcriptomics	6	370496.0	True	29.0	
+SPA109_0	SPA109	IDC	Spatial Transcriptomics	8	306648.0	True	25.0	
+SPA109_1	SPA109	IDC	Spatial Transcriptomics	12	469700.0	True	25.0	
+SPA109_10	SPA109	IDC	Spatial Transcriptomics	8	280256.0	True	25.0	
+SPA109_11	SPA109	IDC	Spatial Transcriptomics	6	277368.0	True	25.0	
+SPA109_12	SPA109	IDC	Spatial Transcriptomics	5	383048.0	True	25.0	
+SPA109_2	SPA109	IDC	Spatial Transcriptomics	26	1081372.0	True	25.0	
+SPA109_3	SPA109	IDC	Spatial Transcriptomics	14	604864.0	True	25.0	
+SPA109_4	SPA109	IDC	Spatial Transcriptomics	12	428004.0	True	25.0	
+SPA109_5	SPA109	IDC	Spatial Transcriptomics	21	814228.0	True	25.0	
+SPA109_6	SPA109	IDC	Spatial Transcriptomics	14	1135796.0	True	25.0	
+SPA109_7	SPA109	IDC	Spatial Transcriptomics	5	225384.0	True	25.0	
+SPA109_8	SPA109	IDC	Spatial Transcriptomics	5	686036.0	True	25.0	
+SPA109_9	SPA109	IDC	Spatial Transcriptomics	8	381912.0	True	25.0	
+SPA110_0	SPA110	IDC	Spatial Transcriptomics	24	920304.0	True	24.0	
+SPA110_1	SPA110	IDC	Spatial Transcriptomics	6	230596.0	True	24.0	
+SPA110_10	SPA110	IDC	Spatial Transcriptomics	4	521100.0	True	24.0	
+SPA110_11	SPA110	IDC	Spatial Transcriptomics	12	479452.0	True	24.0	
+SPA110_12	SPA110	IDC	Spatial Transcriptomics	6	274964.0	True	24.0	
+SPA110_13	SPA110	IDC	Spatial Transcriptomics	12	422244.0	True	24.0	
+SPA110_14	SPA110	IDC	Spatial Transcriptomics	1	254680.0	True	24.0	
+SPA110_15	SPA110	IDC	Spatial Transcriptomics	6	240744.0	True	24.0	
+SPA110_2	SPA110	IDC	Spatial Transcriptomics	3	333012.0	True	24.0	
+SPA110_3	SPA110	IDC	Spatial Transcriptomics	10	340528.0	True	24.0	
+SPA110_4	SPA110	IDC	Spatial Transcriptomics	6	360160.0	True	24.0	
+SPA110_5	SPA110	IDC	Spatial Transcriptomics	23	1261688.0	True	24.0	
+SPA110_6	SPA110	IDC	Spatial Transcriptomics	11	431812.0	True	24.0	
+SPA110_7	SPA110	IDC	Spatial Transcriptomics	11	411648.0	True	24.0	
+SPA110_8	SPA110	IDC	Spatial Transcriptomics	7	347452.0	True	24.0	
+SPA110_9	SPA110	IDC	Spatial Transcriptomics	2	352136.0	True	24.0	
+SPA111_0	SPA111	IDC	Spatial Transcriptomics	2	86876.0	False		
+SPA111_1	SPA111	IDC	Spatial Transcriptomics	5	191684.0	False		
+SPA111_2	SPA111	IDC	Spatial Transcriptomics	1	50270.0	False		
+SPA111_3	SPA111	IDC	Spatial Transcriptomics	10	680852.0	True	163.0	
+SPA111_4	SPA111	IDC	Spatial Transcriptomics	8	307868.0	True	163.0	
+SPA112_0	SPA112	IDC	Spatial Transcriptomics	4	163350.0	False		
+SPA112_1	SPA112	IDC	Spatial Transcriptomics	5	210292.0	False		
+SPA112_2	SPA112	IDC	Spatial Transcriptomics	16	858384.0	False		
+SPA113_0	SPA113	IDC	Spatial Transcriptomics	4	126974.0	False		
+SPA113_1	SPA113	IDC	Spatial Transcriptomics	4	157392.0	False		
+SPA113_2	SPA113	IDC	Spatial Transcriptomics	11	483440.0	True	205.0	
+SPA113_3	SPA113	IDC	Spatial Transcriptomics	17	673324.0	True	205.0	
+SPA113_4	SPA113	IDC	Spatial Transcriptomics	14	491340.0	True	205.0	
+SPA113_6	SPA113	IDC	Spatial Transcriptomics	4	236576.0	True	205.0	
+SPA113_7	SPA113	IDC	Spatial Transcriptomics	5	410824.0	True	205.0	
+SPA114_0	SPA114	IDC	Spatial Transcriptomics	3	89562.0	False		
+SPA114_1	SPA114	IDC	Spatial Transcriptomics	4	103011.5	False		
+SPA114_2	SPA114	IDC	Spatial Transcriptomics	5	210484.0	False		
+SPA114_3	SPA114	IDC	Spatial Transcriptomics	1	103936.0	False		
+SPA114_4	SPA114	IDC	Spatial Transcriptomics	2	130164.0	False		
+SPA114_6	SPA114	IDC	Spatial Transcriptomics	1	60440.0	False		
+SPA115_0	SPA115	IDC	Spatial Transcriptomics	2	77729.5	False		
+SPA115_1	SPA115	IDC	Spatial Transcriptomics	2	94810.0	False		
+SPA115_2	SPA115	IDC	Spatial Transcriptomics	28	1076820.0	True	262.0	
+SPA115_3	SPA115	IDC	Spatial Transcriptomics	4	155376.0	True	262.0	
+SPA115_4	SPA115	IDC	Spatial Transcriptomics	1	120668.0	True	262.0	
+SPA115_5	SPA115	IDC	Spatial Transcriptomics	2	131512.0	True	262.0	
+SPA116_0	SPA116	IDC	Spatial Transcriptomics	22	822808.0	True	39.0	
+SPA116_1	SPA116	IDC	Spatial Transcriptomics	7	439720.0	True	39.0	
+SPA116_2	SPA116	IDC	Spatial Transcriptomics	6	212068.0	True	39.0	
+SPA116_3	SPA116	IDC	Spatial Transcriptomics	4	210944.0	True	39.0	
+SPA117_0	SPA117	IDC	Spatial Transcriptomics	12	561256.5	False		
+SPA117_2	SPA117	IDC	Spatial Transcriptomics	3	63114.0	False		
+SPA117_3	SPA117	IDC	Spatial Transcriptomics	2	101335.0	False		
+SPA118_0	SPA118	IDC	Spatial Transcriptomics	1	96483.5	False		
+SPA118_3	SPA118	IDC	Spatial Transcriptomics	2	488816.0	True	90.0	
+SPA119_0	SPA119	IDC	Spatial Transcriptomics	1	291064.2	False		
+SPA119_1	SPA119	IDC	Spatial Transcriptomics	17	591962.5	False		
+SPA119_2	SPA119	IDC	Spatial Transcriptomics	8	326649.0	False		
+SPA119_3	SPA119	IDC	Spatial Transcriptomics	1	62020.0	False		
+SPA119_4	SPA119	IDC	Spatial Transcriptomics	21	938357.8	False		
+SPA119_5	SPA119	IDC	Spatial Transcriptomics	2	91783.5	False		
+SPA119_6	SPA119	IDC	Spatial Transcriptomics	1	49072.0	False		
+SPA119_7	SPA119	IDC	Spatial Transcriptomics	1	36286.0	False		
+SPA120_1	SPA120	IDC	Spatial Transcriptomics	3	145882.5	False		
+SPA120_2	SPA120	IDC	Spatial Transcriptomics	26	1051840.0	True	89.0	
+SPA120_3	SPA120	IDC	Spatial Transcriptomics	5	234740.0	True	89.0	
+SPA120_5	SPA120	IDC	Spatial Transcriptomics	4	124564.0	False		
+SPA120_6	SPA120	IDC	Spatial Transcriptomics	6	343934.0	False		
+SPA120_7	SPA120	IDC	Spatial Transcriptomics	2	92650.5	False		
+SPA120_8	SPA120	IDC	Spatial Transcriptomics	22	813664.5	False		
+SPA120_9	SPA120	IDC	Spatial Transcriptomics	1	94002.0	False		
+SPA121_0	SPA121	IDC	Spatial Transcriptomics	5	218184.0	False		
+SPA121_1	SPA121	IDC	Spatial Transcriptomics	21	922060.0	True	133.0	
+SPA121_2	SPA121	IDC	Spatial Transcriptomics	9	453904.0	True	133.0	
+SPA121_3	SPA121	IDC	Spatial Transcriptomics	4	114284.0	True	133.0	
+SPA121_4	SPA121	IDC	Spatial Transcriptomics	4	120494.0	False		
+SPA121_5	SPA121	IDC	Spatial Transcriptomics	6	303886.0	False		
+SPA121_6	SPA121	IDC	Spatial Transcriptomics	2	83122.0	False		
+SPA121_7	SPA121	IDC	Spatial Transcriptomics	17	741300.0	True	165.0	
+SPA121_8	SPA121	IDC	Spatial Transcriptomics	8	284844.0	True	165.0	
+SPA121_9	SPA121	IDC	Spatial Transcriptomics	1	113304.0	False		
+SPA122_0	SPA122	IDC	Spatial Transcriptomics	2	56180.0	False		
+SPA122_1	SPA122	IDC	Spatial Transcriptomics	1	45148.0	False		
+SPA122_2	SPA122	IDC	Spatial Transcriptomics	1	66850.0	False		
+SPA122_3	SPA122	IDC	Spatial Transcriptomics	1	53196.0	False		
+SPA122_4	SPA122	IDC	Spatial Transcriptomics	1	34570.0	False		
+SPA122_5	SPA122	IDC	Spatial Transcriptomics	2	55418.0	False		
+SPA123_0	SPA123	IDC	Spatial Transcriptomics	3	84926.5	False		
+SPA123_1	SPA123	IDC	Spatial Transcriptomics	1	62336.0	False		
+SPA123_2	SPA123	IDC	Spatial Transcriptomics	2	42440.5	False		
+SPA124_0	SPA124	IDC	Spatial Transcriptomics	2	68094.0	False		
+SPA125_0	SPA125	IDC	Spatial Transcriptomics	1	53054.0	False		
+SPA125_1	SPA125	IDC	Spatial Transcriptomics	2	134740.0	False		
+SPA125_10	SPA125	IDC	Spatial Transcriptomics	7	288108.0	True	479.0	
+SPA125_11	SPA125	IDC	Spatial Transcriptomics	5	285320.0	True	479.0	
+SPA125_12	SPA125	IDC	Spatial Transcriptomics	4	204652.0	True	479.0	
+SPA125_13	SPA125	IDC	Spatial Transcriptomics	1	55422.0	False		
+SPA125_14	SPA125	IDC	Spatial Transcriptomics	2	74476.0	False		
+SPA125_15	SPA125	IDC	Spatial Transcriptomics	3	135262.0	False		
+SPA125_16	SPA125	IDC	Spatial Transcriptomics	7	309416.0	False		
+SPA125_17	SPA125	IDC	Spatial Transcriptomics	5	401064.0	True	656.0	
+SPA125_18	SPA125	IDC	Spatial Transcriptomics	8	452696.0	True	656.0	
+SPA125_19	SPA125	IDC	Spatial Transcriptomics	7	262276.0	True	656.0	
+SPA125_2	SPA125	IDC	Spatial Transcriptomics	11	506456.0	True	389.0	
+SPA125_3	SPA125	IDC	Spatial Transcriptomics	16	639216.0	True	389.0	
+SPA125_4	SPA125	IDC	Spatial Transcriptomics	9	374628.0	True	389.0	
+SPA125_5	SPA125	IDC	Spatial Transcriptomics	12	401904.0	True	389.0	
+SPA125_6	SPA125	IDC	Spatial Transcriptomics	1	90538.0	False		
+SPA125_7	SPA125	IDC	Spatial Transcriptomics	8	327944.0	True	479.0	
+SPA125_8	SPA125	IDC	Spatial Transcriptomics	37	1419232.0	True	479.0	
+SPA125_9	SPA125	IDC	Spatial Transcriptomics	31	1368704.0	True	479.0	
+SPA131_1	SPA131	IDC	Spatial Transcriptomics	3	140814.0	False		
+SPA131_2	SPA131	IDC	Spatial Transcriptomics	5	141598.0	False		
+SPA131_4	SPA131	IDC	Spatial Transcriptomics	1	59952.0	False		
+SPA131_5	SPA131	IDC	Spatial Transcriptomics	7	165446.0	False		
+SPA131_6	SPA131	IDC	Spatial Transcriptomics	3	96049.0	False		
+SPA132_0	SPA132	IDC	Spatial Transcriptomics	4	159068.0	False		
+SPA132_1	SPA132	IDC	Spatial Transcriptomics	5	174350.0	False		
+SPA132_2	SPA132	IDC	Spatial Transcriptomics	4	86146.0	False		
+SPA132_3	SPA132	IDC	Spatial Transcriptomics	13	953504.0	False		
+SPA133_0	SPA133	IDC	Spatial Transcriptomics	2	58501.5	False		
+SPA133_1	SPA133	IDC	Spatial Transcriptomics	2	150220.5	False		
+SPA133_2	SPA133	IDC	Spatial Transcriptomics	3	108812.0	False		
+SPA133_3	SPA133	IDC	Spatial Transcriptomics	3	56774.0	False		
+SPA133_4	SPA133	IDC	Spatial Transcriptomics	2	102979.0	False		
+SPA134_0	SPA134	IDC	Spatial Transcriptomics	3	119388.0	False		
+SPA134_1	SPA134	IDC	Spatial Transcriptomics	4	219698.0	False		
+SPA134_2	SPA134	IDC	Spatial Transcriptomics	1	99952.0	False		
+SPA135_0	SPA135	IDC	Spatial Transcriptomics	3	86052.0	False		
+SPA135_1	SPA135	IDC	Spatial Transcriptomics	1	73216.0	False		
+SPA135_2	SPA135	IDC	Spatial Transcriptomics	1	73826.0	False		
+SPA135_3	SPA135	IDC	Spatial Transcriptomics	9	370306.0	False		
+SPA135_4	SPA135	IDC	Spatial Transcriptomics	18	728862.0	False		
+SPA135_5	SPA135	IDC	Spatial Transcriptomics	1	76756.0	False		
+SPA135_6	SPA135	IDC	Spatial Transcriptomics	4	179840.0	False		
+SPA135_8	SPA135	IDC	Spatial Transcriptomics	3	268170.0	False		
+SPA136_0	SPA136	IDC	Spatial Transcriptomics	2	142268.0	False		
+SPA137_0	SPA137	IDC	Spatial Transcriptomics	1	42748.0	False		
+SPA137_1	SPA137	IDC	Spatial Transcriptomics	4	144386.0	False		
+SPA137_4	SPA137	IDC	Spatial Transcriptomics	7	400520.0	False		
+SPA138_0	SPA138	IDC	Spatial Transcriptomics	5	195716.0	False		
+SPA138_1	SPA138	IDC	Spatial Transcriptomics	2	134252.0	False		
+SPA138_2	SPA138	IDC	Spatial Transcriptomics	3	77464.0	False		
+SPA139_0	SPA139	IDC	Spatial Transcriptomics	3	165227.5	False		
+SPA139_2	SPA139	IDC	Spatial Transcriptomics	2	89356.0	False		
+SPA140_0	SPA140	IDC	Spatial Transcriptomics	1	80750.0	False		
+SPA141_0	SPA141	IDC	Spatial Transcriptomics	1	41766.0	False		
+SPA142_0	SPA142	IDC	Spatial Transcriptomics	3	102693.0	False		
+SPA142_1	SPA142	IDC	Spatial Transcriptomics	1	59024.0	False		
+SPA142_2	SPA142	IDC	Spatial Transcriptomics	1	94568.0	False		
+SPA143_0	SPA143	IDC	Spatial Transcriptomics	9	399965.0	False		
+SPA144_0	SPA144	IDC	Spatial Transcriptomics	1	67592.0	False		
+SPA144_1	SPA144	IDC	Spatial Transcriptomics	11	427906.0	False		
+SPA144_2	SPA144	IDC	Spatial Transcriptomics	4	244230.0	False		
+SPA145_0	SPA145	IDC	Spatial Transcriptomics	2	69492.0	False		
+SPA145_1	SPA145	IDC	Spatial Transcriptomics	15	801302.0	False		
+SPA146_0	SPA146	IDC	Spatial Transcriptomics	15	564142.0	False		
+SPA146_1	SPA146	IDC	Spatial Transcriptomics	10	431955.5	False		
+SPA147_0	SPA147	IDC	Spatial Transcriptomics	11	434103.0	False		
+SPA147_1	SPA147	IDC	Spatial Transcriptomics	5	82792.0	False		
+SPA147_2	SPA147	IDC	Spatial Transcriptomics	3	194026.0	False		
+SPA147_3	SPA147	IDC	Spatial Transcriptomics	2	64012.0	False		
+SPA148_1	SPA148	IDC	Spatial Transcriptomics	3	535632.0	True	65.0	
+SPA148_2	SPA148	IDC	Spatial Transcriptomics	18	792892.0	True	65.0	
+SPA148_3	SPA148	IDC	Spatial Transcriptomics	4	147800.0	True	65.0	
+SPA1_0	SPA1	IDC	Spatial Transcriptomics	5	112514.0	False		
+SPA3_1	SPA3	IDC	Spatial Transcriptomics	3	120836.0	False		
+SPA3_2	SPA3	IDC	Spatial Transcriptomics	3	107796.0	False		
+SPA54_0	SPA54	IDC	Spatial Transcriptomics	1	46678.0	False		BC23377 (single-patient C5 dominance)
+SPA54_1	SPA54	IDC	Spatial Transcriptomics	10	394398.0	False		BC23377 (single-patient C5 dominance)
+SPA54_10	SPA54	IDC	Spatial Transcriptomics	7	279292.0	True	285.0	BC23377 (single-patient C5 dominance)
+SPA54_11	SPA54	IDC	Spatial Transcriptomics	15	467912.0	True	285.0	BC23377 (single-patient C5 dominance)
+SPA54_12	SPA54	IDC	Spatial Transcriptomics	6	258784.0	True	285.0	BC23377 (single-patient C5 dominance)
+SPA54_13	SPA54	IDC	Spatial Transcriptomics	8	377660.0	True	285.0	BC23377 (single-patient C5 dominance)
+SPA54_14	SPA54	IDC	Spatial Transcriptomics	5	464040.0	True	285.0	BC23377 (single-patient C5 dominance)
+SPA54_15	SPA54	IDC	Spatial Transcriptomics	1	331088.0	True	285.0	BC23377 (single-patient C5 dominance)
+SPA54_16	SPA54	IDC	Spatial Transcriptomics	6	288960.0	True	285.0	BC23377 (single-patient C5 dominance)
+SPA54_17	SPA54	IDC	Spatial Transcriptomics	7	245868.0	True	285.0	BC23377 (single-patient C5 dominance)
+SPA54_18	SPA54	IDC	Spatial Transcriptomics	7	319708.0	True	285.0	BC23377 (single-patient C5 dominance)
+SPA54_2	SPA54	IDC	Spatial Transcriptomics	2	45642.0	False		BC23377 (single-patient C5 dominance)
+SPA54_3	SPA54	IDC	Spatial Transcriptomics	5	288514.0	False		BC23377 (single-patient C5 dominance)
+SPA54_4	SPA54	IDC	Spatial Transcriptomics	1	48326.0	False		BC23377 (single-patient C5 dominance)
+SPA54_5	SPA54	IDC	Spatial Transcriptomics	18	604558.0	False		BC23377 (single-patient C5 dominance)
+SPA54_6	SPA54	IDC	Spatial Transcriptomics	2	49030.0	False		BC23377 (single-patient C5 dominance)
+SPA54_7	SPA54	IDC	Spatial Transcriptomics	1	58364.0	False		BC23377 (single-patient C5 dominance)
+SPA54_8	SPA54	IDC	Spatial Transcriptomics	36	1528556.0	True	285.0	BC23377 (single-patient C5 dominance)
+SPA54_9	SPA54	IDC	Spatial Transcriptomics	8	1129856.0	True	285.0	BC23377 (single-patient C5 dominance)
+SPA55_0	SPA55	IDC	Spatial Transcriptomics	18	712964.0	False		BC23377 (single-patient C5 dominance)
+SPA55_10	SPA55	IDC	Spatial Transcriptomics	15	609160.0	True	326.0	BC23377 (single-patient C5 dominance)
+SPA55_11	SPA55	IDC	Spatial Transcriptomics	11	496420.0	True	326.0	BC23377 (single-patient C5 dominance)
+SPA55_12	SPA55	IDC	Spatial Transcriptomics	14	505948.0	True	326.0	BC23377 (single-patient C5 dominance)
+SPA55_13	SPA55	IDC	Spatial Transcriptomics	8	285500.0	True	326.0	BC23377 (single-patient C5 dominance)
+SPA55_14	SPA55	IDC	Spatial Transcriptomics	2	342572.0	True	326.0	BC23377 (single-patient C5 dominance)
+SPA55_15	SPA55	IDC	Spatial Transcriptomics	11	435380.0	True	326.0	BC23377 (single-patient C5 dominance)
+SPA55_16	SPA55	IDC	Spatial Transcriptomics	11	451340.0	True	326.0	BC23377 (single-patient C5 dominance)
+SPA55_17	SPA55	IDC	Spatial Transcriptomics	1	59084.0	True	326.0	BC23377 (single-patient C5 dominance)
+SPA55_2	SPA55	IDC	Spatial Transcriptomics	2	81380.0	False		BC23377 (single-patient C5 dominance)
+SPA55_3	SPA55	IDC	Spatial Transcriptomics	2	59156.0	False		BC23377 (single-patient C5 dominance)
+SPA55_4	SPA55	IDC	Spatial Transcriptomics	2	186844.0	False		BC23377 (single-patient C5 dominance)
+SPA55_5	SPA55	IDC	Spatial Transcriptomics	10	382238.0	False		BC23377 (single-patient C5 dominance)
+SPA55_6	SPA55	IDC	Spatial Transcriptomics	1	137460.0	False		BC23377 (single-patient C5 dominance)
+SPA55_7	SPA55	IDC	Spatial Transcriptomics	1	38776.0	False		BC23377 (single-patient C5 dominance)
+SPA55_8	SPA55	IDC	Spatial Transcriptomics	2	291878.0	False		BC23377 (single-patient C5 dominance)
+SPA55_9	SPA55	IDC	Spatial Transcriptomics	18	1258028.0	True	326.0	BC23377 (single-patient C5 dominance)
+SPA56_0	SPA56	IDC	Spatial Transcriptomics	1	52521.0	False		BC23377 (single-patient C5 dominance)
+SPA56_10	SPA56	IDC	Spatial Transcriptomics	14	815096.0	True	282.0	BC23377 (single-patient C5 dominance)
+SPA56_11	SPA56	IDC	Spatial Transcriptomics	15	596952.0	True	282.0	BC23377 (single-patient C5 dominance)
+SPA56_12	SPA56	IDC	Spatial Transcriptomics	4	209004.0	True	282.0	BC23377 (single-patient C5 dominance)
+SPA56_13	SPA56	IDC	Spatial Transcriptomics	4	152748.0	True	282.0	BC23377 (single-patient C5 dominance)
+SPA56_14	SPA56	IDC	Spatial Transcriptomics	1	364008.0	True	282.0	BC23377 (single-patient C5 dominance)
+SPA56_15	SPA56	IDC	Spatial Transcriptomics	11	467484.0	True	282.0	BC23377 (single-patient C5 dominance)
+SPA56_16	SPA56	IDC	Spatial Transcriptomics	8	298756.0	True	282.0	BC23377 (single-patient C5 dominance)
+SPA56_17	SPA56	IDC	Spatial Transcriptomics	2	402244.0	True	282.0	BC23377 (single-patient C5 dominance)
+SPA56_18	SPA56	IDC	Spatial Transcriptomics	7	262020.0	True	282.0	BC23377 (single-patient C5 dominance)
+SPA56_19	SPA56	IDC	Spatial Transcriptomics	4	136472.0	True	282.0	BC23377 (single-patient C5 dominance)
+SPA56_2	SPA56	IDC	Spatial Transcriptomics	6	122910.0	False		BC23377 (single-patient C5 dominance)
+SPA56_20	SPA56	IDC	Spatial Transcriptomics	5	458090.0	False		BC23377 (single-patient C5 dominance)
+SPA56_3	SPA56	IDC	Spatial Transcriptomics	2	99396.0	False		BC23377 (single-patient C5 dominance)
+SPA56_4	SPA56	IDC	Spatial Transcriptomics	5	235812.0	False		BC23377 (single-patient C5 dominance)
+SPA56_5	SPA56	IDC	Spatial Transcriptomics	1	77254.0	False		BC23377 (single-patient C5 dominance)
+SPA56_6	SPA56	IDC	Spatial Transcriptomics	2	107080.0	False		BC23377 (single-patient C5 dominance)
+SPA56_7	SPA56	IDC	Spatial Transcriptomics	1	59790.0	False		BC23377 (single-patient C5 dominance)
+SPA56_9	SPA56	IDC	Spatial Transcriptomics	21	924920.0	True	282.0	BC23377 (single-patient C5 dominance)
+SPA57_0	SPA57	IDC	Spatial Transcriptomics	2	146796.0	False		
+SPA57_1	SPA57	IDC	Spatial Transcriptomics	33	1969300.0	True	229.0	
+SPA57_2	SPA57	IDC	Spatial Transcriptomics	40	1698120.0	True	229.0	
+SPA57_3	SPA57	IDC	Spatial Transcriptomics	8	861128.0	True	229.0	
+SPA57_4	SPA57	IDC	Spatial Transcriptomics	10	499268.0	True	229.0	
+SPA57_5	SPA57	IDC	Spatial Transcriptomics	6	205078.0	False		
+SPA58_0	SPA58	IDC	Spatial Transcriptomics	1	59230.0	False		
+SPA58_1	SPA58	IDC	Spatial Transcriptomics	29	1201900.0	True	207.0	
+SPA58_2	SPA58	IDC	Spatial Transcriptomics	12	513064.0	True	207.0	
+SPA58_3	SPA58	IDC	Spatial Transcriptomics	38	1924440.0	True	207.0	
+SPA58_4	SPA58	IDC	Spatial Transcriptomics	18	692636.0	True	207.0	
+SPA58_5	SPA58	IDC	Spatial Transcriptomics	3	499696.0	True	207.0	
+SPA58_6	SPA58	IDC	Spatial Transcriptomics	8	407616.0	True	207.0	
+SPA58_7	SPA58	IDC	Spatial Transcriptomics	24	1026396.0	True	207.0	
+SPA58_8	SPA58	IDC	Spatial Transcriptomics	7	237832.0	True	207.0	
+SPA59_1	SPA59	IDC	Spatial Transcriptomics	2	686844.0	True	160.0	
+SPA59_2	SPA59	IDC	Spatial Transcriptomics	12	437684.0	True	160.0	
+SPA59_3	SPA59	IDC	Spatial Transcriptomics	15	597972.0	True	160.0	
+SPA59_4	SPA59	IDC	Spatial Transcriptomics	14	663700.0	True	160.0	
+SPA59_5	SPA59	IDC	Spatial Transcriptomics	4	182632.0	True	160.0	
+SPA59_6	SPA59	IDC	Spatial Transcriptomics	8	296180.0	True	160.0	
+SPA59_7	SPA59	IDC	Spatial Transcriptomics	6	391357.0	False		
+SPA59_8	SPA59	IDC	Spatial Transcriptomics	9	518435.8	False		
+SPA60_0	SPA60	IDC	Spatial Transcriptomics	8	251490.5	False		
+SPA60_1	SPA60	IDC	Spatial Transcriptomics	20	863080.5	False		
+SPA61_1	SPA61	IDC	Spatial Transcriptomics	15	660137.0	False		
+SPA62_0	SPA62	IDC	Spatial Transcriptomics	7	312833.5	False		
+SPA63_0	SPA63	IDC	Spatial Transcriptomics	3	93526.0	False		
+SPA63_1	SPA63	IDC	Spatial Transcriptomics	1	77647.5	False		
+SPA63_2	SPA63	IDC	Spatial Transcriptomics	18	791978.0	False		
+SPA64_0	SPA64	IDC	Spatial Transcriptomics	2	81440.5	False		
+SPA64_1	SPA64	IDC	Spatial Transcriptomics	8	263156.0	False		
+SPA64_2	SPA64	IDC	Spatial Transcriptomics	11	450170.0	False		
+SPA64_3	SPA64	IDC	Spatial Transcriptomics	4	261718.0	False		
+SPA64_4	SPA64	IDC	Spatial Transcriptomics	2	57582.0	False		
+SPA64_5	SPA64	IDC	Spatial Transcriptomics	5	233072.0	False		
+SPA64_6	SPA64	IDC	Spatial Transcriptomics	3	130480.0	False		
+SPA64_7	SPA64	IDC	Spatial Transcriptomics	1	42696.0	False		
+SPA64_8	SPA64	IDC	Spatial Transcriptomics	3	128728.0	False		
+SPA65_0	SPA65	IDC	Spatial Transcriptomics	2	63992.0	False		
+SPA65_1	SPA65	IDC	Spatial Transcriptomics	4	99826.0	False		
+SPA65_10	SPA65	IDC	Spatial Transcriptomics	2	67302.0	False		
+SPA65_11	SPA65	IDC	Spatial Transcriptomics	7	288232.0	False		
+SPA65_12	SPA65	IDC	Spatial Transcriptomics	1	55926.5	False		
+SPA65_2	SPA65	IDC	Spatial Transcriptomics	3	95006.0	False		
+SPA65_3	SPA65	IDC	Spatial Transcriptomics	3	128948.0	False		
+SPA65_4	SPA65	IDC	Spatial Transcriptomics	2	120835.5	False		
+SPA65_5	SPA65	IDC	Spatial Transcriptomics	1	48057.0	False		
+SPA65_6	SPA65	IDC	Spatial Transcriptomics	2	65732.0	False		
+SPA65_7	SPA65	IDC	Spatial Transcriptomics	1	49362.0	False		
+SPA65_8	SPA65	IDC	Spatial Transcriptomics	3	82556.5	False		
+SPA65_9	SPA65	IDC	Spatial Transcriptomics	1	55354.0	False		
+SPA66_0	SPA66	IDC	Spatial Transcriptomics	1	183618.0	False		
+SPA68_0	SPA68	IDC	Spatial Transcriptomics	3	147607.8	False		
+SPA69_0	SPA69	IDC	Spatial Transcriptomics	57	2534908.0	True	127.0	
+SPA69_1	SPA69	IDC	Spatial Transcriptomics	21	972404.0	True	127.0	
+SPA69_10	SPA69	IDC	Spatial Transcriptomics	21	964764.0	True	127.0	
+SPA69_2	SPA69	IDC	Spatial Transcriptomics	8	321900.0	True	127.0	
+SPA69_3	SPA69	IDC	Spatial Transcriptomics	5	232668.0	True	127.0	
+SPA69_4	SPA69	IDC	Spatial Transcriptomics	4	321732.0	True	127.0	
+SPA69_5	SPA69	IDC	Spatial Transcriptomics	25	1036908.0	True	127.0	
+SPA69_6	SPA69	IDC	Spatial Transcriptomics	11	521280.0	True	127.0	
+SPA69_7	SPA69	IDC	Spatial Transcriptomics	24	825996.0	True	127.0	
+SPA69_8	SPA69	IDC	Spatial Transcriptomics	8	298072.0	True	127.0	
+SPA69_9	SPA69	IDC	Spatial Transcriptomics	10	436060.0	True	127.0	
+SPA70_0	SPA70	IDC	Spatial Transcriptomics	2	63420.0	False		
+SPA70_10	SPA70	IDC	Spatial Transcriptomics	15	950418.0	False		
+SPA70_2	SPA70	IDC	Spatial Transcriptomics	2	71806.0	False		
+SPA70_3	SPA70	IDC	Spatial Transcriptomics	35	1340428.0	True	298.0	
+SPA70_4	SPA70	IDC	Spatial Transcriptomics	42	1679216.0	True	298.0	
+SPA70_5	SPA70	IDC	Spatial Transcriptomics	13	614580.0	True	298.0	
+SPA70_6	SPA70	IDC	Spatial Transcriptomics	13	643468.0	True	298.0	
+SPA70_7	SPA70	IDC	Spatial Transcriptomics	10	497088.0	True	298.0	
+SPA70_8	SPA70	IDC	Spatial Transcriptomics	8	505572.0	True	298.0	
+SPA70_9	SPA70	IDC	Spatial Transcriptomics	3	156868.0	True	298.0	
+SPA71_0	SPA71	IDC	Spatial Transcriptomics	25	1034260.0	True	120.0	
+SPA71_1	SPA71	IDC	Spatial Transcriptomics	19	809620.0	True	120.0	
+SPA71_10	SPA71	IDC	Spatial Transcriptomics	7	285244.0	True	120.0	
+SPA71_11	SPA71	IDC	Spatial Transcriptomics	19	1160848.0	True	120.0	
+SPA71_12	SPA71	IDC	Spatial Transcriptomics	15	616640.0	True	120.0	
+SPA71_13	SPA71	IDC	Spatial Transcriptomics	8	330372.0	True	120.0	
+SPA71_2	SPA71	IDC	Spatial Transcriptomics	5	216012.0	True	120.0	
+SPA71_3	SPA71	IDC	Spatial Transcriptomics	6	552692.0	True	120.0	
+SPA71_4	SPA71	IDC	Spatial Transcriptomics	6	294188.0	True	120.0	
+SPA71_5	SPA71	IDC	Spatial Transcriptomics	13	540768.0	True	120.0	
+SPA71_6	SPA71	IDC	Spatial Transcriptomics	21	754628.0	True	120.0	
+SPA71_7	SPA71	IDC	Spatial Transcriptomics	34	1472620.0	True	120.0	
+SPA71_8	SPA71	IDC	Spatial Transcriptomics	16	654408.0	True	120.0	
+SPA71_9	SPA71	IDC	Spatial Transcriptomics	15	585296.0	True	120.0	
+SPA72_0	SPA72	IDC	Spatial Transcriptomics	3	76832.0	False		
+SPA72_1	SPA72	IDC	Spatial Transcriptomics	2	62572.0	False		
+SPA72_2	SPA72	IDC	Spatial Transcriptomics	7	264532.0	False		
+SPA72_3	SPA72	IDC	Spatial Transcriptomics	1	113764.0	False		
+SPA72_4	SPA72	IDC	Spatial Transcriptomics	2	70378.0	False		
+SPA72_5	SPA72	IDC	Spatial Transcriptomics	1	70252.0	False		
+SPA73_0	SPA73	IDC	Spatial Transcriptomics	1	60256.0	False		
+SPA73_1	SPA73	IDC	Spatial Transcriptomics	2	50756.0	False		
+SPA73_2	SPA73	IDC	Spatial Transcriptomics	6	312860.0	False		
+SPA73_3	SPA73	IDC	Spatial Transcriptomics	4	140740.5	False		
+SPA74_1	SPA74	IDC	Spatial Transcriptomics	6	281264.0	False		
+SPA74_10	SPA74	IDC	Spatial Transcriptomics	8	400364.0	True	397.0	
+SPA74_2	SPA74	IDC	Spatial Transcriptomics	7	340218.0	False		
+SPA74_3	SPA74	IDC	Spatial Transcriptomics	1	173940.0	False		
+SPA74_4	SPA74	IDC	Spatial Transcriptomics	2	66669.5	False		
+SPA74_5	SPA74	IDC	Spatial Transcriptomics	2	68372.0	False		
+SPA74_8	SPA74	IDC	Spatial Transcriptomics	10	415952.0	True	397.0	
+SPA74_9	SPA74	IDC	Spatial Transcriptomics	5	506800.0	True	397.0	
+SPA78_0	SPA78	IDC	Spatial Transcriptomics	8	196726.0	False		
+SPA78_1	SPA78	IDC	Spatial Transcriptomics	1	46974.0	False		
+SPA78_2	SPA78	IDC	Spatial Transcriptomics	1	70588.0	False		
+SPA79_0	SPA79	IDC	Spatial Transcriptomics	1	50783.0	False		
+SPA79_1	SPA79	IDC	Spatial Transcriptomics	2	114661.1	False		
+SPA79_2	SPA79	IDC	Spatial Transcriptomics	1	56143.0	False		
+SPA80_0	SPA80	IDC	Spatial Transcriptomics	7	230456.8	False		
+SPA80_1	SPA80	IDC	Spatial Transcriptomics	2	49449.5	False		
+SPA81_1	SPA81	IDC	Spatial Transcriptomics	2	110316.0	False		
+SPA81_10	SPA81	IDC	Spatial Transcriptomics	7	297224.0	True	127.0	
+SPA81_11	SPA81	IDC	Spatial Transcriptomics	3	124712.0	True	127.0	
+SPA81_12	SPA81	IDC	Spatial Transcriptomics	3	118760.0	False		
+SPA81_14	SPA81	IDC	Spatial Transcriptomics	6	227215.5	False		
+SPA81_16	SPA81	IDC	Spatial Transcriptomics	1	76514.0	False		
+SPA81_17	SPA81	IDC	Spatial Transcriptomics	1	40282.0	False		
+SPA81_18	SPA81	IDC	Spatial Transcriptomics	12	530656.0	True	233.0	
+SPA81_19	SPA81	IDC	Spatial Transcriptomics	5	202512.0	True	233.0	
+SPA81_2	SPA81	IDC	Spatial Transcriptomics	3	109779.5	False		
+SPA81_20	SPA81	IDC	Spatial Transcriptomics	1	170860.0	True	233.0	
+SPA81_21	SPA81	IDC	Spatial Transcriptomics	4	182400.0	True	233.0	
+SPA81_22	SPA81	IDC	Spatial Transcriptomics	1	134044.0	False		
+SPA81_3	SPA81	IDC	Spatial Transcriptomics	1	64082.0	False		
+SPA81_4	SPA81	IDC	Spatial Transcriptomics	4	124391.6	False		
+SPA81_5	SPA81	IDC	Spatial Transcriptomics	1	45420.0	False		
+SPA81_6	SPA81	IDC	Spatial Transcriptomics	3	161653.5	False		
+SPA81_7	SPA81	IDC	Spatial Transcriptomics	13	525151.0	False		
+SPA81_8	SPA81	IDC	Spatial Transcriptomics	8	301620.0	True	127.0	
+SPA81_9	SPA81	IDC	Spatial Transcriptomics	8	366776.0	True	127.0	
+SPA82_0	SPA82	IDC	Spatial Transcriptomics	3	76416.0	False		
+SPA82_1	SPA82	IDC	Spatial Transcriptomics	2	87902.0	False		
+SPA82_10	SPA82	IDC	Spatial Transcriptomics	6	146124.0	False		
+SPA82_11	SPA82	IDC	Spatial Transcriptomics	2	142109.5	False		
+SPA82_12	SPA82	IDC	Spatial Transcriptomics	1	38720.0	False		
+SPA82_13	SPA82	IDC	Spatial Transcriptomics	21	822560.0	False		
+SPA82_14	SPA82	IDC	Spatial Transcriptomics	3	160444.0	False		
+SPA82_15	SPA82	IDC	Spatial Transcriptomics	3	104982.0	False		
+SPA82_16	SPA82	IDC	Spatial Transcriptomics	11	476413.5	False		
+SPA82_17	SPA82	IDC	Spatial Transcriptomics	2	251494.0	False		
+SPA82_2	SPA82	IDC	Spatial Transcriptomics	3	127550.0	False		
+SPA82_3	SPA82	IDC	Spatial Transcriptomics	10	331960.5	False		
+SPA82_4	SPA82	IDC	Spatial Transcriptomics	4	112792.0	False		
+SPA82_5	SPA82	IDC	Spatial Transcriptomics	2	49386.0	False		
+SPA82_6	SPA82	IDC	Spatial Transcriptomics	2	118808.0	False		
+SPA82_7	SPA82	IDC	Spatial Transcriptomics	15	518851.0	False		
+SPA82_8	SPA82	IDC	Spatial Transcriptomics	2	95833.5	False		
+SPA82_9	SPA82	IDC	Spatial Transcriptomics	5	242368.0	False		
+SPA83_0	SPA83	IDC	Spatial Transcriptomics	9	414806.5	False		
+SPA83_1	SPA83	IDC	Spatial Transcriptomics	4	120074.0	False		
+SPA83_10	SPA83	IDC	Spatial Transcriptomics	20	740151.5	False		
+SPA83_11	SPA83	IDC	Spatial Transcriptomics	1	53342.0	False		
+SPA83_12	SPA83	IDC	Spatial Transcriptomics	17	666226.8	False		
+SPA83_13	SPA83	IDC	Spatial Transcriptomics	2	139398.0	False		
+SPA83_2	SPA83	IDC	Spatial Transcriptomics	1	70938.5	False		
+SPA83_3	SPA83	IDC	Spatial Transcriptomics	2	119854.0	False		
+SPA83_5	SPA83	IDC	Spatial Transcriptomics	2	102301.0	False		
+SPA83_6	SPA83	IDC	Spatial Transcriptomics	2	55704.5	False		
+SPA83_7	SPA83	IDC	Spatial Transcriptomics	6	319610.5	False		
+SPA83_8	SPA83	IDC	Spatial Transcriptomics	6	150860.0	False		
+SPA83_9	SPA83	IDC	Spatial Transcriptomics	7	288723.5	False		
+SPA84_0	SPA84	IDC	Spatial Transcriptomics	3	110640.0	False		
+SPA84_1	SPA84	IDC	Spatial Transcriptomics	1	80382.0	False		
+SPA84_2	SPA84	IDC	Spatial Transcriptomics	13	635668.0	True	177.0	
+SPA84_3	SPA84	IDC	Spatial Transcriptomics	12	443476.0	True	177.0	
+SPA84_5	SPA84	IDC	Spatial Transcriptomics	24	1287692.0	True	211.0	
+SPA84_6	SPA84	IDC	Spatial Transcriptomics	13	534492.0	True	211.0	
+SPA84_7	SPA84	IDC	Spatial Transcriptomics	11	437884.0	True	211.0	
+SPA84_8	SPA84	IDC	Spatial Transcriptomics	1	563768.0	True	211.0	
+SPA84_9	SPA84	IDC	Spatial Transcriptomics	15	744548.0	True	211.0	
+SPA85_0	SPA85	IDC	Spatial Transcriptomics	2	41856.0	False		
+SPA85_1	SPA85	IDC	Spatial Transcriptomics	2	78780.0	False		
+SPA85_2	SPA85	IDC	Spatial Transcriptomics	20	833490.0	False		
+SPA85_4	SPA85	IDC	Spatial Transcriptomics	17	840376.0	True	296.0	
+SPA85_5	SPA85	IDC	Spatial Transcriptomics	9	314508.0	True	296.0	
+SPA85_6	SPA85	IDC	Spatial Transcriptomics	5	943388.0	True	296.0	
+SPA86_0	SPA86	IDC	Spatial Transcriptomics	3	89596.0	False		
+SPA86_1	SPA86	IDC	Spatial Transcriptomics	2	89180.0	False		
+SPA86_2	SPA86	IDC	Spatial Transcriptomics	19	818088.0	True	109.0	
+SPA86_3	SPA86	IDC	Spatial Transcriptomics	16	674708.0	True	109.0	
+SPA86_5	SPA86	IDC	Spatial Transcriptomics	48	2765624.0	True	141.0	
+SPA86_6	SPA86	IDC	Spatial Transcriptomics	6	267496.0	True	141.0	
+SPA86_7	SPA86	IDC	Spatial Transcriptomics	15	889312.0	True	141.0	
+SPA87_0	SPA87	IDC	Spatial Transcriptomics	3	73676.0	False		
+SPA87_1	SPA87	IDC	Spatial Transcriptomics	1	49922.0	False		
+SPA87_10	SPA87	IDC	Spatial Transcriptomics	4	146094.0	False		
+SPA87_11	SPA87	IDC	Spatial Transcriptomics	1	72844.0	False		
+SPA87_12	SPA87	IDC	Spatial Transcriptomics	3	191968.0	False		
+SPA87_13	SPA87	IDC	Spatial Transcriptomics	4	201328.0	False		
+SPA87_2	SPA87	IDC	Spatial Transcriptomics	3	125744.5	False		
+SPA87_3	SPA87	IDC	Spatial Transcriptomics	1	55758.0	False		
+SPA87_4	SPA87	IDC	Spatial Transcriptomics	1	71384.0	False		
+SPA87_6	SPA87	IDC	Spatial Transcriptomics	2	64201.0	False		
+SPA87_7	SPA87	IDC	Spatial Transcriptomics	1	55694.0	False		
+SPA87_8	SPA87	IDC	Spatial Transcriptomics	4	112906.5	False		
+SPA87_9	SPA87	IDC	Spatial Transcriptomics	9	306161.0	False		
+SPA88_0	SPA88	IDC	Spatial Transcriptomics	2	48452.0	False		
+SPA88_1	SPA88	IDC	Spatial Transcriptomics	1	40608.0	False		
+SPA88_2	SPA88	IDC	Spatial Transcriptomics	1	54840.5	False		
+SPA88_3	SPA88	IDC	Spatial Transcriptomics	1	39753.5	False		
+SPA88_4	SPA88	IDC	Spatial Transcriptomics	4	159191.0	False		
+SPA88_5	SPA88	IDC	Spatial Transcriptomics	4	103033.0	False		
+SPA89_1	SPA89	IDC	Spatial Transcriptomics	2	78112.0	False		
+SPA89_2	SPA89	IDC	Spatial Transcriptomics	9	295918.0	False		
+SPA89_3	SPA89	IDC	Spatial Transcriptomics	12	453148.0	False		
+SPA89_4	SPA89	IDC	Spatial Transcriptomics	3	78140.0	False		
+SPA89_5	SPA89	IDC	Spatial Transcriptomics	1	264960.0	False		
+SPA90_0	SPA90	IDC	Spatial Transcriptomics	4	135502.0	False		
+SPA90_1	SPA90	IDC	Spatial Transcriptomics	2	69280.0	False		
+SPA90_2	SPA90	IDC	Spatial Transcriptomics	1	36372.0	False		
+SPA90_3	SPA90	IDC	Spatial Transcriptomics	8	286026.0	False		
+SPA90_4	SPA90	IDC	Spatial Transcriptomics	4	95450.0	False		
+SPA90_5	SPA90	IDC	Spatial Transcriptomics	2	56276.0	False		
+SPA90_6	SPA90	IDC	Spatial Transcriptomics	4	245066.0	False		
+SPA90_8	SPA90	IDC	Spatial Transcriptomics	2	80774.0	False		
+SPA92_0	SPA92	IDC	Spatial Transcriptomics	4	163980.5	False		
+SPA92_1	SPA92	IDC	Spatial Transcriptomics	4	120370.0	False		
+SPA92_2	SPA92	IDC	Spatial Transcriptomics	2	49278.0	False		
+TENX13_10	TENX13	IDC	Visium	18	152428.0	True	1929.0	
+TENX13_11	TENX13	IDC	Visium	35	287640.0	False		
+TENX13_12	TENX13	IDC	Visium	4	42848.0	False		
+TENX13_6	TENX13	IDC	Visium	6	61368.0	False		
+TENX13_7	TENX13	IDC	Visium	47	392488.0	True	1929.0	
+TENX13_8	TENX13	IDC	Visium	85	711976.0	True	1929.0	
+TENX13_9	TENX13	IDC	Visium	102	908592.0	True	1929.0	
+TENX14_14	TENX14	IDC	Visium	5	48968.0	False		
+TENX14_15	TENX14	IDC	Visium	7	50056.0	False		
+TENX14_16	TENX14	IDC	Visium	10	95752.0	False		
+TENX14_17	TENX14	IDC	Visium	20	203464.0	False		
+TENX14_18	TENX14	IDC	Visium	141	1267880.0	True	1964.0	
+TENX14_19	TENX14	IDC	Visium	95	824044.0	True	1964.0	
+TENX14_20	TENX14	IDC	Visium	55	484892.0	True	1964.0	
+TENX28_2	TENX28	COAD	Visium	14	100164.0	False		
+TENX28_3	TENX28	COAD	Visium	7	118434.0	False		
+TENX49_0	TENX49	COAD	Visium	8	89970.0	False		
+TENX50_0	TENX50	CESC	Visium	6	50860.0	False		
+TENX50_1	TENX50	CESC	Visium	10	73372.0	False		
+TENX50_10	TENX50	CESC	Visium	11	291500.0	True	480.0	
+TENX50_11	TENX50	CESC	Visium	51	473888.0	True	480.0	
+TENX50_2	TENX50	CESC	Visium	5	50318.0	False		
+TENX50_3	TENX50	CESC	Visium	9	87704.0	False		
+TENX50_4	TENX50	CESC	Visium	8	63084.0	False		
+TENX50_5	TENX50	CESC	Visium	23	214474.0	False		
+TENX50_6	TENX50	CESC	Visium	12	320016.0	False		
+TENX50_7	TENX50	CESC	Visium	19	177888.0	False		
+TENX50_8	TENX50	CESC	Visium	21	213058.0	False		
+TENX50_9	TENX50	CESC	Visium	85	981860.0	True	480.0	
+ZEN42_2	ZEN42	COAD	Visium	5	103488.0	False		
+ZEN42_4	ZEN42	COAD	Visium	7	81642.0	False		
+ZEN46_10	ZEN46	COAD	Visium	3	142488.0	False		
+ZEN46_11	ZEN46	COAD	Visium	3	79608.0	False		
+ZEN46_2	ZEN46	COAD	Visium	6	58304.0	False		
+ZEN46_3	ZEN46	COAD	Visium	11	96000.0	False		
+ZEN46_5	ZEN46	COAD	Visium	2	58680.0	False		
+ZEN46_6	ZEN46	COAD	Visium	13	135672.0	False		
+ZEN46_7	ZEN46	COAD	Visium	3	63000.0	False		
+ZEN46_9	ZEN46	COAD	Visium	8	81400.0	False		
+ZEN47_11	ZEN47	COAD	Visium	7	99352.0	False		
+ZEN47_2	ZEN47	COAD	Visium	22	848260.0	True	321.0	
+ZEN47_7	ZEN47	COAD	Visium	7	227720.0	False		
+ZEN49_0	ZEN49	READ	Visium	32	283576.0	False		
+ZEN49_1	ZEN49	READ	Visium	28	255808.0	False		
+ZEN49_2	ZEN49	READ	Visium	18	217392.0	False		
+ZEN49_3	ZEN49	READ	Visium	6	67304.0	False		
+SPA51_0	SPA51	IDC	Spatial Transcriptomics	6	291008.0	False		BC23803 (single-patient dominance)
+SPA51_3	SPA51	IDC	Spatial Transcriptomics	1	54568.0	False		BC23803 (single-patient dominance)
+SPA51_5	SPA51	IDC	Spatial Transcriptomics	17	690780.0	True	181.0	BC23803 (single-patient dominance)
+SPA51_6	SPA51	IDC	Spatial Transcriptomics	26	942588.0	True	181.0	BC23803 (single-patient dominance)
+SPA51_7	SPA51	IDC	Spatial Transcriptomics	12	578216.0	True	181.0	BC23803 (single-patient dominance)
+SPA51_8	SPA51	IDC	Spatial Transcriptomics	9	684648.0	True	181.0	BC23803 (single-patient dominance)
+SPA51_9	SPA51	IDC	Spatial Transcriptomics	6	220956.0	True	181.0	BC23803 (single-patient dominance)
+SPA51_10	SPA51	IDC	Spatial Transcriptomics	14	502732.0	True	181.0	BC23803 (single-patient dominance)
+SPA51_12	SPA51	IDC	Spatial Transcriptomics	6	227020.0	True	181.0	BC23803 (single-patient dominance)
+SPA52_0	SPA52	IDC	Spatial Transcriptomics	10	435348.0	True	157.0	BC23803 (single-patient dominance)
+SPA52_1	SPA52	IDC	Spatial Transcriptomics	13	573284.0	True	157.0	BC23803 (single-patient dominance)
+SPA52_3	SPA52	IDC	Spatial Transcriptomics	2	89702.0	False		BC23803 (single-patient dominance)
+SPA52_4	SPA52	IDC	Spatial Transcriptomics	3	178056.0	False		BC23803 (single-patient dominance)
+SPA53_0	SPA53	IDC	Spatial Transcriptomics	16	627672.0	True	154.0	BC23803 (single-patient dominance)
+SPA53_1	SPA53	IDC	Spatial Transcriptomics	37	1470432.0	True	154.0	BC23803 (single-patient dominance)
+SPA53_2	SPA53	IDC	Spatial Transcriptomics	3	401160.0	True	154.0	BC23803 (single-patient dominance)
+SPA53_3	SPA53	IDC	Spatial Transcriptomics	20	835476.0	True	154.0	BC23803 (single-patient dominance)
+SPA53_4	SPA53	IDC	Spatial Transcriptomics	5	244740.0	True	154.0	BC23803 (single-patient dominance)
+SPA53_5	SPA53	IDC	Spatial Transcriptomics	13	557824.0	True	154.0	BC23803 (single-patient dominance)
+SPA53_6	SPA53	IDC	Spatial Transcriptomics	4	505016.0	True	154.0	BC23803 (single-patient dominance)
+SPA53_9	SPA53	IDC	Spatial Transcriptomics	1	248384.0	True	154.0	BC23803 (single-patient dominance)
+SPA53_11	SPA53	IDC	Spatial Transcriptomics	9	380708.0	True	154.0	BC23803 (single-patient dominance)

@@ -1,0 +1,24 @@
+Loaded pre-extracted expression: (1211, 33)
+C1 genes: 13/13  C4 genes: 9/9
+Joined: (1210, 8), events=171
+PAM50: {'LumA': 432, 'LumB': 194, 'Basal': 140, 'Normal': 117, 'Her2': 66}
+Saved TCGA_BRCA_TLS_survival.png
+Saved TCGA_BRCA_C4_stratified.png
+
+Running Cox multivariate...
+Cox N=927, events=135 (PFI endpoint)
+
+=== TCGA-BRCA SURVIVAL SUMMARY ===
+N=1210, events=171
+
+KM log-rank p-values:
+  C1 — All TCGA-BRCA              p=0.00146  **
+  C4 — All TCGA-BRCA              p=0.96311  ns
+  C1 — LumB                       p=0.01255  *
+  C1 — LumA                       p=0.41198  ns
+  C1 — Basal                      p=0.10061  ns
+  C4 — LumB                       p=0.54426  ns
+
+Cox multivariate (adj age+stage+PAM50, ref=LumA):
+  C1  HR=0.915 [0.844–0.992] p=0.0307
+  C4  HR=0.996 [0.886–1.121] p=0.9529

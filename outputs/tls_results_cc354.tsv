@@ -1,0 +1,498 @@
+sample_id	oncotree_code	tissue	n_tls	n_gc	status	flag	duplicate_of
+INT1	SCCRCC	Kidney	1	0	ok		
+INT10	SCCRCC	Kidney	3	0	ok		
+INT11	SCCRCC	Kidney	0	0	ok		
+INT12	SCCRCC	Kidney	0	0	ok		
+INT13	SCCRCC	Kidney	0	0	ok		
+INT14	SCCRCC	Kidney	1	0	ok		
+INT15	SCCRCC	Kidney	0	0	ok		
+INT16	SCCRCC	Kidney	0	0	ok		
+INT17	SCCRCC	Kidney	2	0	ok		
+INT18	SCCRCC	Kidney	0	0	ok		
+INT19	SCCRCC	Kidney	1	0	ok		
+INT2	SCCRCC	Kidney	4	0	ok		
+INT20	SCCRCC	Kidney	0	0	ok		
+INT21	SCCRCC	Kidney	0	0	ok		
+INT22	SCCRCC	Kidney	0	0	ok		
+INT23	SCCRCC	Kidney	0	0	ok		
+INT24	SCCRCC	Kidney	2	0	ok		
+INT25	PRAD	Prostate	0	0	ok		
+INT26	PRAD	Prostate	0	0	ok		
+INT27	PRAD	Prostate	0	0	ok		
+INT28	PRAD	Prostate	0	0	ok		
+INT3	SCCRCC	Kidney	17	0	ok		
+INT35	PRAD	Prostate	0	0	ok		
+INT4	SCCRCC	Kidney	1	0	ok		
+INT5	SCCRCC	Kidney	1	0	ok		
+INT6	SCCRCC	Kidney	3	0	ok		
+INT7	SCCRCC	Kidney	0	0	ok		
+INT8	SCCRCC	Kidney	0	0	ok		
+INT9	SCCRCC	Kidney	1	0	ok		
+MEND139		Prostate	1	0	ok		
+MEND140		Prostate	4	0	ok		
+MEND141		Prostate	2	0	ok		
+MEND142		Prostate	25	0	ok		
+MEND143		Prostate	0	0	ok		
+MEND144		Prostate	0	0	ok		
+MEND145		Prostate	0	0	ok		
+MEND146		Prostate	0	0	ok		
+MEND147		Prostate	1	0	ok		
+MEND148		Prostate	0	0	ok		
+MEND149		Prostate	4	0	ok		
+MEND150		Prostate	0	0	ok		
+MEND151		Prostate	3	0	ok		
+MEND152		Prostate	0	0	ok		
+MEND153		Prostate	0	0	ok		
+MEND154		Prostate	9	0	ok		
+MEND156		Prostate	19	4	ok		
+MEND157		Prostate	8	1	ok		
+MEND158		Prostate	2	0	ok		
+MEND159		Prostate	6	2	ok		
+MEND160		Prostate	9	0	ok		
+MEND161		Prostate	5	0	ok		
+MEND162		Prostate	0	0	ok		
+MEND17		prostate	0	0	ok		
+MEND29		ileum	10	0	ok		
+MEND30		ileum	11	0	ok		
+MEND37		skin	1	0	ok		
+MEND38		skin	0	0	ok		
+MEND39		skin	1	0	ok		
+MEND40		skin	0	0	ok		
+MEND59		prostate	0	0	ok		
+MEND60		prostate	0	0	ok		
+MEND61		prostate	4	0	ok		
+MEND62		prostate	0	0	ok		
+MEND63		brain	1	0	ok		
+MEND64		brain	0	0	ok		
+MEND65		brain	0	0	ok		
+MEND66		brain	0	0	ok		
+MEND67		brain	0	0	ok		
+MEND68		brain	0	0	ok		
+MEND90			0	0	ok		
+MISC13		Trachea	0	0	ok		
+MISC14		Trachea	0	0	ok		
+MISC15		Bronchi	0	0	ok		
+MISC16		Bronchi	0	0	ok		
+MISC17		Bronchi	2	1	ok		
+MISC18		Parenchyma	0	0	ok		
+MISC19		Parenchyma	5	1	ok		
+MISC20		Parenchyma	0	0	ok		
+MISC21		Parenchyma	0	0	ok		
+MISC22		Bronchi	0	0	ok		
+MISC25		Parenchyma	0	0	ok		
+MISC26		Bronchi	5	1	ok		
+MISC29		Bronchi	7	1	ok		
+MISC30		Bronchi	0	0	ok		
+MISC31		Bronchi	0	0	ok		
+MISC32		Trachea	1	0	ok		
+MISC33	COAD	Colon	0	0	ok		
+MISC34	COAD	Colon	0	0	ok		
+MISC35	COAD	Colon	0	0	ok		
+MISC36	COAD	Colon	0	0	ok		
+MISC37	COAD	Colon	0	0	ok		
+MISC38	COAD	Colon	0	0	ok		
+MISC39	COAD	Colon	0	0	ok		
+MISC40	COAD	Colon	0	0	ok		
+MISC41	COAD	Colon	0	0	ok		
+MISC43	COAD	Colon	0	0	ok		
+MISC45	COAD	Colon	0	0	ok		
+MISC46	COAD	Colon	0	0	ok		
+MISC47	COAD	Colon	0	0	ok		
+MISC48	COAD	Colon	0	0	ok		
+MISC49	COAD	Colon	0	0	ok		
+MISC50	COAD	Colon	0	0	ok		
+MISC51	COAD	Colon	0	0	ok		
+MISC56	COAD	Colon	0	0	ok		
+MISC58	COAD	Colon	0	0	ok		
+MISC59		Colon	0	0	ok		
+MISC60		Colon	0	0	ok		
+MISC61		Colon	0	0	ok		
+MISC62	COAD	Colon	0	0	ok		
+MISC63	COAD	Colon	0	0	ok		
+MISC64	COAD	Colon	0	0	ok		
+MISC65	COAD	Colon	0	0	ok		
+MISC66	COAD	Colon	0	0	ok		
+MISC67	COAD	Colon	0	0	ok		
+MISC68	COAD	Colon	0	0	ok		
+MISC69	COAD	Colon	0	0	ok		
+MISC70	COAD	Colon	0	0	ok		
+MISC71	COAD	Colon	0	0	ok		
+MISC72	COAD	Colon	0	0	ok		
+MISC73	COAD	Colon	0	0	ok		
+NCBI1	UNKNOWN	Cervical tissue	0	0	ok		
+NCBI2	UNKNOWN	Cervical tissue	0	0	ok		
+NCBI4		Cervical tissue	0	0	ok		
+NCBI460		Skin	0	0	ok		
+NCBI461		Skin	0	0	ok		
+NCBI462		Skin	0	0	ok		
+NCBI463		Skin	0	0	ok		
+NCBI464		Skin	0	0	ok		
+NCBI467		Skin	0	0	ok		
+NCBI468		Skin	0	0	ok		
+NCBI469		Skin	0	0	ok		
+NCBI470		Skin	0	0	ok		
+NCBI471		Skin	0	0	ok		
+NCBI472		Skin	0	0	ok		
+NCBI475		Skin	5	2	ok		
+NCBI476		Skin	1	0	ok		
+NCBI479		Skin	1	0	ok		
+NCBI487		Skin	0	0	ok		
+NCBI488		Skin	0	0	ok		
+NCBI504		Skin	0	0	ok		
+NCBI562		Kidney	4	0	ok		
+NCBI563		Kidney	6	0	ok		
+NCBI565		Kidney	3	0	ok		
+NCBI569	PAAD	Pancreas	0	0	ok		
+NCBI570	PAAD	Pancreas	0	0	ok		
+NCBI571	PAAD	Pancreas	3	0	ok		
+NCBI572	PAAD	Pancreas	5	0	ok		
+NCBI573		Placenta	0	0	ok		
+NCBI574		Placenta	0	0	ok		
+NCBI596		Kidney	1	0	ok		
+NCBI597		Kidney	0	0	ok		
+NCBI601	BLCA	Bladder	2	4	ok	gc_exceeds_tls	
+NCBI602	BLCA	Bladder	0	0	ok		
+NCBI618	LIHB	Liver	0	0	ok		
+NCBI619	LIHB	Liver	0	0	ok		
+NCBI620	LIHB	Liver	0	0	ok		
+NCBI621	LIHB	Liver	0	0	ok		
+NCBI622	LIHB	Liver	0	0	ok		
+NCBI623	LIHB	Liver	0	0	ok		
+NCBI624	LIHB	Liver	0	0	ok		
+NCBI625	LIHB	Liver	0	0	ok		
+NCBI626	LIHB	Liver	0	0	ok		
+NCBI627	LIHB	Liver	0	0	ok		
+NCBI628	EPM	Brain	6	3	ok		
+NCBI629	EPM	Brain	8	0	ok		
+NCBI630	EPM	Brain	2	3	ok	gc_exceeds_tls	
+NCBI631	EPM	Brain	1	0	ok		
+NCBI632	EPM	Brain	0	0	ok		
+NCBI633	EPM	Brain	8	3	ok		
+NCBI634	EPM	Brain	6	7	ok	gc_exceeds_tls	
+NCBI635	EPM	Brain	1	0	ok		
+NCBI636	EPM	Brain	0	0	ok		
+NCBI637	EPM	Brain	10	0	ok		
+NCBI638	EPM	Brain	5	0	ok		
+NCBI640	EPM	Brain	0	0	ok		
+NCBI641	EPM	Brain	1	0	ok		
+NCBI642	HCC	Liver	0	0	ok		
+NCBI643	HCC	Liver	0	0	ok		
+NCBI653		Brain	0	0	ok		
+NCBI654		Brain	0	0	ok		
+NCBI655		Brain	0	0	ok		
+NCBI656		Brain	0	0	ok		
+NCBI657		Brain	0	0	ok		
+NCBI672		Liver	0	0	ok		
+NCBI673		Liver	0	0	ok		
+NCBI674		Liver	0	0	ok		
+NCBI675		Liver	1	0	ok		
+NCBI681	IDC	Lymph node	2	0	ok		
+NCBI682	IDC	Lymph node	12	0	ok		
+NCBI683	IDC	Lymph node	1	0	ok		
+NCBI684	IDC	Lymph node	1	0	ok		
+NCBI685		Colon	1	0	ok		
+NCBI686		Colon	11	2	ok		
+NCBI687	SKCM	Skin	2	0	ok		
+NCBI688	SKCM	Skin	2	0	ok		
+NCBI689	SKCM	Skin	1	0	ok		
+NCBI690		Endometriosis	0	0	ok		
+NCBI691		Endometriosis	4	0	ok		
+NCBI708		Kidney	3	0	ok		
+NCBI727		Lung	9	2	ok		
+NCBI728		Colon	5	0	ok		
+NCBI762	CSCC	Skin	0	0	ok		
+NCBI763	CSCC	Skin	0	0	ok		
+NCBI764	CSCC	Skin	0	0	ok		
+NCBI771	ACYC	Lacrimal gland	0	0	ok		
+NCBI776	IDC	Breast	0	0	ok		
+NCBI783	IDC	Breast	0	0	ok	xenium	
+NCBI784	IDC	Breast	0	0	ok	xenium	
+NCBI785	IDC	Breast	2	0	ok	xenium	
+NCBI788		Placenta	0	0	ok		
+NCBI789		Placenta	4	2	ok		
+NCBI790		Placenta	0	0	ok		
+NCBI793	PRAD	Prostate	0	0	ok		
+NCBI799		Hippocampal	2	2	ok		
+NCBI801		Hippocampal	1	1	ok		
+NCBI814		Placenta	0	0	ok		
+NCBI820		Placenta	0	0	ok		
+NCBI821		Placenta	0	0	ok		
+NCBI824		Placenta	0	0	ok		
+NCBI825		Placenta	0	0	ok		
+NCBI826		NonAE liver explant	4	0	ok		
+NCBI827		NonAE liver explant	0	0	ok		
+NCBI831		APAP liver explant	5	0	ok		
+NCBI832		APAP liver explant	5	0	ok		
+NCBI833		APAP liver explant	4	0	ok		
+NCBI834		Liver	1	0	ok		
+NCBI835		Liver	1	1	ok		
+NCBI836		Liver	1	0	ok		
+NCBI837		Liver	2	0	ok		
+NCBI838		Liver	1	0	ok		
+NCBI839		Liver	1	0	ok		
+NCBI840		Liver	1	0	ok		
+NCBI841		Liver	1	0	ok		
+NCBI855	BLCA	Bladder	4	1	ok		
+NCBI856		Lung	0	0	ok	xenium	
+NCBI857		Lung	0	0	ok	xenium	
+NCBI858		Lung	0	0	ok	xenium	
+NCBI859		Lung	0	0	ok	xenium	
+NCBI860		Lung	0	0	ok	xenium	
+NCBI861		Lung	0	0	ok	xenium	
+NCBI864		Lung	0	0	ok	xenium	
+NCBI865		Lung	0	0	ok	xenium	
+NCBI866		Lung	0	0	ok	xenium	
+NCBI867		Lung	0	0	ok	xenium	
+NCBI870		Lung	0	0	ok	xenium	
+NCBI873		Lung	0	0	ok	xenium	
+NCBI875		Lung	0	0	ok	xenium	
+NCBI876		Lung	0	0	ok	xenium	
+NCBI879		Lung	0	0	ok	xenium	
+NCBI880		Lung	0	0	ok	xenium	
+NCBI881		Lung	0	0	ok	xenium	
+NCBI882		Lung	0	0	ok	xenium	
+NCBI883		Lung	0	0	ok	xenium	
+NCBI884		Lung	0	0	ok	xenium	
+SPA0	IDC	Breast	1	0	ok		
+SPA1	IDC	Breast	1	0	ok		
+SPA100	IDC	Breast	15	0	ok		
+SPA101	IDC	Breast	14	0	ok		
+SPA102	IDC	Breast	3	0	ok		
+SPA103	IDC	Breast	3	0	ok		
+SPA104	IDC	Breast	1	0	ok		
+SPA105	IDC	Breast	0	0	ok		
+SPA106	IDC	Breast	0	0	ok		
+SPA107	IDC	Breast	0	0	ok		
+SPA108	IDC	Breast	1	0	ok		
+SPA109	IDC	Breast	1	1	ok		
+SPA110	IDC	Breast	1	0	ok		
+SPA111	IDC	Breast	4	0	ok		
+SPA112	IDC	Breast	5	1	ok		
+SPA113	IDC	Breast	4	1	ok		
+SPA114	IDC	Breast	9	1	ok		
+SPA115	IDC	Breast	4	0	ok		
+SPA116	IDC	Breast	2	0	ok		
+SPA117	IDC	Breast	4	0	ok		
+SPA118	IDC	Breast	2	0	ok		
+SPA119	IDC	Breast	11	0	ok		
+SPA120	IDC	Breast	10	0	ok		
+SPA121	IDC	Breast	9	0	ok		
+SPA122	IDC	Breast	7	0	ok		
+SPA123	IDC	Breast	3	0	ok		
+SPA124	IDC	Breast	2	0	ok		
+SPA125	IDC	Breast	10	0	ok		
+SPA126	IDC	Breast	15	0	ok		SPA100
+SPA127	IDC	Breast	14	0	ok		SPA101
+SPA128	IDC	Breast	3	0	ok		SPA102
+SPA129	IDC	Breast	3	0	ok		SPA103
+SPA130	IDC	Breast	1	0	ok		SPA104
+SPA131	IDC	Breast	7	0	ok		
+SPA132	IDC	Breast	4	0	ok		
+SPA133	IDC	Breast	5	0	ok		
+SPA134	IDC	Breast	3	0	ok		
+SPA135	IDC	Breast	9	0	ok		
+SPA136	IDC	Breast	1	0	ok		
+SPA137	IDC	Breast	6	0	ok		
+SPA138	IDC	Breast	3	0	ok		
+SPA139	IDC	Breast	3	0	ok		
+SPA140	IDC	Breast	1	0	ok		
+SPA141	IDC	Breast	2	0	ok		
+SPA142	IDC	Breast	3	0	ok		
+SPA143	IDC	Breast	1	0	ok		
+SPA144	IDC	Breast	3	0	ok		
+SPA145	IDC	Breast	2	0	ok		
+SPA146	IDC	Breast	2	0	ok		
+SPA147	IDC	Breast	4	0	ok		
+SPA148	IDC	Breast	3	0	ok		
+SPA149	IDC	Breast	1	0	ok		
+SPA150	IDC	Breast	0	0	ok		
+SPA151	IDC	Breast	1	0	ok		
+SPA152	IDC	Breast	2	0	ok		
+SPA153	IDC	Breast	1	0	ok		
+SPA154	IDC	Breast	1	0	ok		
+SPA2	IDC	Breast	2	0	ok		
+SPA3	IDC	Breast	3	0	ok		
+SPA51	IDC	Breast	7	0	ok		
+SPA52	IDC	Breast	3	0	ok		
+SPA53	IDC	Breast	1	1	ok		
+SPA54	IDC	Breast	9	1	ok		
+SPA55	IDC	Breast	10	0	ok		
+SPA56	IDC	Breast	12	2	ok		
+SPA57	IDC	Breast	3	1	ok		
+SPA58	IDC	Breast	2	1	ok		
+SPA59	IDC	Breast	6	0	ok		
+SPA60	IDC	Breast	3	0	ok		
+SPA61	IDC	Breast	3	0	ok		
+SPA62	IDC	Breast	1	0	ok		
+SPA63	IDC	Breast	3	0	ok		
+SPA64	IDC	Breast	9	0	ok		
+SPA65	IDC	Breast	15	0	ok		
+SPA66	IDC	Breast	1	0	ok		
+SPA67	IDC	Breast	1	0	ok		
+SPA68	IDC	Breast	3	0	ok		
+SPA69	IDC	Breast	2	0	ok		
+SPA70	IDC	Breast	6	0	ok		
+SPA71	IDC	Breast	1	0	ok		
+SPA72	IDC	Breast	6	0	ok		
+SPA73	IDC	Breast	5	0	ok		
+SPA74	IDC	Breast	9	0	ok		
+SPA75	IDC	Breast	1	5	ok	gc_exceeds_tls	
+SPA76	IDC	Breast	1	3	ok	gc_exceeds_tls	
+SPA77	IDC	Breast	2	3	ok	gc_exceeds_tls	
+SPA78	IDC	Breast	3	0	ok		
+SPA79	IDC	Breast	3	0	ok		
+SPA80	IDC	Breast	2	0	ok		
+SPA81	IDC	Breast	17	0	ok		
+SPA82	IDC	Breast	18	0	ok		
+SPA83	IDC	Breast	15	0	ok		
+SPA84	IDC	Breast	5	0	ok		
+SPA85	IDC	Breast	5	0	ok		
+SPA86	IDC	Breast	4	0	ok		
+SPA87	IDC	Breast	15	0	ok		
+SPA88	IDC	Breast	6	0	ok		
+SPA89	IDC	Breast	6	0	ok		
+SPA90	IDC	Breast	12	0	ok		
+SPA91	IDC	Breast	1	0	ok		
+SPA92	IDC	Breast	3	0	ok		
+SPA93	IDC	Breast	11	0	ok		SPA119
+SPA94	IDC	Breast	10	0	ok		SPA120
+SPA95	IDC	Breast	9	0	ok		SPA121
+SPA96	IDC	Breast	7	0	ok		SPA122
+SPA97	IDC	Breast	3	0	ok		SPA123
+SPA98	IDC	Breast	2	0	ok		SPA124
+SPA99	IDC	Breast	10	0	ok		SPA125
+TENX105	PRCC	Kidney	0	0	ok	xenium	
+TENX106		Kidney	0	0	ok	xenium	
+TENX110		Whole organism	6	1	ok	xenium	
+TENX111	COAD	Colon	0	0	ok	xenium	
+TENX114		Colon	0	0	ok	xenium	
+TENX115	SKCM	Skin	0	0	ok	xenium	
+TENX116	PAAD	Pancreas	0	0	ok	xenium	
+TENX117	SKCM	Skin	0	0	ok	xenium	
+TENX118	LUAD	Lung	1	0	ok	xenium	
+TENX119		Heart	0	0	ok	xenium	
+TENX120	HCC	Liver	0	0	ok	xenium	
+TENX121		Liver	0	0	ok	xenium	
+TENX122		Skin	0	0	ok	xenium	
+TENX123		Skin	1	0	ok	xenium	
+TENX124		Tonsil	6	4	ok	xenium	
+TENX125		Tonsil	8	4	ok	xenium	
+TENX126	PAAD	Pancreas	0	0	ok	xenium	
+TENX127		Colon	3	0	ok	xenium	
+TENX128	COAD	Colon	0	0	ok		
+TENX129		Intestine	0	0	ok		
+TENX13	IDC	Breast	10	3	ok		
+TENX131		Brain	0	0	ok		
+TENX132		Femur bone	0	0	ok	xenium	
+TENX133		Bone marrow	0	0	ok	xenium	
+TENX134	ALL	Bone marrow	4	3	ok	xenium	
+TENX135		Bone	0	0	ok	xenium	
+TENX136		Bone	0	0	ok	xenium	
+TENX137		Bone	1	0	ok	xenium	
+TENX138	GBM	Brain	9	6	ok	xenium	
+TENX139	COADREAD	Bowel	0	0	ok	xenium	
+TENX14	IDC	Breast	14	4	ok		
+TENX140	PAAD	Pancreas	2	0	ok	xenium	
+TENX141	LUAD	Lung	0	0	ok	xenium	
+TENX142	HGSOC	Ovary	0	0	ok	xenium	
+TENX143		Lymph node (Left Axilla)	0	0	ok	xenium	
+TENX144		Pancreas	0	0	ok		
+TENX145		Embryo	0	0	ok		
+TENX146		Kidney	2	0	ok		
+TENX148	COAD	Colon	0	0	ok	xenium	
+TENX149	COAD	Colon	0	0	ok	xenium	
+TENX152	COAD	Colon	0	0	ok		
+TENX153		Colon	0	0	ok		
+TENX154	COAD	Colon	0	0	ok		
+TENX155	COAD	Colon	0	0	ok		
+TENX156	COAD	Colon	0	0	ok		
+TENX157	PRAD	Prostate	0	0	ok	xenium	
+TENX158	SKCM	Skin	0	0	ok	xenium	
+TENX159			0	0	ok	xenium	
+TENX160	HGSOC	Ovary	0	0	ok		
+TENX161	IDC	Breast	0	0	ok		
+TENX162	IDC	Breast	0	0	ok		
+TENX163	LUAD	Lung	0	0	ok		
+TENX164		Tonsil	0	0	ok		
+TENX165		Brain	0	0	ok		
+TENX166		Brain	0	0	ok		
+TENX167		Lung	0	0	ok		
+TENX168	LUAD	Lung	0	0	ok		
+TENX169	LUAD	Lung	0	0	ok		
+TENX170	LUAD	Lung	0	0	ok		
+TENX171	LUAD	Lung	0	0	ok		
+TENX172		Tonsil	0	0	ok		
+TENX173		Kidney	0	0	ok		
+TENX174	PRAD	Prostate	0	0	ok		
+TENX175	COAD	Colon	0	0	ok		
+TENX176		Embryo	0	0	ok		
+TENX177	CCOV	Ovary	0	0	ok		
+TENX178		Prelaryngeal lymph node	0	0	ok		
+TENX179	PDAC	Pancreas	0	0	ok		
+TENX180	IDC	Breast	0	0	ok		
+TENX181		Brain	0	0	ok		
+TENX182	SOC	Ovary	0	0	ok		
+TENX183	SOC	Ovary	0	0	ok		
+TENX184	SOC	Ovary	0	0	ok		
+TENX185	SOC	Ovary	0	0	ok		
+TENX186		Kidney	0	0	ok		
+TENX187	HGSOC	Ovary	0	0	ok		
+TENX188	TODO	Cervix	0	0	ok		
+TENX189	LUAD	Lung	0	0	ok		
+TENX190	LUAD	Lung	0	0	ok		
+TENX191	IDC	Breast	0	0	ok	xenium	
+TENX192	IDC	Breast	0	0	ok	xenium	
+TENX193	IDC	Breast	0	0	ok	xenium	
+TENX194		Breast	0	0	ok	xenium	
+TENX195	IDC	Breast	0	0	ok	xenium	
+TENX196	IDC	Breast	0	0	ok	xenium	
+TENX197	IDC	Breast	0	0	ok	xenium	
+TENX198	IDC	Breast	0	0	ok	xenium	
+TENX199	IDC	Breast	0	0	ok	xenium	
+TENX200	IDC	Breast	0	0	ok	xenium	
+TENX201	IDC	Breast	0	0	ok	xenium	
+TENX202	IDC	Breast	0	0	ok	xenium	
+TENX23	ILC	Breast	9	17	ok	gc_exceeds_tls	
+TENX24	ILC	Breast	0	0	ok		
+TENX28	COAD	Colon	5	1	ok		
+TENX29	COAD	Large intestine	5	1	ok		TENX28
+TENX30	GBM	Brain	0	0	ok		
+TENX31	GBM	Brain	0	0	ok		
+TENX39	IDC	Breast	0	0	ok		
+TENX40	PRAD	Prostate	0	0	ok		
+TENX46	PRAD	Prostate	0	0	ok		
+TENX49	COAD	Large intestine	1	0	ok		
+TENX50	CESC	Cervix	10	0	ok		
+TENX51	SOC	Ovary	0	0	ok		
+TENX53	IDC	Breast	6	0	ok		
+TENX62	LUSC	Lung	0	0	ok		
+TENX65	HGSOC	Ovary	0	0	ok		
+TENX70	COADREAD	Colorectal	0	0	ok		
+TENX71			0	0	ok		
+TENX72	LNET	Lung	0	0	ok		
+TENX73	GBM	Brain	0	0	ok		
+TENX89	COAD	Colon	0	0	ok		
+TENX90	COAD	Colon	0	0	ok		
+TENX91	COAD	Colon	0	0	ok		
+TENX92	COAD	Colon	0	0	ok		
+TENX94	ILC	Breast	1	0	ok	xenium	
+TENX95	IDC	Breast	1	0	ok	xenium	
+TENX96	ILC	Breast	1	0	ok	xenium	
+TENX97	IDC	Breast	1	0	ok	xenium	
+TENX98	IDC	Breast	1	0	ok	xenium	
+TENX99	IDC	Breast	0	0	ok	xenium	
+ZEN36	READ	Rectum	1	0	ok		
+ZEN39	COAD	Cecum	0	0	ok		
+ZEN40	READ	Rectum	0	0	ok		
+ZEN42	COAD	Colon (right)	5	0	ok		
+ZEN44	COAD	Colon (Sigma)	0	0	ok		
+ZEN46	COAD	Colon (right)	12	2	ok		
+ZEN47	COAD	Colon (right)	9	3	ok		
+ZEN48	READ	Rectum	0	0	ok		
+ZEN49	READ	Rectum	4	0	ok		
+ZEN61		Brain	0	0	ok		
+ZEN65	MEL	Skin	0	0	ok		
+ZEN78	MEL	Skin	0	0	ok		
+ZEN79	MEL	Skin	0	0	ok		
+ZEN80	MEL	Skin	0	0	ok		
+ZEN81	MEL	Skin	0	0	ok		

@@ -1,0 +1,23 @@
+{
+    "pixel_size_um_embedded": 0.2645833333333333,
+    "pixel_size_um_estimated": 0.2737061758251425,
+    "spots_under_tissue": 1963,
+    "fullres_px_width": 83479,
+    "fullres_px_height": 53112,
+    "dataset_title": "Visium HD 3' Gene Expression Library, Human Ovarian Cancer (Fresh Frozen)",
+    "subseries": NaN,
+    "patient": NaN,
+    "species": "Homo sapiens",
+    "disease_comment": "Clear Cell Adenocarcinoma",
+    "disease_state": "Cancer",
+    "oncotree_code": "CCOV",
+    "tissue": "Ovary",
+    "organ": "Ovary",
+    "preservation_method": "Fresh Frozen",
+    "st_technology": "Visium HD 3'",
+    "data_publication_date": "2025-06-10",
+    "license": "Creative Commons Attribution",
+    "study_link": NaN,
+    "download_page_link1": "https://www.10xgenomics.com/datasets/visium-hd-three-prime-ovarian-cancer-fresh-frozen",
+    "id": "TENX177"
+}

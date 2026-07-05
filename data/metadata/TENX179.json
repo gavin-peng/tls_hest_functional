@@ -1,0 +1,23 @@
+{
+    "pixel_size_um_embedded": 0.2645833333333333,
+    "pixel_size_um_estimated": 0.2735953143823415,
+    "spots_under_tissue": 2164,
+    "fullres_px_width": 45702,
+    "fullres_px_height": 48733,
+    "dataset_title": "Visium HD 3' Gene Expression Library, Human Pancreatic Cancer (Fresh Frozen)",
+    "subseries": NaN,
+    "patient": NaN,
+    "species": "Homo sapiens",
+    "disease_comment": NaN,
+    "disease_state": "Cancer",
+    "oncotree_code": "PDAC",
+    "tissue": "Pancreas",
+    "organ": "Pancreas",
+    "preservation_method": "Fresh Frozen",
+    "st_technology": "Visium HD 3'",
+    "data_publication_date": "2025-07-03",
+    "license": "Creative Commons Attribution",
+    "study_link": NaN,
+    "download_page_link1": "https://www.10xgenomics.com/datasets/visium-hd-three-prime-human-pancreatic-cancer-fresh-frozen",
+    "id": "TENX179"
+}

@@ -1,0 +1,23 @@
+{
+    "pixel_size_um_embedded": 0.2645833333333333,
+    "pixel_size_um_estimated": 0.2738366977336817,
+    "spots_under_tissue": 2021,
+    "fullres_px_width": 34009,
+    "fullres_px_height": 25840,
+    "dataset_title": "Visium HD Spatial Gene Expression Library, Human Breast Cancer (Fresh Frozen)",
+    "subseries": NaN,
+    "patient": NaN,
+    "species": "Homo sapiens",
+    "disease_comment": "DCIS",
+    "disease_state": "Cancer",
+    "oncotree_code": "IDC",
+    "tissue": "Breast",
+    "organ": "Breast",
+    "preservation_method": "Fresh Frozen",
+    "st_technology": "Visium HD",
+    "data_publication_date": "2024-09-17",
+    "license": "Creative Commons Attribution",
+    "study_link": NaN,
+    "download_page_link1": "https://www.10xgenomics.com/datasets/visium-hd-cytassist-gene-expression-human-breast-cancer-fresh-frozen",
+    "id": "TENX162"
+}

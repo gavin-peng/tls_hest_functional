@@ -1,0 +1,23 @@
+{
+    "pixel_size_um_embedded": 0.2645833333333333,
+    "pixel_size_um_estimated": 0.2737129726047599,
+    "spots_under_tissue": 1905,
+    "fullres_px_width": 32888,
+    "fullres_px_height": 23041,
+    "dataset_title": "Visium HD Spatial Gene Expression Library, Mouse Brain (Fresh Frozen)",
+    "subseries": NaN,
+    "patient": NaN,
+    "species": "Mus musculus",
+    "disease_comment": NaN,
+    "disease_state": "Healthy",
+    "oncotree_code": NaN,
+    "tissue": "Brain",
+    "organ": "Brain",
+    "preservation_method": "Fresh Frozen",
+    "st_technology": "Visium HD",
+    "data_publication_date": "2024-09-17",
+    "license": "Creative Commons Attribution",
+    "study_link": NaN,
+    "download_page_link1": "https://www.10xgenomics.com/datasets/visium-hd-cytassist-gene-expression-mouse-brain-fresh-frozen",
+    "id": "TENX166"
+}

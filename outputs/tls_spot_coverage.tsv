@@ -1,0 +1,202 @@
+sample_id	oncotree_code	tissue	st_technology	n_tls	n_instances	n_ge20	n_lt20	n_large	n_split	status
+INT1	SCCRCC	Kidney	Visium	1	1	0	1	0	0	ok
+INT10	SCCRCC	Kidney	Visium	3	3	0	3	0	0	ok
+INT14	SCCRCC	Kidney	Visium	1	1	0	1	0	0	ok
+INT17	SCCRCC	Kidney	Visium	2	2	0	2	0	0	ok
+INT19	SCCRCC	Kidney	Visium	1	1	1	0	0	0	ok
+INT2	SCCRCC	Kidney	Visium	4	4	1	3	0	0	ok
+INT24	SCCRCC	Kidney	Visium	2	2	0	2	0	0	ok
+INT3	SCCRCC	Kidney	Visium	17	17	0	17	0	0	ok
+INT4	SCCRCC	Kidney	Visium	1	1	0	1	0	0	ok
+INT5	SCCRCC	Kidney	Visium	1	1	0	1	0	0	ok
+INT6	SCCRCC	Kidney	Visium	3	3	0	3	0	0	ok
+INT9	SCCRCC	Kidney	Visium	1	1	0	1	0	0	ok
+MEND139	nan	Prostate	Visium	1	1	0	1	0	0	ok
+MEND140	nan	Prostate	Visium	4	4	0	4	0	0	ok
+MEND141	nan	Prostate	Visium	2	2	0	2	0	0	ok
+MEND142	nan	Prostate	Visium	25	25	0	25	0	0	ok
+MEND147	nan	Prostate	Visium	1	1	0	1	0	0	ok
+MEND149	nan	Prostate	Visium	4	4	0	4	0	0	ok
+MEND151	nan	Prostate	Visium	3	3	0	3	0	0	ok
+MEND154	nan	Prostate	Visium	9	9	0	9	0	0	ok
+MEND156	nan	Prostate	Visium	19	24	9	15	1	6	ok
+MEND157	nan	Prostate	Visium	8	8	1	7	0	0	ok
+MEND158	nan	Prostate	Visium	2	2	0	2	0	0	ok
+MEND159	nan	Prostate	Visium	6	21	20	1	1	16	ok
+MEND160	nan	Prostate	Visium	9	9	1	8	0	0	ok
+MEND161	nan	Prostate	Visium	5	5	0	5	0	0	ok
+MEND29	nan	ileum	Visium	10	10	0	10	0	0	ok
+MEND30	nan	ileum	Visium	11	11	0	11	0	0	ok
+MEND37	nan	skin	Visium	1	1	0	1	0	0	ok
+MEND39	nan	skin	Visium	1	1	0	1	0	0	ok
+MEND61	nan	prostate	Visium	4	4	0	4	0	0	ok
+MEND63	nan	brain	Visium	1	1	0	1	0	0	ok
+MISC17	nan	Bronchi	Visium	2	2	0	2	0	0	ok
+MISC19	nan	Parenchyma	Visium	5	5	0	5	0	0	ok
+MISC26	nan	Bronchi	Visium	5	5	1	4	0	0	ok
+MISC29	nan	Bronchi	Visium	7	8	2	6	1	2	ok
+MISC32	nan	Trachea	Visium	1	1	0	1	0	0	ok
+NCBI475	nan	Skin	Visium	5	5	2	3	0	0	ok
+NCBI476	nan	Skin	Visium	1	1	0	1	0	0	ok
+NCBI479	nan	Skin	Visium	1	1	0	1	0	0	ok
+NCBI562	nan	Kidney	Visium	4	11	6	5	2	9	ok
+NCBI563	nan	Kidney	Visium	6	8	1	7	1	3	ok
+NCBI565	nan	Kidney	Visium	3	3	0	3	0	0	ok
+NCBI571	PAAD	Pancreas	Visium	3	3	1	2	0	0	ok
+NCBI572	PAAD	Pancreas	Visium	5	5	1	4	0	0	ok
+NCBI596	nan	Kidney	Visium	1	10	8	2	1	10	ok
+NCBI628	EPM	Brain	Visium	6	6	2	4	0	0	ok
+NCBI629	EPM	Brain	Visium	8	12	6	6	1	5	ok
+NCBI631	EPM	Brain	Visium	1	1	0	1	0	0	ok
+NCBI633	EPM	Brain	Visium	8	8	0	8	0	0	ok
+NCBI635	EPM	Brain	Visium	1	1	0	1	0	0	ok
+NCBI637	EPM	Brain	Visium	10	10	0	10	0	0	ok
+NCBI638	EPM	Brain	Visium	5	5	2	3	0	0	ok
+NCBI641	EPM	Brain	Visium	1	1	0	1	0	0	ok
+NCBI675	nan	Liver	Visium	1	1	0	1	0	0	ok
+NCBI681	IDC	Lymph node	Visium	2	2	0	2	0	0	ok
+NCBI682	IDC	Lymph node	Visium	12	12	3	9	0	0	ok
+NCBI683	IDC	Lymph node	Visium	1	1	0	1	0	0	ok
+NCBI684	IDC	Lymph node	Visium	1	3	3	0	1	3	ok
+NCBI685	nan	Colon	Visium	1	1	0	1	0	0	ok
+NCBI686	nan	Colon	Visium	11	11	0	11	0	0	ok
+NCBI687	SKCM	Skin	Visium	2	8	6	2	1	7	ok
+NCBI688	SKCM	Skin	Visium	2	7	5	2	1	6	ok
+NCBI689	SKCM	Skin	Visium	1	8	7	1	1	8	ok
+NCBI691	nan	Endometriosis	Visium	4	4	1	3	0	0	ok
+NCBI708	nan	Kidney	Visium	3	3	0	3	0	0	ok
+NCBI727	nan	Lung	Visium	9	11	6	5	1	3	ok
+NCBI728	nan	Colon	Visium	5	5	2	3	0	0	ok
+NCBI785	IDC	Breast	Xenium	2	2	0	0	0	0	ok
+NCBI789	nan	Placenta	Visium	4	4	0	4	0	0	ok
+NCBI799	nan	Hippocampal	Visium	2	2	2	0	0	0	ok
+NCBI801	nan	Hippocampal	Visium	1	1	1	0	0	0	ok
+NCBI826	nan	NonAE liver explant	Visium	4	11	6	5	1	8	ok
+NCBI831	nan	APAP liver explant	Visium	5	5	0	5	0	0	ok
+NCBI832	nan	APAP liver explant	Visium	5	5	1	4	0	0	ok
+NCBI833	nan	APAP liver explant	Visium	4	4	2	2	0	0	ok
+NCBI834	nan	Liver	Visium	1	10	10	0	1	10	ok
+NCBI835	nan	Liver	Visium	1	12	12	0	1	12	ok
+NCBI836	nan	Liver	Visium	1	5	5	0	1	5	ok
+NCBI837	nan	Liver	Visium	2	18	17	1	1	17	ok
+NCBI838	nan	Liver	Visium	1	7	7	0	1	7	ok
+NCBI839	nan	Liver	Visium	1	8	8	0	1	8	ok
+NCBI840	nan	Liver	Visium	1	5	5	0	1	5	ok
+NCBI841	nan	Liver	Visium	1	12	11	1	1	12	ok
+NCBI855	BLCA	Bladder	Visium	4	4	1	3	0	0	ok
+SPA0	IDC	Breast	Spatial Transcriptomics	1	1	0	1	0	0	ok
+SPA1	IDC	Breast	Spatial Transcriptomics	1	1	0	1	0	0	ok
+SPA100	IDC	Breast	Spatial Transcriptomics	15	17	1	16	1	3	ok
+SPA101	IDC	Breast	Spatial Transcriptomics	14	14	3	11	1	0	ok
+SPA102	IDC	Breast	Spatial Transcriptomics	3	16	5	11	1	14	ok
+SPA103	IDC	Breast	Spatial Transcriptomics	3	14	6	8	1	12	ok
+SPA104	IDC	Breast	Spatial Transcriptomics	1	17	8	9	1	17	ok
+SPA108	IDC	Breast	Spatial Transcriptomics	1	13	0	13	1	13	ok
+SPA109	IDC	Breast	Spatial Transcriptomics	1	13	2	11	1	13	ok
+SPA110	IDC	Breast	Spatial Transcriptomics	1	16	2	14	1	16	ok
+SPA111	IDC	Breast	Spatial Transcriptomics	4	6	0	6	1	3	ok
+SPA112	IDC	Breast	Spatial Transcriptomics	5	5	0	5	0	0	ok
+SPA113	IDC	Breast	Spatial Transcriptomics	4	10	0	10	1	7	ok
+SPA114	IDC	Breast	Spatial Transcriptomics	9	9	0	9	0	0	ok
+SPA115	IDC	Breast	Spatial Transcriptomics	4	7	1	6	1	4	ok
+SPA116	IDC	Breast	Spatial Transcriptomics	2	5	1	4	1	4	ok
+SPA117	IDC	Breast	Spatial Transcriptomics	4	4	0	4	0	0	ok
+SPA118	IDC	Breast	Spatial Transcriptomics	2	5	0	5	1	4	ok
+SPA119	IDC	Breast	Spatial Transcriptomics	11	11	1	10	0	0	ok
+SPA120	IDC	Breast	Spatial Transcriptomics	10	11	2	9	1	2	ok
+SPA121	IDC	Breast	Spatial Transcriptomics	9	12	1	11	2	5	ok
+SPA122	IDC	Breast	Spatial Transcriptomics	7	7	0	7	0	0	ok
+SPA123	IDC	Breast	Spatial Transcriptomics	3	3	0	3	0	0	ok
+SPA124	IDC	Breast	Spatial Transcriptomics	2	2	0	2	0	0	ok
+SPA125	IDC	Breast	Spatial Transcriptomics	10	20	2	18	3	13	ok
+SPA131	IDC	Breast	Spatial Transcriptomics	7	7	0	7	0	0	ok
+SPA132	IDC	Breast	Spatial Transcriptomics	4	4	0	4	0	0	ok
+SPA133	IDC	Breast	Spatial Transcriptomics	5	5	0	5	0	0	ok
+SPA134	IDC	Breast	Spatial Transcriptomics	3	3	0	3	0	0	ok
+SPA135	IDC	Breast	Spatial Transcriptomics	9	9	0	9	0	0	ok
+SPA136	IDC	Breast	Spatial Transcriptomics	1	1	0	1	0	0	ok
+SPA137	IDC	Breast	Spatial Transcriptomics	6	6	0	6	0	0	ok
+SPA138	IDC	Breast	Spatial Transcriptomics	3	3	0	3	0	0	ok
+SPA139	IDC	Breast	Spatial Transcriptomics	3	3	0	3	0	0	ok
+SPA140	IDC	Breast	Spatial Transcriptomics	1	1	0	1	0	0	ok
+SPA141	IDC	Breast	Spatial Transcriptomics	2	2	0	2	0	0	ok
+SPA142	IDC	Breast	Spatial Transcriptomics	3	3	0	3	0	0	ok
+SPA143	IDC	Breast	Spatial Transcriptomics	1	1	0	1	0	0	ok
+SPA144	IDC	Breast	Spatial Transcriptomics	3	3	0	3	0	0	ok
+SPA145	IDC	Breast	Spatial Transcriptomics	2	2	0	2	0	0	ok
+SPA146	IDC	Breast	Spatial Transcriptomics	2	2	0	2	0	0	ok
+SPA147	IDC	Breast	Spatial Transcriptomics	4	4	0	4	0	0	ok
+SPA148	IDC	Breast	Spatial Transcriptomics	3	5	0	5	1	3	ok
+SPA149	IDC	Breast	Spatial Transcriptomics	1	1	0	1	0	0	ok
+SPA151	IDC	Breast	Spatial Transcriptomics	1	1	0	1	0	0	ok
+SPA152	IDC	Breast	Spatial Transcriptomics	2	2	0	2	0	0	ok
+SPA153	IDC	Breast	Spatial Transcriptomics	1	1	0	1	0	0	ok
+SPA154	IDC	Breast	Spatial Transcriptomics	1	1	0	1	0	0	ok
+SPA2	IDC	Breast	Spatial Transcriptomics	2	2	0	2	0	0	ok
+SPA3	IDC	Breast	Spatial Transcriptomics	3	3	0	3	0	0	ok
+SPA51	IDC	Breast	Spatial Transcriptomics	7	14	1	13	1	8	ok
+SPA52	IDC	Breast	Spatial Transcriptomics	3	5	0	5	1	3	ok
+SPA53	IDC	Breast	Spatial Transcriptomics	1	12	2	10	1	12	ok
+SPA54	IDC	Breast	Spatial Transcriptomics	9	19	1	18	1	11	ok
+SPA55	IDC	Breast	Spatial Transcriptomics	10	18	0	18	1	9	ok
+SPA56	IDC	Breast	Spatial Transcriptomics	12	22	1	21	1	11	ok
+SPA57	IDC	Breast	Spatial Transcriptomics	3	6	2	4	1	4	ok
+SPA58	IDC	Breast	Spatial Transcriptomics	2	9	3	6	1	8	ok
+SPA59	IDC	Breast	Spatial Transcriptomics	6	11	0	11	1	6	ok
+SPA60	IDC	Breast	Spatial Transcriptomics	3	3	1	2	0	0	ok
+SPA61	IDC	Breast	Spatial Transcriptomics	3	3	0	3	0	0	ok
+SPA62	IDC	Breast	Spatial Transcriptomics	1	1	0	1	0	0	ok
+SPA63	IDC	Breast	Spatial Transcriptomics	3	3	0	3	0	0	ok
+SPA64	IDC	Breast	Spatial Transcriptomics	9	9	0	9	0	0	ok
+SPA65	IDC	Breast	Spatial Transcriptomics	15	15	0	15	0	0	ok
+SPA66	IDC	Breast	Spatial Transcriptomics	1	1	0	1	0	0	ok
+SPA67	IDC	Breast	Spatial Transcriptomics	1	1	0	1	0	0	ok
+SPA68	IDC	Breast	Spatial Transcriptomics	3	3	0	3	0	0	ok
+SPA69	IDC	Breast	Spatial Transcriptomics	2	12	5	7	1	11	ok
+SPA70	IDC	Breast	Spatial Transcriptomics	6	12	2	10	1	7	ok
+SPA71	IDC	Breast	Spatial Transcriptomics	1	14	3	11	1	14	ok
+SPA72	IDC	Breast	Spatial Transcriptomics	6	6	0	6	0	0	ok
+SPA73	IDC	Breast	Spatial Transcriptomics	5	5	0	5	0	0	ok
+SPA74	IDC	Breast	Spatial Transcriptomics	9	13	0	13	1	5	ok
+SPA78	IDC	Breast	Spatial Transcriptomics	3	3	0	3	0	0	ok
+SPA79	IDC	Breast	Spatial Transcriptomics	3	3	0	3	0	0	ok
+SPA80	IDC	Breast	Spatial Transcriptomics	2	2	0	2	0	0	ok
+SPA81	IDC	Breast	Spatial Transcriptomics	17	23	0	23	2	8	ok
+SPA82	IDC	Breast	Spatial Transcriptomics	18	18	1	17	0	0	ok
+SPA83	IDC	Breast	Spatial Transcriptomics	15	15	1	14	0	0	ok
+SPA84	IDC	Breast	Spatial Transcriptomics	5	10	1	9	2	7	ok
+SPA85	IDC	Breast	Spatial Transcriptomics	5	7	1	6	1	3	ok
+SPA86	IDC	Breast	Spatial Transcriptomics	4	8	1	7	2	6	ok
+SPA87	IDC	Breast	Spatial Transcriptomics	15	15	0	15	0	0	ok
+SPA88	IDC	Breast	Spatial Transcriptomics	6	6	0	6	0	0	ok
+SPA89	IDC	Breast	Spatial Transcriptomics	6	6	0	6	0	0	ok
+SPA90	IDC	Breast	Spatial Transcriptomics	12	12	0	12	0	0	ok
+SPA91	IDC	Breast	Spatial Transcriptomics	1	1	0	1	0	0	ok
+SPA92	IDC	Breast	Spatial Transcriptomics	3	3	0	3	0	0	ok
+TENX110	nan	Whole organism	Xenium	6	NA	NA	NA	NA	NA	no_st
+TENX118	LUAD	Lung	Xenium	1	NA	NA	NA	NA	NA	no_st
+TENX123	nan	Skin	Xenium	1	NA	NA	NA	NA	NA	no_st
+TENX124	nan	Tonsil	Xenium	6	NA	NA	NA	NA	NA	no_st
+TENX125	nan	Tonsil	Xenium	8	NA	NA	NA	NA	NA	no_st
+TENX127	nan	Colon	Xenium	3	NA	NA	NA	NA	NA	no_st
+TENX13	IDC	Breast	Visium	10	13	4	9	1	4	ok
+TENX134	ALL	Bone marrow	Xenium	4	NA	NA	NA	NA	NA	no_st
+TENX137	nan	Bone	Xenium	1	NA	NA	NA	NA	NA	no_st
+TENX138	GBM	Brain	Xenium	9	NA	NA	NA	NA	NA	no_st
+TENX14	IDC	Breast	Visium	14	21	4	17	2	9	ok
+TENX140	PAAD	Pancreas	Xenium	2	NA	NA	NA	NA	NA	no_st
+TENX146	nan	Kidney	Visium HD	2	2	0	2	0	0	ok
+TENX28	COAD	Colon	Visium	5	5	0	5	0	0	ok
+TENX49	COAD	Large intestine	Visium	1	1	0	1	0	0	ok
+TENX50	CESC	Cervix	Visium	10	12	4	8	1	3	ok
+TENX53	IDC	Breast	Visium	6	6	0	6	0	0	ok
+TENX94	ILC	Breast	Xenium	1	1	0	0	0	0	ok
+TENX95	IDC	Breast	Xenium	1	1	0	0	1	0	ok
+TENX96	ILC	Breast	Xenium	1	1	0	0	0	0	ok
+TENX97	IDC	Breast	Xenium	1	1	0	0	0	0	ok
+TENX98	IDC	Breast	Xenium	1	1	0	0	1	0	ok
+ZEN36	READ	Rectum	Visium	1	1	0	1	0	0	ok
+ZEN42	COAD	Colon (right)	Visium	5	5	0	5	0	0	ok
+ZEN46	COAD	Colon (right)	Visium	12	12	0	12	0	0	ok
+ZEN47	COAD	Colon (right)	Visium	9	12	1	11	1	4	ok
+ZEN49	READ	Rectum	Visium	4	4	2	2	0	0	ok

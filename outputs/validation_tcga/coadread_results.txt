@@ -1,0 +1,6 @@
+TCGA COAD/READ TLS survival validation
+Study: coadread_tcga  Profile: coadread_tcga_rna_seq_v2_mrna_median_Zscores
+n=378  events=87  endpoint=OS
+
+C1:  HR=1.523 [1.124–2.065]  p=0.0067  n=378  *
+C4:  HR=1.248 [0.925–1.683]  p=0.1465  n=378  ns

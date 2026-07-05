@@ -1,0 +1,23 @@
+{
+    "pixel_size_um_embedded": 0.2645833333333333,
+    "pixel_size_um_estimated": 0.2737973928159521,
+    "spots_under_tissue": 2113,
+    "fullres_px_width": 25811,
+    "fullres_px_height": 26686,
+    "dataset_title": "Cross-Platform Comparison: Visium HD 3' Gene Expression Library, Human Ovarian Cancer (Fresh Frozen)",
+    "subseries": "Deep sequencing",
+    "patient": NaN,
+    "species": "Homo sapiens",
+    "disease_comment": "(Ovarian Cancer, Ovarian Papillary Serous Carcinoma, II-A).",
+    "disease_state": "Cancer",
+    "oncotree_code": "SOC",
+    "tissue": "Ovary",
+    "organ": "Ovary",
+    "preservation_method": "Fresh Frozen",
+    "st_technology": "Visium HD 3'",
+    "data_publication_date": "2025-10-07",
+    "license": "Creative Commons Attribution",
+    "study_link": NaN,
+    "download_page_link1": "https://www.10xgenomics.com/datasets/visium-hd-three-prime-ovarian-cancer-discovery-fresh-frozen",
+    "id": "TENX182"
+}

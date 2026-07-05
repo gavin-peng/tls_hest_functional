@@ -1,0 +1,25 @@
+[06_cluster] 
+============================================================
+[06_cluster] Variant: 670
+[06_cluster] ============================================================
+[06_cluster]   Computing UMAP...
+[06_cluster]   Silhouette (UMAP space):
+[06_cluster]     platform (st_technology): 0.2039
+[06_cluster]     cancer   (oncotree_code): -0.2250
+[06_cluster]     → Platform dominates separation. Correction warranted.
+[06_cluster]   Leiden sweep (resolutions=[0.1, 0.3, 0.5], seeds=5)...
+[06_cluster]     r=0.1: 2 clusters, stability ARI=1.000±0.000
+[06_cluster]     r=0.3: 6 clusters, stability ARI=0.935±0.080
+[06_cluster]     r=0.5: 9 clusters, stability ARI=0.892±0.058
+[06_cluster]   Best resolution: 0.1 (2 clusters, ARI=1.000)
+[06_cluster]   IDC Visium scatter (r=0.1): {'n': np.int64(14), 'cluster_counts': {'0': 14, '1': 0}, 'entropy_bits': 0.0, 'norm_entropy': np.float64(0.0), 'top_cluster_frac': 1.0, 'interpretation': 'concentrated (poor calibration anchor)'}
+[06_cluster]     Saved umap_670.png
+[06_cluster] 
+Wrote cluster summary → /mnt/e/hest/outputs/stage2_clustering/cluster_summary.tsv
+[06_cluster] 
+======================================================================
+[06_cluster] DECISION TABLE
+[06_cluster] ======================================================================
+[06_cluster]   670           r=0.1  k=2  ARI=1.000  plat_sil=0.204  cancer_sil=-0.225  idc_vis_ent=0.00  
+[06_cluster]   670           r=0.3  k=6  ARI=0.935  plat_sil=0.204  cancer_sil=-0.225  idc_vis_ent=0.00  
+[06_cluster]   670           r=0.5  k=9  ARI=0.892  plat_sil=0.204  cancer_sil=-0.225  idc_vis_ent=0.00  

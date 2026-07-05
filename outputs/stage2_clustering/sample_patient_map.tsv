@@ -1,0 +1,120 @@
+sample_id	patient_id	idc_subtype	split_patient_id
+MEND140	patient 2	Gleason 4+3 ISUP grade group 4 , Prostatic Acinar Adenocarcinoma	MEND_patient 2
+MEND142	patient 2	Gleason 4+3 ISUP grade group 4 , Prostatic Acinar Adenocarcinoma	MEND_patient 2
+MEND149	patient 2	Gleason 4+3 ISUP grade group 4 , Prostatic Acinar Adenocarcinoma	MEND_patient 2
+MEND151	patient 2	Gleason 4+3 ISUP grade group 4 , Prostatic Acinar Adenocarcinoma	MEND_patient 2
+MEND154	patient 1	Gleason 4+3 ISUP grade group 4 , Prostatic Acinar Adenocarcinoma	MEND_patient 1
+MEND156	patient 1	Gleason 4+3 ISUP grade group 4 , Prostatic Acinar Adenocarcinoma	MEND_patient 1
+MEND157	patient 1	Gleason 4+3 ISUP grade group 4 , Prostatic Acinar Adenocarcinoma	MEND_patient 1
+MEND158	patient 1	Gleason 4+3 ISUP grade group 4 , Prostatic Acinar Adenocarcinoma	MEND_patient 1
+MEND159	patient 1	Gleason 4+3 ISUP grade group 4 , Prostatic Acinar Adenocarcinoma	MEND_patient 1
+MEND160	patient 1	Gleason 4+3 ISUP grade group 4 , Prostatic Acinar Adenocarcinoma	MEND_patient 1
+MEND161	patient 1	Gleason 4+3 ISUP grade group 4 , Prostatic Acinar Adenocarcinoma	MEND_patient 1
+MEND37	Patient 1		MEND_Patient 1
+MEND39	Patient 1		MEND_Patient 1
+MEND61		Prostatic Acinar Adenocarcinoma	MEND61
+MEND63		pediatric brain tumor	MEND63
+MISC19	   		MISC19
+MISC26	   		MISC26
+MISC29	   		MISC29
+MISC32	   		MISC32
+NCBI571			NCBI571
+NCBI572			NCBI572
+NCBI628	Patient 928	PFA	NCBI_Patient 928
+NCBI629	Patient 1513	PFA	NCBI_Patient 1513
+NCBI631	Patient 928	PFA	NCBI_Patient 928
+NCBI633	Patient 1101	PFA	NCBI_Patient 1101
+NCBI637	Patient 459	PFA	NCBI_Patient 459
+NCBI638	Patient 812	PFA	NCBI_Patient 812
+NCBI641	Patient 459	PFA	NCBI_Patient 459
+NCBI855	Patient 10	invasive bladder carcinoma	NCBI_Patient 10
+SPA0			SPA0
+SPA1			SPA1
+SPA100	BC23810	HER2_non_luminal	BC23810
+SPA101	BC23810	HER2_non_luminal	BC23810
+SPA102	BC23567	HER2_non_luminal	BC23567
+SPA103	BC23567	HER2_non_luminal	BC23567
+SPA104	BC23567	HER2_non_luminal	BC23567
+SPA108	BC23944	HER2_luminal	BC23944
+SPA109	BC23944	HER2_luminal	BC23944
+SPA110	BC23944	HER2_luminal	BC23944
+SPA111	BC23901	HER2_luminal	BC23901
+SPA112	BC23901	HER2_luminal	BC23901
+SPA113	BC23450	HER2_luminal	BC23450
+SPA114	BC23450	HER2_luminal	BC23450
+SPA115	BC23450	HER2_luminal	BC23450
+SPA116	BC23287	HER2_luminal	BC23287
+SPA117	BC23287	HER2_luminal	BC23287
+SPA118	BC23287	HER2_luminal	BC23287
+SPA119	Patient H	HER2-positive breast cancer	SPA_Patient H
+SPA120	Patient H	HER2-positive breast cancer	SPA_Patient H
+SPA121	Patient H	HER2-positive breast cancer	SPA_Patient H
+SPA122	Patient G	HER2-positive breast cancer	SPA_Patient G
+SPA123	Patient G	HER2-positive breast cancer	SPA_Patient G
+SPA124	Patient G	HER2-positive breast cancer	SPA_Patient G
+SPA125	Patient F	HER2-positive breast cancer	SPA_Patient F
+SPA131	Patient D	HER2-positive breast cancer	SPA_Patient D
+SPA132	Patient D	HER2-positive breast cancer	SPA_Patient D
+SPA133	Patient D	HER2-positive breast cancer	SPA_Patient D
+SPA134	Patient D	HER2-positive breast cancer	SPA_Patient D
+SPA135	Patient D	HER2-positive breast cancer	SPA_Patient D
+SPA136	Patient D	HER2-positive breast cancer	SPA_Patient D
+SPA137	Patient C	HER2-positive breast cancer	SPA_Patient C
+SPA138	Patient C	HER2-positive breast cancer	SPA_Patient C
+SPA139	Patient C	HER2-positive breast cancer	SPA_Patient C
+SPA140	Patient C	HER2-positive breast cancer	SPA_Patient C
+SPA141	Patient C	HER2-positive breast cancer	SPA_Patient C
+SPA142	Patient C	HER2-positive breast cancer	SPA_Patient C
+SPA143	Patient B	HER2-positive breast cancer	SPA_Patient B
+SPA144	Patient B	HER2-positive breast cancer	SPA_Patient B
+SPA145	Patient B	HER2-positive breast cancer	SPA_Patient B
+SPA146	Patient B	HER2-positive breast cancer	SPA_Patient B
+SPA147	Patient B	HER2-positive breast cancer	SPA_Patient B
+SPA148	Patient B	HER2-positive breast cancer	SPA_Patient B
+SPA3			SPA3
+SPA51	BC23803	TNBC	BC23803
+SPA52	BC23803	TNBC	BC23803
+SPA53	BC23803	TNBC	BC23803
+SPA54	BC23377	TNBC	BC23377
+SPA55	BC23377	TNBC	BC23377
+SPA56	BC23377	TNBC	BC23377
+SPA57	BC23288	TNBC	BC23288
+SPA58	BC23288	TNBC	BC23288
+SPA59	BC23288	TNBC	BC23288
+SPA60	BC23209	TNBC	BC23209
+SPA61	BC23209	TNBC	BC23209
+SPA62	BC23209	TNBC	BC23209
+SPA63	BC23895	Luminal_B	BC23895
+SPA64	BC23895	Luminal_B	BC23895
+SPA65	BC23895	Luminal_B	BC23895
+SPA66	BC23508	Luminal_B	BC23508
+SPA68	BC23508	Luminal_B	BC23508
+SPA69	BC23506	Luminal_B	BC23506
+SPA70	BC23506	Luminal_B	BC23506
+SPA71	BC23506	Luminal_B	BC23506
+SPA72	BC23277	Luminal_B	BC23277
+SPA73	BC23277	Luminal_B	BC23277
+SPA74	BC23277	Luminal_B	BC23277
+SPA78	BC24223	Luminal_A	BC24223
+SPA79	BC24223	Luminal_A	BC24223
+SPA80	BC24223	Luminal_A	BC24223
+SPA81	BC23272	Luminal_A	BC23272
+SPA82	BC23272	Luminal_A	BC23272
+SPA83	BC23272	Luminal_A	BC23272
+SPA84	BC23269	Luminal_A	BC23269
+SPA85	BC23269	Luminal_A	BC23269
+SPA86	BC23269	Luminal_A	BC23269
+SPA87	BC23268	Luminal_A	BC23268
+SPA88	BC23268	Luminal_A	BC23268
+SPA89	BC23268	Luminal_A	BC23268
+SPA90	BC24105	HER2_non_luminal	BC24105
+SPA92	BC24105	HER2_non_luminal	BC24105
+TENX13		AJCC/UICC Stage Group IIA, ER positive, PR negative, Her2 positive	TENX13
+TENX14		AJCC/UICC Stage Group IIA, ER positive, PR negative, Her2 positive	TENX14
+TENX28		Invasive Adenocarcinoma of the large intestine Stage Group IIB	TENX28
+TENX49		Large Intestine Colorectal cancer	TENX49
+TENX50		Cervical Cancer, Invasive. Squamous cell carcinoma T1bN0M0 IB	TENX50
+ZEN42	Patient 5		ZEN_Patient 5
+ZEN46	Patient 2		ZEN_Patient 2
+ZEN47	Patient 2		ZEN_Patient 2
+ZEN49	Patient 1		ZEN_Patient 1

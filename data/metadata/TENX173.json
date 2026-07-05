@@ -1,0 +1,23 @@
+{
+    "pixel_size_um_embedded": 0.2645833333333333,
+    "pixel_size_um_estimated": 0.2739038899725172,
+    "spots_under_tissue": 2684,
+    "fullres_px_width": 32674,
+    "fullres_px_height": 43999,
+    "dataset_title": "Visium HD Spatial Gene Expression Library, Human Kidney (FFPE)",
+    "subseries": NaN,
+    "patient": NaN,
+    "species": "Homo sapiens",
+    "disease_comment": NaN,
+    "disease_state": "Healthy",
+    "oncotree_code": NaN,
+    "tissue": "Kidney",
+    "organ": "Kidney",
+    "preservation_method": "FFPE",
+    "st_technology": "Visium HD",
+    "data_publication_date": "2025-03-06",
+    "license": "Creative Commons Attribution",
+    "study_link": NaN,
+    "download_page_link1": "https://www.10xgenomics.com/datasets/visium-hd-cytassist-gene-expression-libraries-human-kidney-ffpe",
+    "id": "TENX173"
+}

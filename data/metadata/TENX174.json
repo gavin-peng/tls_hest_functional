@@ -1,0 +1,23 @@
+{
+    "pixel_size_um_embedded": 0.2645833333333333,
+    "pixel_size_um_estimated": 0.27380351886789805,
+    "spots_under_tissue": 2385,
+    "fullres_px_width": 28288,
+    "fullres_px_height": 24794,
+    "dataset_title": "Visium HD Spatial Gene Expression Library, Human Prostate Cancer (FFPE)",
+    "subseries": NaN,
+    "patient": NaN,
+    "species": "Homo sapiens",
+    "disease_comment": NaN,
+    "disease_state": "Cancer",
+    "oncotree_code": "PRAD",
+    "tissue": "Prostate",
+    "organ": "Prostate",
+    "preservation_method": "FFPE",
+    "st_technology": "Visium HD",
+    "data_publication_date": "2025-06-10",
+    "license": "Creative Commons Attribution",
+    "study_link": NaN,
+    "download_page_link1": "https://www.10xgenomics.com/datasets/visium-hd-cytassist-gene-expression-libraries-human-prostate-cancer-ffpe",
+    "id": "TENX174"
+}

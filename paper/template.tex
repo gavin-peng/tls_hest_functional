@@ -1,0 +1,180 @@
+% Two-column academic paper template for pandoc + tectonic (XeTeX)
+% Usage: pandoc paper.md --template=template.tex --pdf-engine=tectonic --citeproc -o paper.pdf
+
+\documentclass[9pt,twocolumn]{extarticle}
+
+% ── Geometry ──────────────────────────────────────────────────────────────────
+\usepackage[
+  top=2cm, bottom=2cm,
+  left=1.6cm, right=1.6cm,
+  columnsep=0.6cm
+]{geometry}
+
+% ── Fonts (XeTeX / tectonic — full Unicode support) ───────────────────────────
+\usepackage{fontspec}
+\usepackage{unicode-math}              % proper math support for XeTeX
+\setmainfont{DejaVu Serif}
+\setsansfont{DejaVu Sans}
+\setmonofont[Scale=0.88]{DejaVu Sans Mono}
+\usepackage{microtype}
+
+% ── Colours ───────────────────────────────────────────────────────────────────
+\usepackage[dvipsnames,svgnames]{xcolor}
+\definecolor{accentblue}{HTML}{2166AC}
+\definecolor{lightgray}{HTML}{F5F5F5}
+\definecolor{rulecolor}{HTML}{CCCCCC}
+
+% ── Section formatting ────────────────────────────────────────────────────────
+\usepackage{titlesec}
+\titleformat{\section}
+  {\normalfont\sffamily\bfseries\color{accentblue}\large}
+  {\thesection.}{0.5em}{}[\vspace{-2pt}\rule{\columnwidth}{0.4pt}]
+\titleformat{\subsection}
+  {\normalfont\sffamily\bfseries\small}
+  {\thesubsection.}{0.5em}{}
+\titleformat{\subsubsection}[runin]
+  {\normalfont\itshape\small}
+  {}{0em}{}[.]
+\titlespacing{\section}{0pt}{6pt}{3pt}
+\titlespacing{\subsection}{0pt}{5pt}{2pt}
+
+% ── Abstract box ──────────────────────────────────────────────────────────────
+\usepackage{mdframed}
+\newmdenv[
+  backgroundcolor=lightgray,
+  linecolor=rulecolor,
+  linewidth=0.5pt,
+  innerleftmargin=8pt,
+  innerrightmargin=8pt,
+  innertopmargin=6pt,
+  innerbottommargin=6pt,
+  skipabove=8pt,
+  skipbelow=8pt,
+]{abstractbox}
+
+% ── Header / footer ───────────────────────────────────────────────────────────
+\usepackage{fancyhdr}
+\pagestyle{fancy}
+\fancyhf{}
+\renewcommand{\headrulewidth}{0.4pt}
+\fancyhead[L]{\small\sffamily\color{gray} Peng \textit{et al.} --- TLS Functional Score}
+\fancyhead[R]{\small\sffamily\color{gray}\thepage}
+\fancyfoot{}
+
+% ── Figures ───────────────────────────────────────────────────────────────────
+\usepackage{graphicx}
+% pandoc 3.x compatibility: \pandocbounded constrains images to text width
+\providecommand{\pandocbounded}[1]{#1}
+\usepackage{float}
+\floatplacement{figure}{tbp}
+\usepackage{caption}
+\captionsetup{
+  font={small},
+  labelfont={bf,sf},
+  labelsep=period,
+  justification=justified,
+  skip=4pt,
+}
+\usepackage{stfloats}
+\usepackage{placeins}
+
+% ── Tables ────────────────────────────────────────────────────────────────────
+\usepackage{booktabs}
+\usepackage{array}
+\renewcommand{\arraystretch}{1.2}
+
+% ── Lists ─────────────────────────────────────────────────────────────────────
+\usepackage{enumitem}
+\setlist{noitemsep, topsep=2pt}
+
+% ── Hyperlinks ────────────────────────────────────────────────────────────────
+\usepackage[
+  colorlinks=true,
+  linkcolor=accentblue,
+  citecolor=accentblue,
+  urlcolor=accentblue,
+]{hyperref}
+
+% ── Line spacing + paragraph ──────────────────────────────────────────────────
+\usepackage{setspace}
+\setstretch{1.05}
+\setlength{\parskip}{3pt}
+\setlength{\parindent}{1em}
+\raggedbottom
+
+% ── Float page: no top padding (twocolumn uses @dblfptop) ────────────────────
+\makeatletter
+\setlength{\@fptop}{0pt}
+\setlength{\@dblfptop}{0pt}
+\makeatother
+
+% ── Pandoc / CSL bibliography compatibility ───────────────────────────────────
+\providecommand{\tightlist}{\setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+
+% Required by pandoc --citeproc output
+\newcommand{\citeproctext}{}
+\newcommand{\CSLBlock}[1]{\hfill\break#1\hfill\break}
+\newcommand{\CSLLeftMargin}[1]{\parbox[t]{3em}{#1}}
+\newcommand{\CSLRightInline}[1]{\parbox[t]{\dimexpr\linewidth-3em\relax}{#1}}
+\newcommand{\CSLIndent}[1]{\hspace{1.5em}#1}
+\makeatletter
+\newenvironment{CSLReferences}[2]{%
+  \section{References}%
+  \def\bibitem[##1]##2{\item[]}%
+  \begin{list}{}{%
+    \setlength{\topsep}{8pt}%
+    \setlength{\parsep}{3pt}%
+    \setlength{\itemsep}{3pt}%
+    \setlength{\leftmargin}{2em}%
+    \setlength{\itemindent}{-2em}%
+  }%
+}{\end{list}}
+\makeatother
+$for(header-includes)$
+$header-includes$
+$endfor$
+
+% ─────────────────────────────────────────────────────────────────────────────
+\begin{document}
+
+% ── Title block (single column) ───────────────────────────────────────────────
+\twocolumn[{%
+\begin{@twocolumnfalse}
+
+\vspace*{4pt}
+{\noindent\sffamily\bfseries\LARGE $title$\par}
+\vspace{8pt}
+
+{\noindent\normalsize $author$\par}
+\vspace{4pt}
+
+$if(institute)$
+{\noindent\small\itshape $institute$\par}
+\vspace{4pt}
+$endif$
+
+$if(date)$
+{\noindent\small\color{gray} $date$\par}
+\vspace{6pt}
+$endif$
+
+\begin{abstractbox}
+{\noindent\small\sffamily\bfseries Abstract\quad}{\small $abstract$}
+\end{abstractbox}
+
+$if(keywords)$
+\vspace{4pt}
+\noindent{\small\sffamily\bfseries Keywords:\quad}{\small $keywords$}
+$endif$
+
+\vspace{6pt}
+\rule{\linewidth}{0.6pt}
+\vspace{4pt}
+
+\end{@twocolumnfalse}
+}]
+
+% ── Body ──────────────────────────────────────────────────────────────────────
+$body$
+
+\end{document}

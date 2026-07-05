@@ -1,0 +1,35 @@
+[04b_spatial] Loading /mnt/e/hest/outputs/stage2_clustering/tls_neighborhood_spots.h5ad
+[04b_spatial]   64236 spots × 40270 genes
+[04b_spatial]   747 instances across 119 samples
+[04b_spatial] Loaded coverage JSONs for 203 samples
+[04b_spatial] Loaded polygon JSONs for 497 samples
+[04b_spatial] Processing 747 instances (will exclude 6 sample set)
+[04b_spatial] Done: 670 instances included, 77 excluded (BC23803/BC23377), 0 below min_spots, 0 missing coverage, 0 missing polygon
+[04b_spatial] 
+Wrote 670 instances × 22 features → /mnt/e/hest/outputs/stage2_clustering/instance_features_raw_spatial.tsv
+[04b_spatial] Cohort breakdown: {'BLCA': 3, 'CESC': 12, 'COAD': 16, 'EPM': 32, 'GBM': 1, 'IDC': 503, 'LUAD': 1, 'LUSC': 10, 'PAAD': 8, 'PRAD': 78, 'READ': 4, 'SKCM': 2}
+[04b_spatial] NaN rates: {'circularity': '36.0%', 'convexity': '36.0%', 'Grad_GC': '22.7%', 'Grad_Tfh': '22.7%', 'Grad_Plasma': '22.7%', 'Grad_HEV': '22.7%', 'Grad_Suppressive': '22.7%', 'Grad_Myeloid_supp': '22.7%', 'Grad_Cytotoxic': '22.7%'}
+[04b_spatial] 
+Feature summary (mean ± std):
+[04b_spatial]   GC_score                                  0.3132 ± 0.4096
+[04b_spatial]   Tfh_score                                 0.2040 ± 0.3698
+[04b_spatial]   Plasma_score                              2.0080 ± 2.1811
+[04b_spatial]   HEV_score                                 0.4292 ± 0.5426
+[04b_spatial]   Suppressive                               0.4727 ± 0.4465
+[04b_spatial]   Myeloid_supp                              0.1396 ± 0.3326
+[04b_spatial]   Cytotoxic                                 0.2986 ± 0.4710
+[04b_spatial]   Neighbor_TGFB1                            2.0692 ± 1.3520
+[04b_spatial]   Neighbor_VEGFA                            1.7968 ± 1.5184
+[04b_spatial]   Neighbor_CD8A                             0.2597 ± 0.3863
+[04b_spatial]   Neighbor_tumor_fraction                   4.2002 ± 1.6166
+[04b_spatial]   Neighbor_myeloid_fraction                 2.3677 ± 1.3504
+[04b_spatial]   log_area_um2                              12.2363 ± 0.9936
+[04b_spatial]   circularity                               0.1645 ± 0.1163
+[04b_spatial]   convexity                                 0.6270 ± 0.1286
+[04b_spatial]   Grad_GC                                   -0.0373 ± 2.0168
+[04b_spatial]   Grad_Tfh                                  1.9873 ± 46.6119
+[04b_spatial]   Grad_Plasma                               -2.2610 ± 49.5551
+[04b_spatial]   Grad_HEV                                  -0.3598 ± 5.8468
+[04b_spatial]   Grad_Suppressive                          0.0961 ± 1.4035
+[04b_spatial]   Grad_Myeloid_supp                         -2.3620 ± 54.8301
+[04b_spatial]   Grad_Cytotoxic                            -1.4134 ± 31.7053

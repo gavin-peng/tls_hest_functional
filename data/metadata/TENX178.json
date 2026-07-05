@@ -1,0 +1,23 @@
+{
+    "pixel_size_um_embedded": 0.2645833333333333,
+    "pixel_size_um_estimated": 0.273775031262766,
+    "spots_under_tissue": 1829,
+    "fullres_px_width": 28248,
+    "fullres_px_height": 26128,
+    "dataset_title": "Visium HD Spatial Gene Expression Library, Human Lymph Node (FFPE)",
+    "subseries": NaN,
+    "patient": NaN,
+    "species": "Homo sapiens",
+    "disease_comment": NaN,
+    "disease_state": "Healthy",
+    "oncotree_code": NaN,
+    "tissue": "Prelaryngeal lymph node",
+    "organ": "Lymphoid",
+    "preservation_method": "FFPE",
+    "st_technology": "Visium HD",
+    "data_publication_date": "2025-07-03",
+    "license": "Creative Commons Attribution",
+    "study_link": NaN,
+    "download_page_link1": "https://www.10xgenomics.com/datasets/visium-hd-cytassist-gene-expression-libraries-human-lymph-node-v4",
+    "id": "TENX178"
+}

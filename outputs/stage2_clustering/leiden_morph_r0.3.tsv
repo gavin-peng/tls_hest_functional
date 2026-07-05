@@ -1,0 +1,671 @@
+instance_id	sample_id	oncotree_code	n_spots_in_tls	st_technology	leiden_cluster
+MEND140_2	MEND140	PRAD	6	Visium	1
+MEND142_18	MEND142	PRAD	17	Visium	1
+MEND142_21	MEND142	PRAD	14	Visium	1
+MEND142_24	MEND142	PRAD	6	Visium	1
+MEND149_2	MEND149	PRAD	9	Visium	1
+MEND149_3	MEND149	PRAD	18	Visium	1
+MEND151_2	MEND151	PRAD	5	Visium	1
+MEND154_0	MEND154	PRAD	17	Visium	1
+MEND154_1	MEND154	PRAD	8	Visium	1
+MEND154_2	MEND154	PRAD	8	Visium	1
+MEND154_3	MEND154	PRAD	9	Visium	1
+MEND154_5	MEND154	PRAD	4	Visium	1
+MEND154_6	MEND154	PRAD	8	Visium	1
+MEND154_7	MEND154	PRAD	11	Visium	1
+MEND154_8	MEND154	PRAD	10	Visium	1
+MEND156_0	MEND156	PRAD	6	Visium	1
+MEND156_1	MEND156	PRAD	12	Visium	1
+MEND156_10	MEND156	PRAD	24	Visium	1
+MEND156_11	MEND156	PRAD	22	Visium	1
+MEND156_12	MEND156	PRAD	17	Visium	1
+MEND156_13	MEND156	PRAD	13	Visium	1
+MEND156_14	MEND156	PRAD	5	Visium	1
+MEND156_15	MEND156	PRAD	12	Visium	1
+MEND156_16	MEND156	PRAD	6	Visium	1
+MEND156_17	MEND156	PRAD	31	Visium	1
+MEND156_19	MEND156	PRAD	7	Visium	1
+MEND156_2	MEND156	PRAD	16	Visium	1
+MEND156_21	MEND156	PRAD	7	Visium	1
+MEND156_23	MEND156	PRAD	40	Visium	1
+MEND156_3	MEND156	PRAD	18	Visium	1
+MEND156_4	MEND156	PRAD	36	Visium	1
+MEND156_5	MEND156	PRAD	46	Visium	1
+MEND156_6	MEND156	PRAD	71	Visium	1
+MEND156_7	MEND156	PRAD	16	Visium	1
+MEND156_8	MEND156	PRAD	121	Visium	1
+MEND156_9	MEND156	PRAD	95	Visium	1
+MEND157_0	MEND157	PRAD	6	Visium	1
+MEND157_1	MEND157	PRAD	8	Visium	1
+MEND157_2	MEND157	PRAD	13	Visium	1
+MEND157_3	MEND157	PRAD	21	Visium	1
+MEND157_4	MEND157	PRAD	8	Visium	1
+MEND158_0	MEND158	PRAD	8	Visium	1
+MEND158_1	MEND158	PRAD	8	Visium	1
+MEND159_0	MEND159	PRAD	22	Visium	1
+MEND159_1	MEND159	PRAD	15	Visium	1
+MEND159_10	MEND159	PRAD	34	Visium	1
+MEND159_11	MEND159	PRAD	100	Visium	1
+MEND159_12	MEND159	PRAD	75	Visium	1
+MEND159_13	MEND159	PRAD	40	Visium	1
+MEND159_14	MEND159	PRAD	78	Visium	1
+MEND159_15	MEND159	PRAD	68	Visium	1
+MEND159_16	MEND159	PRAD	74	Visium	1
+MEND159_17	MEND159	PRAD	22	Visium	1
+MEND159_18	MEND159	PRAD	36	Visium	1
+MEND159_19	MEND159	PRAD	29	Visium	1
+MEND159_2	MEND159	PRAD	72	Visium	1
+MEND159_20	MEND159	PRAD	26	Visium	1
+MEND159_3	MEND159	PRAD	40	Visium	1
+MEND159_4	MEND159	PRAD	152	Visium	1
+MEND159_5	MEND159	PRAD	108	Visium	1
+MEND159_6	MEND159	PRAD	70	Visium	1
+MEND159_7	MEND159	PRAD	87	Visium	1
+MEND159_8	MEND159	PRAD	65	Visium	1
+MEND159_9	MEND159	PRAD	40	Visium	1
+MEND160_0	MEND160	PRAD	1	Visium	1
+MEND160_1	MEND160	PRAD	17	Visium	1
+MEND160_2	MEND160	PRAD	8	Visium	1
+MEND160_3	MEND160	PRAD	17	Visium	1
+MEND160_4	MEND160	PRAD	8	Visium	1
+MEND160_5	MEND160	PRAD	11	Visium	1
+MEND160_6	MEND160	PRAD	7	Visium	1
+MEND160_7	MEND160	PRAD	15	Visium	1
+MEND160_8	MEND160	PRAD	79	Visium	1
+MEND161_0	MEND161	PRAD	6	Visium	1
+MEND161_1	MEND161	PRAD	6	Visium	1
+MEND37_0	MEND37	SKCM	8	Visium	1
+MEND39_0	MEND39	SKCM	6	Visium	1
+MEND61_1	MEND61	PRAD	5	Visium	1
+MEND61_2	MEND61	PRAD	6	Visium	1
+MEND61_3	MEND61	PRAD	19	Visium	1
+MEND63_0	MEND63	GBM	6	Visium	1
+MISC19_4	MISC19	LUAD	6	Visium	1
+MISC26_2	MISC26	LUSC	20	Visium	2
+MISC26_3	MISC26	LUSC	9	Visium	2
+MISC29_0	MISC29	LUSC	4	Visium	1
+MISC29_1	MISC29	LUSC	14	Visium	1
+MISC29_2	MISC29	LUSC	1	Visium	1
+MISC29_3	MISC29	LUSC	115	Visium	1
+MISC29_4	MISC29	LUSC	30	Visium	1
+MISC29_5	MISC29	LUSC	14	Visium	1
+MISC29_7	MISC29	LUSC	6	Visium	1
+MISC32_0	MISC32	LUSC	18	Visium	1
+NCBI571_0	NCBI571	PAAD	42	Visium	2
+NCBI571_1	NCBI571	PAAD	16	Visium	2
+NCBI571_2	NCBI571	PAAD	3	Visium	0
+NCBI572_0	NCBI572	PAAD	10	Visium	2
+NCBI572_1	NCBI572	PAAD	14	Visium	2
+NCBI572_2	NCBI572	PAAD	36	Visium	2
+NCBI572_3	NCBI572	PAAD	11	Visium	2
+NCBI572_4	NCBI572	PAAD	14	Visium	2
+NCBI628_0	NCBI628	EPM	24	Visium	1
+NCBI628_2	NCBI628	EPM	35	Visium	1
+NCBI628_4	NCBI628	EPM	3	Visium	1
+NCBI629_0	NCBI629	EPM	6	Visium	1
+NCBI629_1	NCBI629	EPM	28	Visium	1
+NCBI629_10	NCBI629	EPM	60	Visium	1
+NCBI629_11	NCBI629	EPM	7	Visium	1
+NCBI629_2	NCBI629	EPM	21	Visium	1
+NCBI629_3	NCBI629	EPM	6	Visium	1
+NCBI629_4	NCBI629	EPM	4	Visium	1
+NCBI629_6	NCBI629	EPM	8	Visium	1
+NCBI629_7	NCBI629	EPM	124	Visium	1
+NCBI629_8	NCBI629	EPM	62	Visium	1
+NCBI629_9	NCBI629	EPM	68	Visium	1
+NCBI631_0	NCBI631	EPM	2	Visium	1
+NCBI633_0	NCBI633	EPM	16	Visium	1
+NCBI633_1	NCBI633	EPM	18	Visium	1
+NCBI633_2	NCBI633	EPM	9	Visium	1
+NCBI633_3	NCBI633	EPM	9	Visium	1
+NCBI633_4	NCBI633	EPM	16	Visium	1
+NCBI633_6	NCBI633	EPM	2	Visium	1
+NCBI637_2	NCBI637	EPM	15	Visium	1
+NCBI637_3	NCBI637	EPM	3	Visium	1
+NCBI637_4	NCBI637	EPM	12	Visium	1
+NCBI637_6	NCBI637	EPM	4	Visium	1
+NCBI637_7	NCBI637	EPM	15	Visium	1
+NCBI637_8	NCBI637	EPM	6	Visium	1
+NCBI637_9	NCBI637	EPM	8	Visium	1
+NCBI638_1	NCBI638	EPM	5	Visium	1
+NCBI638_2	NCBI638	EPM	30	Visium	1
+NCBI638_3	NCBI638	EPM	37	Visium	1
+NCBI641_0	NCBI641	EPM	17	Visium	1
+NCBI855_0	NCBI855	BLCA	28	Visium	4
+NCBI855_1	NCBI855	BLCA	9	Visium	4
+NCBI855_3	NCBI855	BLCA	2	Visium	4
+SPA0_0	SPA0	IDC	1	Spatial Transcriptomics	4
+SPA100_0	SPA100	IDC	6	Spatial Transcriptomics	0
+SPA100_1	SPA100	IDC	2	Spatial Transcriptomics	0
+SPA100_10	SPA100	IDC	7	Spatial Transcriptomics	0
+SPA100_11	SPA100	IDC	1	Spatial Transcriptomics	0
+SPA100_12	SPA100	IDC	7	Spatial Transcriptomics	0
+SPA100_13	SPA100	IDC	4	Spatial Transcriptomics	0
+SPA100_14	SPA100	IDC	6	Spatial Transcriptomics	0
+SPA100_15	SPA100	IDC	1	Spatial Transcriptomics	0
+SPA100_16	SPA100	IDC	10	Spatial Transcriptomics	0
+SPA100_2	SPA100	IDC	2	Spatial Transcriptomics	0
+SPA100_3	SPA100	IDC	1	Spatial Transcriptomics	0
+SPA100_4	SPA100	IDC	2	Spatial Transcriptomics	0
+SPA100_5	SPA100	IDC	10	Spatial Transcriptomics	0
+SPA100_6	SPA100	IDC	30	Spatial Transcriptomics	0
+SPA100_7	SPA100	IDC	7	Spatial Transcriptomics	0
+SPA100_9	SPA100	IDC	3	Spatial Transcriptomics	0
+SPA101_0	SPA101	IDC	7	Spatial Transcriptomics	0
+SPA101_1	SPA101	IDC	1	Spatial Transcriptomics	0
+SPA101_10	SPA101	IDC	1	Spatial Transcriptomics	0
+SPA101_11	SPA101	IDC	3	Spatial Transcriptomics	0
+SPA101_12	SPA101	IDC	23	Spatial Transcriptomics	0
+SPA101_2	SPA101	IDC	25	Spatial Transcriptomics	0
+SPA101_3	SPA101	IDC	7	Spatial Transcriptomics	0
+SPA101_4	SPA101	IDC	20	Spatial Transcriptomics	0
+SPA101_5	SPA101	IDC	1	Spatial Transcriptomics	0
+SPA101_6	SPA101	IDC	7	Spatial Transcriptomics	0
+SPA101_7	SPA101	IDC	13	Spatial Transcriptomics	0
+SPA101_8	SPA101	IDC	2	Spatial Transcriptomics	0
+SPA101_9	SPA101	IDC	13	Spatial Transcriptomics	0
+SPA102_0	SPA102	IDC	3	Spatial Transcriptomics	3
+SPA102_1	SPA102	IDC	1	Spatial Transcriptomics	3
+SPA102_10	SPA102	IDC	7	Spatial Transcriptomics	3
+SPA102_11	SPA102	IDC	16	Spatial Transcriptomics	3
+SPA102_12	SPA102	IDC	7	Spatial Transcriptomics	3
+SPA102_13	SPA102	IDC	22	Spatial Transcriptomics	3
+SPA102_14	SPA102	IDC	12	Spatial Transcriptomics	3
+SPA102_15	SPA102	IDC	5	Spatial Transcriptomics	3
+SPA102_2	SPA102	IDC	26	Spatial Transcriptomics	3
+SPA102_3	SPA102	IDC	21	Spatial Transcriptomics	3
+SPA102_4	SPA102	IDC	17	Spatial Transcriptomics	3
+SPA102_5	SPA102	IDC	19	Spatial Transcriptomics	3
+SPA102_6	SPA102	IDC	20	Spatial Transcriptomics	3
+SPA102_7	SPA102	IDC	23	Spatial Transcriptomics	3
+SPA102_8	SPA102	IDC	8	Spatial Transcriptomics	3
+SPA102_9	SPA102	IDC	14	Spatial Transcriptomics	3
+SPA103_0	SPA103	IDC	2	Spatial Transcriptomics	3
+SPA103_1	SPA103	IDC	41	Spatial Transcriptomics	3
+SPA103_10	SPA103	IDC	10	Spatial Transcriptomics	3
+SPA103_11	SPA103	IDC	2	Spatial Transcriptomics	3
+SPA103_12	SPA103	IDC	3	Spatial Transcriptomics	3
+SPA103_13	SPA103	IDC	2	Spatial Transcriptomics	3
+SPA103_2	SPA103	IDC	22	Spatial Transcriptomics	3
+SPA103_3	SPA103	IDC	26	Spatial Transcriptomics	3
+SPA103_4	SPA103	IDC	9	Spatial Transcriptomics	3
+SPA103_5	SPA103	IDC	11	Spatial Transcriptomics	3
+SPA103_6	SPA103	IDC	36	Spatial Transcriptomics	3
+SPA103_7	SPA103	IDC	22	Spatial Transcriptomics	3
+SPA103_8	SPA103	IDC	7	Spatial Transcriptomics	3
+SPA103_9	SPA103	IDC	26	Spatial Transcriptomics	3
+SPA104_0	SPA104	IDC	25	Spatial Transcriptomics	3
+SPA104_1	SPA104	IDC	22	Spatial Transcriptomics	3
+SPA104_11	SPA104	IDC	20	Spatial Transcriptomics	3
+SPA104_12	SPA104	IDC	22	Spatial Transcriptomics	3
+SPA104_13	SPA104	IDC	6	Spatial Transcriptomics	3
+SPA104_14	SPA104	IDC	22	Spatial Transcriptomics	3
+SPA104_15	SPA104	IDC	7	Spatial Transcriptomics	3
+SPA104_16	SPA104	IDC	11	Spatial Transcriptomics	3
+SPA104_2	SPA104	IDC	37	Spatial Transcriptomics	3
+SPA104_3	SPA104	IDC	5	Spatial Transcriptomics	3
+SPA104_4	SPA104	IDC	23	Spatial Transcriptomics	3
+SPA104_5	SPA104	IDC	5	Spatial Transcriptomics	3
+SPA104_6	SPA104	IDC	19	Spatial Transcriptomics	3
+SPA104_7	SPA104	IDC	9	Spatial Transcriptomics	3
+SPA104_8	SPA104	IDC	11	Spatial Transcriptomics	3
+SPA104_9	SPA104	IDC	20	Spatial Transcriptomics	3
+SPA108_0	SPA108	IDC	9	Spatial Transcriptomics	0
+SPA108_1	SPA108	IDC	7	Spatial Transcriptomics	0
+SPA108_10	SPA108	IDC	8	Spatial Transcriptomics	0
+SPA108_11	SPA108	IDC	9	Spatial Transcriptomics	0
+SPA108_12	SPA108	IDC	19	Spatial Transcriptomics	0
+SPA108_2	SPA108	IDC	17	Spatial Transcriptomics	0
+SPA108_3	SPA108	IDC	18	Spatial Transcriptomics	0
+SPA108_4	SPA108	IDC	5	Spatial Transcriptomics	0
+SPA108_6	SPA108	IDC	9	Spatial Transcriptomics	0
+SPA108_7	SPA108	IDC	9	Spatial Transcriptomics	0
+SPA108_8	SPA108	IDC	18	Spatial Transcriptomics	0
+SPA108_9	SPA108	IDC	6	Spatial Transcriptomics	0
+SPA109_0	SPA109	IDC	8	Spatial Transcriptomics	0
+SPA109_1	SPA109	IDC	12	Spatial Transcriptomics	0
+SPA109_10	SPA109	IDC	8	Spatial Transcriptomics	0
+SPA109_11	SPA109	IDC	6	Spatial Transcriptomics	0
+SPA109_12	SPA109	IDC	5	Spatial Transcriptomics	0
+SPA109_2	SPA109	IDC	26	Spatial Transcriptomics	0
+SPA109_3	SPA109	IDC	14	Spatial Transcriptomics	0
+SPA109_4	SPA109	IDC	12	Spatial Transcriptomics	0
+SPA109_5	SPA109	IDC	21	Spatial Transcriptomics	0
+SPA109_6	SPA109	IDC	14	Spatial Transcriptomics	0
+SPA109_7	SPA109	IDC	5	Spatial Transcriptomics	0
+SPA109_8	SPA109	IDC	5	Spatial Transcriptomics	0
+SPA109_9	SPA109	IDC	8	Spatial Transcriptomics	0
+SPA110_0	SPA110	IDC	24	Spatial Transcriptomics	0
+SPA110_1	SPA110	IDC	6	Spatial Transcriptomics	0
+SPA110_10	SPA110	IDC	4	Spatial Transcriptomics	0
+SPA110_11	SPA110	IDC	12	Spatial Transcriptomics	0
+SPA110_12	SPA110	IDC	6	Spatial Transcriptomics	0
+SPA110_13	SPA110	IDC	12	Spatial Transcriptomics	0
+SPA110_14	SPA110	IDC	1	Spatial Transcriptomics	0
+SPA110_15	SPA110	IDC	6	Spatial Transcriptomics	0
+SPA110_2	SPA110	IDC	3	Spatial Transcriptomics	0
+SPA110_3	SPA110	IDC	10	Spatial Transcriptomics	0
+SPA110_4	SPA110	IDC	6	Spatial Transcriptomics	0
+SPA110_5	SPA110	IDC	23	Spatial Transcriptomics	0
+SPA110_6	SPA110	IDC	11	Spatial Transcriptomics	0
+SPA110_7	SPA110	IDC	11	Spatial Transcriptomics	0
+SPA110_8	SPA110	IDC	7	Spatial Transcriptomics	0
+SPA110_9	SPA110	IDC	2	Spatial Transcriptomics	0
+SPA111_0	SPA111	IDC	2	Spatial Transcriptomics	0
+SPA111_1	SPA111	IDC	5	Spatial Transcriptomics	0
+SPA111_2	SPA111	IDC	1	Spatial Transcriptomics	4
+SPA111_3	SPA111	IDC	10	Spatial Transcriptomics	0
+SPA111_4	SPA111	IDC	8	Spatial Transcriptomics	0
+SPA112_0	SPA112	IDC	4	Spatial Transcriptomics	0
+SPA112_1	SPA112	IDC	5	Spatial Transcriptomics	0
+SPA112_2	SPA112	IDC	16	Spatial Transcriptomics	0
+SPA113_0	SPA113	IDC	4	Spatial Transcriptomics	0
+SPA113_1	SPA113	IDC	4	Spatial Transcriptomics	0
+SPA113_2	SPA113	IDC	11	Spatial Transcriptomics	0
+SPA113_3	SPA113	IDC	17	Spatial Transcriptomics	0
+SPA113_4	SPA113	IDC	14	Spatial Transcriptomics	0
+SPA113_6	SPA113	IDC	4	Spatial Transcriptomics	0
+SPA113_7	SPA113	IDC	5	Spatial Transcriptomics	0
+SPA114_0	SPA114	IDC	3	Spatial Transcriptomics	2
+SPA114_1	SPA114	IDC	4	Spatial Transcriptomics	0
+SPA114_2	SPA114	IDC	5	Spatial Transcriptomics	0
+SPA114_3	SPA114	IDC	1	Spatial Transcriptomics	0
+SPA114_4	SPA114	IDC	2	Spatial Transcriptomics	0
+SPA114_6	SPA114	IDC	1	Spatial Transcriptomics	4
+SPA115_0	SPA115	IDC	2	Spatial Transcriptomics	0
+SPA115_1	SPA115	IDC	2	Spatial Transcriptomics	0
+SPA115_2	SPA115	IDC	28	Spatial Transcriptomics	0
+SPA115_3	SPA115	IDC	4	Spatial Transcriptomics	0
+SPA115_4	SPA115	IDC	1	Spatial Transcriptomics	0
+SPA115_5	SPA115	IDC	2	Spatial Transcriptomics	0
+SPA116_0	SPA116	IDC	22	Spatial Transcriptomics	1
+SPA116_1	SPA116	IDC	7	Spatial Transcriptomics	1
+SPA116_2	SPA116	IDC	6	Spatial Transcriptomics	1
+SPA116_3	SPA116	IDC	4	Spatial Transcriptomics	1
+SPA117_0	SPA117	IDC	12	Spatial Transcriptomics	1
+SPA117_2	SPA117	IDC	3	Spatial Transcriptomics	1
+SPA117_3	SPA117	IDC	2	Spatial Transcriptomics	1
+SPA118_0	SPA118	IDC	1	Spatial Transcriptomics	4
+SPA118_3	SPA118	IDC	2	Spatial Transcriptomics	0
+SPA119_0	SPA119	IDC	1	Spatial Transcriptomics	2
+SPA119_1	SPA119	IDC	17	Spatial Transcriptomics	2
+SPA119_2	SPA119	IDC	8	Spatial Transcriptomics	4
+SPA119_3	SPA119	IDC	1	Spatial Transcriptomics	4
+SPA119_4	SPA119	IDC	21	Spatial Transcriptomics	4
+SPA119_5	SPA119	IDC	2	Spatial Transcriptomics	4
+SPA119_6	SPA119	IDC	1	Spatial Transcriptomics	4
+SPA119_7	SPA119	IDC	1	Spatial Transcriptomics	4
+SPA120_1	SPA120	IDC	3	Spatial Transcriptomics	2
+SPA120_2	SPA120	IDC	26	Spatial Transcriptomics	2
+SPA120_3	SPA120	IDC	5	Spatial Transcriptomics	2
+SPA120_5	SPA120	IDC	4	Spatial Transcriptomics	4
+SPA120_6	SPA120	IDC	6	Spatial Transcriptomics	4
+SPA120_7	SPA120	IDC	2	Spatial Transcriptomics	4
+SPA120_8	SPA120	IDC	22	Spatial Transcriptomics	2
+SPA120_9	SPA120	IDC	1	Spatial Transcriptomics	4
+SPA121_0	SPA121	IDC	5	Spatial Transcriptomics	2
+SPA121_1	SPA121	IDC	21	Spatial Transcriptomics	2
+SPA121_2	SPA121	IDC	9	Spatial Transcriptomics	2
+SPA121_3	SPA121	IDC	4	Spatial Transcriptomics	2
+SPA121_4	SPA121	IDC	4	Spatial Transcriptomics	4
+SPA121_5	SPA121	IDC	6	Spatial Transcriptomics	4
+SPA121_6	SPA121	IDC	2	Spatial Transcriptomics	4
+SPA121_7	SPA121	IDC	17	Spatial Transcriptomics	2
+SPA121_8	SPA121	IDC	8	Spatial Transcriptomics	2
+SPA121_9	SPA121	IDC	1	Spatial Transcriptomics	4
+SPA122_0	SPA122	IDC	2	Spatial Transcriptomics	4
+SPA122_1	SPA122	IDC	1	Spatial Transcriptomics	4
+SPA122_2	SPA122	IDC	1	Spatial Transcriptomics	2
+SPA122_3	SPA122	IDC	1	Spatial Transcriptomics	4
+SPA122_4	SPA122	IDC	1	Spatial Transcriptomics	4
+SPA122_5	SPA122	IDC	2	Spatial Transcriptomics	4
+SPA123_0	SPA123	IDC	3	Spatial Transcriptomics	4
+SPA123_1	SPA123	IDC	1	Spatial Transcriptomics	4
+SPA123_2	SPA123	IDC	2	Spatial Transcriptomics	2
+SPA124_0	SPA124	IDC	2	Spatial Transcriptomics	4
+SPA125_0	SPA125	IDC	1	Spatial Transcriptomics	0
+SPA125_1	SPA125	IDC	2	Spatial Transcriptomics	2
+SPA125_10	SPA125	IDC	7	Spatial Transcriptomics	2
+SPA125_11	SPA125	IDC	5	Spatial Transcriptomics	2
+SPA125_12	SPA125	IDC	4	Spatial Transcriptomics	2
+SPA125_13	SPA125	IDC	1	Spatial Transcriptomics	0
+SPA125_14	SPA125	IDC	2	Spatial Transcriptomics	2
+SPA125_15	SPA125	IDC	3	Spatial Transcriptomics	2
+SPA125_16	SPA125	IDC	7	Spatial Transcriptomics	2
+SPA125_17	SPA125	IDC	5	Spatial Transcriptomics	2
+SPA125_18	SPA125	IDC	8	Spatial Transcriptomics	2
+SPA125_19	SPA125	IDC	7	Spatial Transcriptomics	2
+SPA125_2	SPA125	IDC	11	Spatial Transcriptomics	2
+SPA125_3	SPA125	IDC	16	Spatial Transcriptomics	2
+SPA125_4	SPA125	IDC	9	Spatial Transcriptomics	2
+SPA125_5	SPA125	IDC	12	Spatial Transcriptomics	2
+SPA125_6	SPA125	IDC	1	Spatial Transcriptomics	2
+SPA125_7	SPA125	IDC	8	Spatial Transcriptomics	2
+SPA125_8	SPA125	IDC	37	Spatial Transcriptomics	2
+SPA125_9	SPA125	IDC	31	Spatial Transcriptomics	2
+SPA131_1	SPA131	IDC	3	Spatial Transcriptomics	2
+SPA131_2	SPA131	IDC	5	Spatial Transcriptomics	2
+SPA131_4	SPA131	IDC	1	Spatial Transcriptomics	2
+SPA131_5	SPA131	IDC	7	Spatial Transcriptomics	2
+SPA131_6	SPA131	IDC	3	Spatial Transcriptomics	2
+SPA132_0	SPA132	IDC	4	Spatial Transcriptomics	2
+SPA132_1	SPA132	IDC	5	Spatial Transcriptomics	2
+SPA132_2	SPA132	IDC	4	Spatial Transcriptomics	2
+SPA132_3	SPA132	IDC	13	Spatial Transcriptomics	2
+SPA133_0	SPA133	IDC	2	Spatial Transcriptomics	2
+SPA133_1	SPA133	IDC	2	Spatial Transcriptomics	2
+SPA133_2	SPA133	IDC	3	Spatial Transcriptomics	2
+SPA133_3	SPA133	IDC	3	Spatial Transcriptomics	2
+SPA133_4	SPA133	IDC	2	Spatial Transcriptomics	0
+SPA134_0	SPA134	IDC	3	Spatial Transcriptomics	2
+SPA134_1	SPA134	IDC	4	Spatial Transcriptomics	2
+SPA134_2	SPA134	IDC	1	Spatial Transcriptomics	2
+SPA135_0	SPA135	IDC	3	Spatial Transcriptomics	2
+SPA135_1	SPA135	IDC	1	Spatial Transcriptomics	2
+SPA135_2	SPA135	IDC	1	Spatial Transcriptomics	2
+SPA135_3	SPA135	IDC	9	Spatial Transcriptomics	2
+SPA135_4	SPA135	IDC	18	Spatial Transcriptomics	2
+SPA135_5	SPA135	IDC	1	Spatial Transcriptomics	2
+SPA135_6	SPA135	IDC	4	Spatial Transcriptomics	2
+SPA135_8	SPA135	IDC	3	Spatial Transcriptomics	2
+SPA136_0	SPA136	IDC	2	Spatial Transcriptomics	2
+SPA137_0	SPA137	IDC	1	Spatial Transcriptomics	2
+SPA137_1	SPA137	IDC	4	Spatial Transcriptomics	2
+SPA137_4	SPA137	IDC	7	Spatial Transcriptomics	2
+SPA138_0	SPA138	IDC	5	Spatial Transcriptomics	2
+SPA138_1	SPA138	IDC	2	Spatial Transcriptomics	2
+SPA138_2	SPA138	IDC	3	Spatial Transcriptomics	2
+SPA139_0	SPA139	IDC	3	Spatial Transcriptomics	2
+SPA139_2	SPA139	IDC	2	Spatial Transcriptomics	2
+SPA140_0	SPA140	IDC	1	Spatial Transcriptomics	2
+SPA141_0	SPA141	IDC	1	Spatial Transcriptomics	2
+SPA142_0	SPA142	IDC	3	Spatial Transcriptomics	2
+SPA142_1	SPA142	IDC	1	Spatial Transcriptomics	2
+SPA142_2	SPA142	IDC	1	Spatial Transcriptomics	2
+SPA143_0	SPA143	IDC	9	Spatial Transcriptomics	2
+SPA144_0	SPA144	IDC	1	Spatial Transcriptomics	2
+SPA144_1	SPA144	IDC	11	Spatial Transcriptomics	2
+SPA144_2	SPA144	IDC	4	Spatial Transcriptomics	2
+SPA145_0	SPA145	IDC	2	Spatial Transcriptomics	2
+SPA145_1	SPA145	IDC	15	Spatial Transcriptomics	2
+SPA146_0	SPA146	IDC	15	Spatial Transcriptomics	2
+SPA146_1	SPA146	IDC	10	Spatial Transcriptomics	1
+SPA147_0	SPA147	IDC	11	Spatial Transcriptomics	2
+SPA147_1	SPA147	IDC	5	Spatial Transcriptomics	2
+SPA147_2	SPA147	IDC	3	Spatial Transcriptomics	4
+SPA147_3	SPA147	IDC	2	Spatial Transcriptomics	4
+SPA148_1	SPA148	IDC	3	Spatial Transcriptomics	0
+SPA148_2	SPA148	IDC	18	Spatial Transcriptomics	2
+SPA148_3	SPA148	IDC	4	Spatial Transcriptomics	4
+SPA1_0	SPA1	IDC	5	Spatial Transcriptomics	0
+SPA3_1	SPA3	IDC	3	Spatial Transcriptomics	1
+SPA3_2	SPA3	IDC	3	Spatial Transcriptomics	1
+SPA57_0	SPA57	IDC	2	Spatial Transcriptomics	2
+SPA57_1	SPA57	IDC	33	Spatial Transcriptomics	3
+SPA57_2	SPA57	IDC	40	Spatial Transcriptomics	3
+SPA57_3	SPA57	IDC	8	Spatial Transcriptomics	3
+SPA57_4	SPA57	IDC	10	Spatial Transcriptomics	3
+SPA57_5	SPA57	IDC	6	Spatial Transcriptomics	3
+SPA58_0	SPA58	IDC	1	Spatial Transcriptomics	0
+SPA58_1	SPA58	IDC	29	Spatial Transcriptomics	3
+SPA58_2	SPA58	IDC	12	Spatial Transcriptomics	3
+SPA58_3	SPA58	IDC	38	Spatial Transcriptomics	3
+SPA58_4	SPA58	IDC	18	Spatial Transcriptomics	3
+SPA58_5	SPA58	IDC	3	Spatial Transcriptomics	3
+SPA58_6	SPA58	IDC	8	Spatial Transcriptomics	3
+SPA58_7	SPA58	IDC	24	Spatial Transcriptomics	3
+SPA58_8	SPA58	IDC	7	Spatial Transcriptomics	3
+SPA59_1	SPA59	IDC	2	Spatial Transcriptomics	3
+SPA59_2	SPA59	IDC	12	Spatial Transcriptomics	3
+SPA59_3	SPA59	IDC	15	Spatial Transcriptomics	3
+SPA59_4	SPA59	IDC	14	Spatial Transcriptomics	3
+SPA59_5	SPA59	IDC	4	Spatial Transcriptomics	3
+SPA59_6	SPA59	IDC	8	Spatial Transcriptomics	3
+SPA59_7	SPA59	IDC	6	Spatial Transcriptomics	3
+SPA59_8	SPA59	IDC	9	Spatial Transcriptomics	0
+SPA60_0	SPA60	IDC	8	Spatial Transcriptomics	1
+SPA60_1	SPA60	IDC	20	Spatial Transcriptomics	1
+SPA61_1	SPA61	IDC	15	Spatial Transcriptomics	1
+SPA62_0	SPA62	IDC	7	Spatial Transcriptomics	1
+SPA63_0	SPA63	IDC	3	Spatial Transcriptomics	1
+SPA63_1	SPA63	IDC	1	Spatial Transcriptomics	1
+SPA63_2	SPA63	IDC	18	Spatial Transcriptomics	1
+SPA64_0	SPA64	IDC	2	Spatial Transcriptomics	1
+SPA64_1	SPA64	IDC	8	Spatial Transcriptomics	1
+SPA64_2	SPA64	IDC	11	Spatial Transcriptomics	1
+SPA64_3	SPA64	IDC	4	Spatial Transcriptomics	1
+SPA64_4	SPA64	IDC	2	Spatial Transcriptomics	1
+SPA64_5	SPA64	IDC	5	Spatial Transcriptomics	1
+SPA64_6	SPA64	IDC	3	Spatial Transcriptomics	1
+SPA64_7	SPA64	IDC	1	Spatial Transcriptomics	1
+SPA64_8	SPA64	IDC	3	Spatial Transcriptomics	1
+SPA65_0	SPA65	IDC	2	Spatial Transcriptomics	1
+SPA65_1	SPA65	IDC	4	Spatial Transcriptomics	1
+SPA65_10	SPA65	IDC	2	Spatial Transcriptomics	1
+SPA65_11	SPA65	IDC	7	Spatial Transcriptomics	1
+SPA65_12	SPA65	IDC	1	Spatial Transcriptomics	1
+SPA65_2	SPA65	IDC	3	Spatial Transcriptomics	1
+SPA65_3	SPA65	IDC	3	Spatial Transcriptomics	1
+SPA65_4	SPA65	IDC	2	Spatial Transcriptomics	1
+SPA65_5	SPA65	IDC	1	Spatial Transcriptomics	1
+SPA65_6	SPA65	IDC	2	Spatial Transcriptomics	1
+SPA65_7	SPA65	IDC	1	Spatial Transcriptomics	1
+SPA65_8	SPA65	IDC	3	Spatial Transcriptomics	1
+SPA65_9	SPA65	IDC	1	Spatial Transcriptomics	1
+SPA66_0	SPA66	IDC	1	Spatial Transcriptomics	0
+SPA68_0	SPA68	IDC	3	Spatial Transcriptomics	2
+SPA69_0	SPA69	IDC	57	Spatial Transcriptomics	0
+SPA69_1	SPA69	IDC	21	Spatial Transcriptomics	0
+SPA69_10	SPA69	IDC	21	Spatial Transcriptomics	0
+SPA69_2	SPA69	IDC	8	Spatial Transcriptomics	0
+SPA69_3	SPA69	IDC	5	Spatial Transcriptomics	0
+SPA69_4	SPA69	IDC	4	Spatial Transcriptomics	0
+SPA69_5	SPA69	IDC	25	Spatial Transcriptomics	0
+SPA69_6	SPA69	IDC	11	Spatial Transcriptomics	0
+SPA69_7	SPA69	IDC	24	Spatial Transcriptomics	0
+SPA69_8	SPA69	IDC	8	Spatial Transcriptomics	0
+SPA69_9	SPA69	IDC	10	Spatial Transcriptomics	0
+SPA70_0	SPA70	IDC	2	Spatial Transcriptomics	0
+SPA70_10	SPA70	IDC	15	Spatial Transcriptomics	0
+SPA70_2	SPA70	IDC	2	Spatial Transcriptomics	0
+SPA70_3	SPA70	IDC	35	Spatial Transcriptomics	0
+SPA70_4	SPA70	IDC	42	Spatial Transcriptomics	0
+SPA70_5	SPA70	IDC	13	Spatial Transcriptomics	0
+SPA70_6	SPA70	IDC	13	Spatial Transcriptomics	0
+SPA70_7	SPA70	IDC	10	Spatial Transcriptomics	0
+SPA70_8	SPA70	IDC	8	Spatial Transcriptomics	0
+SPA70_9	SPA70	IDC	3	Spatial Transcriptomics	0
+SPA71_0	SPA71	IDC	25	Spatial Transcriptomics	0
+SPA71_1	SPA71	IDC	19	Spatial Transcriptomics	0
+SPA71_10	SPA71	IDC	7	Spatial Transcriptomics	0
+SPA71_11	SPA71	IDC	19	Spatial Transcriptomics	0
+SPA71_12	SPA71	IDC	15	Spatial Transcriptomics	0
+SPA71_13	SPA71	IDC	8	Spatial Transcriptomics	0
+SPA71_2	SPA71	IDC	5	Spatial Transcriptomics	0
+SPA71_3	SPA71	IDC	6	Spatial Transcriptomics	0
+SPA71_4	SPA71	IDC	6	Spatial Transcriptomics	0
+SPA71_5	SPA71	IDC	13	Spatial Transcriptomics	0
+SPA71_6	SPA71	IDC	21	Spatial Transcriptomics	0
+SPA71_7	SPA71	IDC	34	Spatial Transcriptomics	0
+SPA71_8	SPA71	IDC	16	Spatial Transcriptomics	0
+SPA71_9	SPA71	IDC	15	Spatial Transcriptomics	0
+SPA72_0	SPA72	IDC	3	Spatial Transcriptomics	1
+SPA72_1	SPA72	IDC	2	Spatial Transcriptomics	0
+SPA72_2	SPA72	IDC	7	Spatial Transcriptomics	1
+SPA72_3	SPA72	IDC	1	Spatial Transcriptomics	1
+SPA72_4	SPA72	IDC	2	Spatial Transcriptomics	1
+SPA72_5	SPA72	IDC	1	Spatial Transcriptomics	0
+SPA73_0	SPA73	IDC	1	Spatial Transcriptomics	0
+SPA73_1	SPA73	IDC	2	Spatial Transcriptomics	1
+SPA73_2	SPA73	IDC	6	Spatial Transcriptomics	1
+SPA73_3	SPA73	IDC	4	Spatial Transcriptomics	1
+SPA74_1	SPA74	IDC	6	Spatial Transcriptomics	1
+SPA74_10	SPA74	IDC	8	Spatial Transcriptomics	1
+SPA74_2	SPA74	IDC	7	Spatial Transcriptomics	1
+SPA74_3	SPA74	IDC	1	Spatial Transcriptomics	1
+SPA74_4	SPA74	IDC	2	Spatial Transcriptomics	1
+SPA74_5	SPA74	IDC	2	Spatial Transcriptomics	1
+SPA74_8	SPA74	IDC	10	Spatial Transcriptomics	1
+SPA74_9	SPA74	IDC	5	Spatial Transcriptomics	1
+SPA78_0	SPA78	IDC	8	Spatial Transcriptomics	0
+SPA78_1	SPA78	IDC	1	Spatial Transcriptomics	0
+SPA78_2	SPA78	IDC	1	Spatial Transcriptomics	2
+SPA79_0	SPA79	IDC	1	Spatial Transcriptomics	4
+SPA79_1	SPA79	IDC	2	Spatial Transcriptomics	0
+SPA79_2	SPA79	IDC	1	Spatial Transcriptomics	4
+SPA80_0	SPA80	IDC	7	Spatial Transcriptomics	0
+SPA80_1	SPA80	IDC	2	Spatial Transcriptomics	4
+SPA81_1	SPA81	IDC	2	Spatial Transcriptomics	0
+SPA81_10	SPA81	IDC	7	Spatial Transcriptomics	0
+SPA81_11	SPA81	IDC	3	Spatial Transcriptomics	0
+SPA81_12	SPA81	IDC	3	Spatial Transcriptomics	1
+SPA81_14	SPA81	IDC	6	Spatial Transcriptomics	0
+SPA81_16	SPA81	IDC	1	Spatial Transcriptomics	4
+SPA81_17	SPA81	IDC	1	Spatial Transcriptomics	4
+SPA81_18	SPA81	IDC	12	Spatial Transcriptomics	0
+SPA81_19	SPA81	IDC	5	Spatial Transcriptomics	0
+SPA81_2	SPA81	IDC	3	Spatial Transcriptomics	4
+SPA81_20	SPA81	IDC	1	Spatial Transcriptomics	0
+SPA81_21	SPA81	IDC	4	Spatial Transcriptomics	0
+SPA81_22	SPA81	IDC	1	Spatial Transcriptomics	0
+SPA81_3	SPA81	IDC	1	Spatial Transcriptomics	4
+SPA81_4	SPA81	IDC	4	Spatial Transcriptomics	0
+SPA81_5	SPA81	IDC	1	Spatial Transcriptomics	0
+SPA81_6	SPA81	IDC	3	Spatial Transcriptomics	0
+SPA81_7	SPA81	IDC	13	Spatial Transcriptomics	4
+SPA81_8	SPA81	IDC	8	Spatial Transcriptomics	0
+SPA81_9	SPA81	IDC	8	Spatial Transcriptomics	0
+SPA82_0	SPA82	IDC	3	Spatial Transcriptomics	0
+SPA82_1	SPA82	IDC	2	Spatial Transcriptomics	0
+SPA82_10	SPA82	IDC	6	Spatial Transcriptomics	0
+SPA82_11	SPA82	IDC	2	Spatial Transcriptomics	0
+SPA82_12	SPA82	IDC	1	Spatial Transcriptomics	4
+SPA82_13	SPA82	IDC	21	Spatial Transcriptomics	0
+SPA82_14	SPA82	IDC	3	Spatial Transcriptomics	0
+SPA82_15	SPA82	IDC	3	Spatial Transcriptomics	0
+SPA82_16	SPA82	IDC	11	Spatial Transcriptomics	0
+SPA82_17	SPA82	IDC	2	Spatial Transcriptomics	1
+SPA82_2	SPA82	IDC	3	Spatial Transcriptomics	4
+SPA82_3	SPA82	IDC	10	Spatial Transcriptomics	0
+SPA82_4	SPA82	IDC	4	Spatial Transcriptomics	0
+SPA82_5	SPA82	IDC	2	Spatial Transcriptomics	4
+SPA82_6	SPA82	IDC	2	Spatial Transcriptomics	0
+SPA82_7	SPA82	IDC	15	Spatial Transcriptomics	4
+SPA82_8	SPA82	IDC	2	Spatial Transcriptomics	0
+SPA82_9	SPA82	IDC	5	Spatial Transcriptomics	0
+SPA83_0	SPA83	IDC	9	Spatial Transcriptomics	0
+SPA83_1	SPA83	IDC	4	Spatial Transcriptomics	4
+SPA83_10	SPA83	IDC	20	Spatial Transcriptomics	0
+SPA83_11	SPA83	IDC	1	Spatial Transcriptomics	0
+SPA83_12	SPA83	IDC	17	Spatial Transcriptomics	0
+SPA83_13	SPA83	IDC	2	Spatial Transcriptomics	4
+SPA83_2	SPA83	IDC	1	Spatial Transcriptomics	4
+SPA83_3	SPA83	IDC	2	Spatial Transcriptomics	0
+SPA83_5	SPA83	IDC	2	Spatial Transcriptomics	0
+SPA83_6	SPA83	IDC	2	Spatial Transcriptomics	0
+SPA83_7	SPA83	IDC	6	Spatial Transcriptomics	0
+SPA83_8	SPA83	IDC	6	Spatial Transcriptomics	0
+SPA83_9	SPA83	IDC	7	Spatial Transcriptomics	0
+SPA84_0	SPA84	IDC	3	Spatial Transcriptomics	2
+SPA84_1	SPA84	IDC	1	Spatial Transcriptomics	4
+SPA84_2	SPA84	IDC	13	Spatial Transcriptomics	0
+SPA84_3	SPA84	IDC	12	Spatial Transcriptomics	0
+SPA84_5	SPA84	IDC	24	Spatial Transcriptomics	0
+SPA84_6	SPA84	IDC	13	Spatial Transcriptomics	0
+SPA84_7	SPA84	IDC	11	Spatial Transcriptomics	0
+SPA84_8	SPA84	IDC	1	Spatial Transcriptomics	0
+SPA84_9	SPA84	IDC	15	Spatial Transcriptomics	0
+SPA85_0	SPA85	IDC	2	Spatial Transcriptomics	0
+SPA85_1	SPA85	IDC	2	Spatial Transcriptomics	0
+SPA85_2	SPA85	IDC	20	Spatial Transcriptomics	0
+SPA85_4	SPA85	IDC	17	Spatial Transcriptomics	0
+SPA85_5	SPA85	IDC	9	Spatial Transcriptomics	0
+SPA85_6	SPA85	IDC	5	Spatial Transcriptomics	0
+SPA86_0	SPA86	IDC	3	Spatial Transcriptomics	0
+SPA86_1	SPA86	IDC	2	Spatial Transcriptomics	0
+SPA86_2	SPA86	IDC	19	Spatial Transcriptomics	0
+SPA86_3	SPA86	IDC	16	Spatial Transcriptomics	0
+SPA86_5	SPA86	IDC	48	Spatial Transcriptomics	0
+SPA86_6	SPA86	IDC	6	Spatial Transcriptomics	0
+SPA86_7	SPA86	IDC	15	Spatial Transcriptomics	0
+SPA87_0	SPA87	IDC	3	Spatial Transcriptomics	0
+SPA87_1	SPA87	IDC	1	Spatial Transcriptomics	0
+SPA87_10	SPA87	IDC	4	Spatial Transcriptomics	0
+SPA87_11	SPA87	IDC	1	Spatial Transcriptomics	0
+SPA87_12	SPA87	IDC	3	Spatial Transcriptomics	0
+SPA87_13	SPA87	IDC	4	Spatial Transcriptomics	0
+SPA87_2	SPA87	IDC	3	Spatial Transcriptomics	0
+SPA87_3	SPA87	IDC	1	Spatial Transcriptomics	0
+SPA87_4	SPA87	IDC	1	Spatial Transcriptomics	0
+SPA87_6	SPA87	IDC	2	Spatial Transcriptomics	0
+SPA87_7	SPA87	IDC	1	Spatial Transcriptomics	0
+SPA87_8	SPA87	IDC	4	Spatial Transcriptomics	0
+SPA87_9	SPA87	IDC	9	Spatial Transcriptomics	0
+SPA88_0	SPA88	IDC	2	Spatial Transcriptomics	0
+SPA88_1	SPA88	IDC	1	Spatial Transcriptomics	4
+SPA88_2	SPA88	IDC	1	Spatial Transcriptomics	4
+SPA88_3	SPA88	IDC	1	Spatial Transcriptomics	4
+SPA88_4	SPA88	IDC	4	Spatial Transcriptomics	0
+SPA88_5	SPA88	IDC	4	Spatial Transcriptomics	0
+SPA89_1	SPA89	IDC	2	Spatial Transcriptomics	3
+SPA89_2	SPA89	IDC	9	Spatial Transcriptomics	0
+SPA89_3	SPA89	IDC	12	Spatial Transcriptomics	0
+SPA89_4	SPA89	IDC	3	Spatial Transcriptomics	0
+SPA89_5	SPA89	IDC	1	Spatial Transcriptomics	2
+SPA90_0	SPA90	IDC	4	Spatial Transcriptomics	2
+SPA90_1	SPA90	IDC	2	Spatial Transcriptomics	2
+SPA90_2	SPA90	IDC	1	Spatial Transcriptomics	2
+SPA90_3	SPA90	IDC	8	Spatial Transcriptomics	2
+SPA90_4	SPA90	IDC	4	Spatial Transcriptomics	2
+SPA90_5	SPA90	IDC	2	Spatial Transcriptomics	2
+SPA90_6	SPA90	IDC	4	Spatial Transcriptomics	2
+SPA90_8	SPA90	IDC	2	Spatial Transcriptomics	2
+SPA92_0	SPA92	IDC	4	Spatial Transcriptomics	2
+SPA92_1	SPA92	IDC	4	Spatial Transcriptomics	2
+SPA92_2	SPA92	IDC	2	Spatial Transcriptomics	2
+TENX13_10	TENX13	IDC	18	Visium	2
+TENX13_11	TENX13	IDC	35	Visium	2
+TENX13_12	TENX13	IDC	4	Visium	2
+TENX13_6	TENX13	IDC	6	Visium	2
+TENX13_7	TENX13	IDC	47	Visium	2
+TENX13_8	TENX13	IDC	85	Visium	2
+TENX13_9	TENX13	IDC	102	Visium	2
+TENX14_14	TENX14	IDC	5	Visium	2
+TENX14_15	TENX14	IDC	7	Visium	2
+TENX14_16	TENX14	IDC	10	Visium	2
+TENX14_17	TENX14	IDC	20	Visium	2
+TENX14_18	TENX14	IDC	141	Visium	2
+TENX14_19	TENX14	IDC	95	Visium	2
+TENX14_20	TENX14	IDC	55	Visium	2
+TENX28_2	TENX28	COAD	14	Visium	1
+TENX28_3	TENX28	COAD	7	Visium	1
+TENX49_0	TENX49	COAD	8	Visium	2
+TENX50_0	TENX50	CESC	6	Visium	2
+TENX50_1	TENX50	CESC	10	Visium	2
+TENX50_10	TENX50	CESC	11	Visium	2
+TENX50_11	TENX50	CESC	51	Visium	2
+TENX50_2	TENX50	CESC	5	Visium	2
+TENX50_3	TENX50	CESC	9	Visium	2
+TENX50_4	TENX50	CESC	8	Visium	2
+TENX50_5	TENX50	CESC	23	Visium	2
+TENX50_6	TENX50	CESC	12	Visium	2
+TENX50_7	TENX50	CESC	19	Visium	2
+TENX50_8	TENX50	CESC	21	Visium	2
+TENX50_9	TENX50	CESC	85	Visium	2
+ZEN42_2	ZEN42	COAD	5	Visium	1
+ZEN42_4	ZEN42	COAD	7	Visium	1
+ZEN46_10	ZEN46	COAD	3	Visium	2
+ZEN46_11	ZEN46	COAD	3	Visium	2
+ZEN46_2	ZEN46	COAD	6	Visium	2
+ZEN46_3	ZEN46	COAD	11	Visium	2
+ZEN46_5	ZEN46	COAD	2	Visium	2
+ZEN46_6	ZEN46	COAD	13	Visium	2
+ZEN46_7	ZEN46	COAD	3	Visium	2
+ZEN46_9	ZEN46	COAD	8	Visium	2
+ZEN47_11	ZEN47	COAD	7	Visium	2
+ZEN47_2	ZEN47	COAD	22	Visium	2
+ZEN47_7	ZEN47	COAD	7	Visium	2
+ZEN49_0	ZEN49	READ	32	Visium	2
+ZEN49_1	ZEN49	READ	28	Visium	2
+ZEN49_2	ZEN49	READ	18	Visium	2
+ZEN49_3	ZEN49	READ	6	Visium	2

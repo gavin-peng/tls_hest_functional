@@ -1,0 +1,43 @@
+Expression: (1980, 26)
+C1 genes available: 13/13: ['CXCL13', 'CCL19', 'CCL21', 'LAMP3', 'ACKR1', 'MS4A1', 'CXCR5', 'BCL6', 'IGHG1', 'JCHAIN', 'MZB1', 'TNFSF13B', 'AICDA']
+C4 genes available: 9/9: ['TGFB1', 'IL10', 'ARG1', 'MRC1', 'IDO1', 'FOXP3', 'IL2RA', 'CTLA4', 'CD274']
+
+Fetching clinical attributes...
+  OS_MONTHS: 1981 patients
+  OS_STATUS: 1981 patients
+  AGE_AT_DIAGNOSIS: 2498 patients
+  CLAUDIN_SUBTYPE: 1980 patients
+  NPI: 2287 patients
+Clinical joined: (2498, 5)
+After join: (1980, 35), events=1143
+PAM50: {'LumA': 700, 'LumB': 475, 'Her2': 224, 'claudin-low': 218, 'Basal': 209, 'Normal': 148, 'NC': 6}
+  C1 — All METABRIC: p=0.00000
+  C4 — All METABRIC: p=0.23401
+  C1 — LumB: p=0.30163
+  C4 — LumB: p=0.02153
+  C4 — LumA: p=0.20933
+  C4 — Basal: p=0.19894
+
+Saved METABRIC_TLS_survival.png
+
+Running Cox multivariate...
+Cox N=1980, events=1143
+
+Cox results (penalizer=0.1, ref=LumA):
+  C1_score: HR=0.855 [0.770–0.948] p=0.0030
+  C4_score: HR=1.000 [0.876–1.141] p=0.9988
+
+=== METABRIC SURVIVAL SUMMARY ===
+N=1980, events=1143
+
+KM log-rank p-values:
+  C1 — All METABRIC               p=0.00000  ***
+  C4 — All METABRIC               p=0.23401  ns
+  C1 — LumB                       p=0.30163  ns
+  C4 — LumB                       p=0.02153  *
+  C4 — LumA                       p=0.20933  ns
+  C4 — Basal                      p=0.19894  ns
+
+Cox multivariate (adj age+NPI+PAM50):
+  C1  HR=0.855 [0.770–0.948] p=0.0030
+  C4  HR=1.000 [0.876–1.141] p=0.9988

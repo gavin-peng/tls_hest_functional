@@ -1,0 +1,23 @@
+{
+    "pixel_size_um_embedded": 0.2645833333333333,
+    "pixel_size_um_estimated": 0.5468406924593424,
+    "spots_under_tissue": 2377,
+    "fullres_px_width": 16016,
+    "fullres_px_height": 14625,
+    "dataset_title": "Visium HD Spatial Gene Expression Library, Human Breast Cancer (Fresh Frozen), Ultima Sequencing",
+    "subseries": NaN,
+    "patient": NaN,
+    "species": "Homo sapiens",
+    "disease_comment": "Invasive ductal carcinoma (DCIS RIN: 7.7)",
+    "disease_state": "Cancer",
+    "oncotree_code": "IDC",
+    "tissue": "Breast",
+    "organ": "Breast",
+    "preservation_method": "Fresh Frozen",
+    "st_technology": "Visium HD",
+    "data_publication_date": "2025-07-24",
+    "license": "Creative Commons Attribution",
+    "study_link": NaN,
+    "download_page_link1": "https://www.10xgenomics.com/datasets/visium-hd-cytassist-gene-expression-libraries-human-breast-cancer-ff-ultima-4",
+    "id": "TENX180"
+}

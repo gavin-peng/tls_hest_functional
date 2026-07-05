@@ -1,0 +1,23 @@
+{
+    "pixel_size_um_embedded": 0.2645833333333333,
+    "pixel_size_um_estimated": 0.2737169331522806,
+    "spots_under_tissue": 2487,
+    "fullres_px_width": 54639,
+    "fullres_px_height": 29814,
+    "dataset_title": "Visium HD Spatial Gene Expression Library, Human Lung Cancer (Fixed Frozen)",
+    "subseries": NaN,
+    "patient": NaN,
+    "species": "Homo sapiens",
+    "disease_comment": NaN,
+    "disease_state": "Cancer",
+    "oncotree_code": "LUAD",
+    "tissue": "Lung",
+    "organ": "Lung",
+    "preservation_method": "Fixed Frozen",
+    "st_technology": "Visium HD",
+    "data_publication_date": "2024-09-17",
+    "license": "Creative Commons Attribution",
+    "study_link": NaN,
+    "download_page_link1": "https://www.10xgenomics.com/datasets/visium-hd-cytassist-gene-expression-human-lung-cancer-fixed-frozen",
+    "id": "TENX163"
+}

@@ -1,0 +1,187 @@
+diff --git a/Dockerfile b/Dockerfile
+index f6c5671..35f69e3 100644
+--- a/Dockerfile
++++ b/Dockerfile
+@@ -1,6 +1,6 @@
+ #FROM doduo1.umcn.nl/uokbaseimage/base:tf2.5-pt1.9
+-# Use the argument in the FROM instruction
+-FROM tensorflow/tensorflow:2.9.3-gpu
++# CPU-only build (swap back to tensorflow:2.9.3-gpu for cluster)
++FROM tensorflow/tensorflow:2.9.3
+ 
+ ENV DEBIAN_FRONTEND=noninteractive
+ 
+diff --git a/preprocessing/createmask.py b/preprocessing/createmask.py
+index 097bf4c..e761f26 100644
+--- a/preprocessing/createmask.py
++++ b/preprocessing/createmask.py
+@@ -36,6 +36,7 @@ def create_mask(
+     mask_spacing=2.0,
+     tile_size=512,
+     min_size=64,
++    force_spacing=None,
+ ):
+     reader = mir.MultiResolutionImageReader()
+     image = reader.open(input_path)
+@@ -43,9 +44,12 @@ def create_mask(
+         raise RuntimeError(f"Failed to open: {input_path}")
+ 
+     spacings = image.getSpacing()
+-    if not spacings:
+-        raise RuntimeError("Image has no spacing/mpp metadata.")
+-    base_spacing = spacings[0]
++    if force_spacing:
++        base_spacing = force_spacing
++    elif not spacings or spacings[0] == 0:
++        raise RuntimeError("Image has no spacing/mpp metadata. Use --force-spacing to override.")
++    else:
++        base_spacing = spacings[0]
+     print(f"Base spacing: {base_spacing:.4f}")
+ 
+     # ---- read whole slide at processing level ----
+@@ -134,6 +138,8 @@ def main():
+     parser.add_argument("-t", "--tile-size", type=int, default=512, help="Tile size")
+     parser.add_argument("--min-size", type=int, default=64, help="Min size for remove_small_objects/holes (default: 64)")
+     parser.add_argument("-w", "--overwrite", action="store_true", help="Overwrite existing output")
++    parser.add_argument("--force-spacing", type=float, default=None,
++                        help="Override base spacing (µm/px) when not embedded in file")
+ 
+     args = parser.parse_args()
+ 
+@@ -152,6 +158,7 @@ def main():
+         args.mask_spacing,
+         args.tile_size,
+         args.min_size,
++        args.force_spacing,
+     )
+     return 0
+ 
+diff --git a/preprocessing/run.sh b/preprocessing/run.sh
+index 03d1fc2..32c64b6 100644
+--- a/preprocessing/run.sh
++++ b/preprocessing/run.sh
+@@ -6,18 +6,25 @@ OUTPUT_WSI=$2
+ OUTPUT_MASK=$3
+ TARGET_SPACING=${4:-0.5}
+ TOLERANCE=${5:-0.02}
++FORCE_SPACING=${6:-}
+ 
+ if [ -z "$INPUT" ] || [ -z "$OUTPUT_WSI" ] || [ -z "$OUTPUT_MASK" ]; then
+-    echo "Usage: run.sh <input.svs> <output.tif> <output_mask.tif> [target_spacing] [tolerance]"
++    echo "Usage: run.sh <input.tif> <output.tif> <output_mask.tif> [target_spacing] [tolerance] [force_spacing]"
+     echo "  target_spacing: Target spacing/mpp (default: 0.5)"
+-    echo "  tolerance: Tolerance for direct extraction (default: 0.02)"
++    echo "  tolerance:      Tolerance for direct extraction (default: 0.02)"
++    echo "  force_spacing:  Override base spacing when not embedded in file (e.g. 0.2738)"
+     exit 1
+ fi
+ 
++FORCE_FLAG=""
++if [ -n "$FORCE_SPACING" ]; then
++    FORCE_FLAG="--force-spacing $FORCE_SPACING"
++fi
++
+ echo "=== Step 1: Convert WSI (target spacing: ${TARGET_SPACING} ± ${TOLERANCE}) ==="
+-python3 -u /opt/saveatlevel.py -i "$INPUT" -o "$OUTPUT_WSI" --target-spacing "$TARGET_SPACING" --tolerance "$TOLERANCE"
++python3 -u /opt/saveatlevel.py -i "$INPUT" -o "$OUTPUT_WSI" --target-spacing "$TARGET_SPACING" --tolerance "$TOLERANCE" $FORCE_FLAG
+ 
+ echo "=== Step 2: Create mask ==="
+-python3 -u /opt/createmask.py -i "$OUTPUT_WSI" -o "$OUTPUT_MASK"
++python3 -u /opt/createmask.py -i "$OUTPUT_WSI" -o "$OUTPUT_MASK" $FORCE_FLAG
+ 
+ echo "=== Done ==="
+diff --git a/preprocessing/saveatlevel.py b/preprocessing/saveatlevel.py
+index a1ff6b6..122e30a 100644
+--- a/preprocessing/saveatlevel.py
++++ b/preprocessing/saveatlevel.py
+@@ -33,9 +33,10 @@ def find_best_level(image, target_spacing, base_spacing, tolerance=0.02):
+     return best_level, best_spacing, within_tolerance
+ 
+ 
+-def save_level(input_path, output_path, level, tile_size=512, jpeg_quality=80):
++def save_level(input_path, output_path, level, tile_size=512, jpeg_quality=80, base_spacing=None):
+     """
+     Extract a single level from input image and save as new tiled TIFF.
++    base_spacing: override µm/px for level 0 when the file has no embedded spacing.
+     """
+     # Open input image
+     reader = mir.MultiResolutionImageReader()
+@@ -49,7 +50,8 @@ def save_level(input_path, output_path, level, tile_size=512, jpeg_quality=80):
+     downsample = image.getLevelDownsample(level)
+ 
+     width, height = dims
+-    level_spacing = spacing[0] * downsample if spacing else None
++    effective_base = (spacing[0] if (spacing and spacing[0] > 0) else None) or base_spacing
++    level_spacing = effective_base * downsample if effective_base else None
+ 
+     print(f"  Level {level}: {width}x{height}, spacing={level_spacing}")
+ 
+@@ -117,6 +119,8 @@ def main():
+     parser.add_argument("-t", "--tile-size", type=int, default=512, help="Tile size")
+     parser.add_argument("-w", "--overwrite", action="store_true", help="Overwrite existing")
+     parser.add_argument("--keep-intermediate", action="store_true", help="Keep intermediate file")
++    parser.add_argument("--force-spacing", type=float, default=None,
++                        help="Override base spacing (µm/px) when image has no embedded metadata")
+ 
+     args = parser.parse_args()
+ 
+@@ -136,11 +140,14 @@ def main():
+         return 1
+ 
+     spacing = image.getSpacing()
+-    if not spacing or spacing[0] == 0:
+-        print("Error: Image has no spacing/mpp metadata.")
++    if args.force_spacing:
++        base_spacing = args.force_spacing
++        print(f"Using forced base spacing: {base_spacing} µm/px")
++    elif not spacing or spacing[0] == 0:
++        print("Error: Image has no spacing/mpp metadata. Use --force-spacing to override.")
+         return 1
+-
+-    base_spacing = spacing[0]
++    else:
++        base_spacing = spacing[0]
+     num_levels = image.getNumberOfLevels()
+ 
+     print(f"Input: {args.input}")
+@@ -166,12 +173,12 @@ def main():
+         # Direct extraction
+         print(f"✓ Direct extraction: Level {best_level} (spacing={actual_spacing:.4f} mpp) is within tolerance")
+         print(f"Extracting level {best_level} -> {args.output}")
+-        save_level(args.input, args.output, level=best_level, tile_size=args.tile_size, jpeg_quality=args.quality)
++        save_level(args.input, args.output, level=best_level, tile_size=args.tile_size,
++                   jpeg_quality=args.quality, base_spacing=base_spacing)
+     else:
+         # Two-step approach: extract level 0, then extract target from its pyramid
+         print(f"✗ No level within tolerance. Using two-step approach.")
+ 
+-        # Level 0 always has base spacing
+         intermediate_level = 0
+         intermediate_spacing = base_spacing
+ 
+@@ -186,6 +193,7 @@ def main():
+             level=intermediate_level,
+             tile_size=args.tile_size,
+             jpeg_quality=args.quality,
++            base_spacing=base_spacing,
+         )
+ 
+         # Open intermediate and find level for target spacing
+@@ -195,7 +203,8 @@ def main():
+             print(f"Error: Failed to open intermediate: {intermediate}")
+             return 1
+ 
+-        intermediate_base_spacing = image2.getSpacing()[0]
++        spacing2 = image2.getSpacing()
++        intermediate_base_spacing = spacing2[0] if (spacing2 and spacing2[0] > 0) else base_spacing
+         final_level, final_spacing, _ = find_best_level(
+             image2, args.target_spacing, intermediate_base_spacing, tolerance=float('inf')
+         )
+@@ -207,6 +216,7 @@ def main():
+             level=final_level,
+             tile_size=args.tile_size,
+             jpeg_quality=args.quality,
++            base_spacing=intermediate_base_spacing,
+         )
+ 
+         if not args.keep_intermediate:

@@ -1,0 +1,53 @@
+[05_batch] Loading outputs/stage2_clustering/instance_features_raw_spatial.tsv
+[05_batch]   670 instances × 22 features (auto-detected)
+[05_batch]   Feature columns: ['GC_score', 'Tfh_score', 'Plasma_score', 'HEV_score', 'Suppressive', 'Myeloid_supp', 'Cytotoxic', 'Neighbor_TGFB1', 'Neighbor_VEGFA', 'Neighbor_CD8A', 'Neighbor_tumor_fraction', 'Neighbor_myeloid_fraction', 'log_area_um2', 'circularity', 'convexity', 'Grad_GC', 'Grad_Tfh', 'Grad_Plasma', 'Grad_HEV', 'Grad_Suppressive', 'Grad_Myeloid_supp', 'Grad_Cytotoxic']
+[05_batch]   Cohorts: {'IDC': 503, 'PRAD': 78, 'EPM': 32, 'COAD': 16, 'CESC': 12, 'LUSC': 10, 'PAAD': 8, 'READ': 4, 'BLCA': 3, 'SKCM': 2, 'LUAD': 1, 'GBM': 1}
+[05_batch]   Platforms: {'Spatial Transcriptomics': 489, 'Visium': 181}
+[05_batch]   NaN rates (will be median-imputed): {'circularity': '36.0%', 'convexity': '36.0%', 'Grad_GC': '22.7%', 'Grad_Tfh': '22.7%', 'Grad_Plasma': '22.7%', 'Grad_HEV': '22.7%', 'Grad_Suppressive': '22.7%', 'Grad_Myeloid_supp': '22.7%', 'Grad_Cytotoxic': '22.7%'}
+[05_batch] 
+Batch variable: st_technology (2 levels)
+[05_batch] Confound check — oncotree_code × st_technology:
+[05_batch] 
+st_technology  Spatial Transcriptomics  Visium
+oncotree_code                                 
+BLCA                                 0       3
+CESC                                 0      12
+COAD                                 0      16
+EPM                                  0      32
+GBM                                  0       1
+IDC                                489      14
+LUAD                                 0       1
+LUSC                                 0      10
+PAAD                                 0       8
+PRAD                                 0      78
+READ                                 0       4
+SKCM                                 0       2
+[05_batch]   Cohorts fully on one platform: 11/12
+[05_batch] 
+Z-score standardizing features...
+[05_batch]   [before correction] Cross-batch range (z-score units) — top 5:
+[05_batch]     Neighbor_TGFB1                       range=1.061  {'Spatial Transcriptomics': '+0.287', 'Visium': '-0.774'}
+[05_batch]     Neighbor_tumor_fraction              range=0.956  {'Spatial Transcriptomics': '+0.258', 'Visium': '-0.697'}
+[05_batch]     Neighbor_myeloid_fraction            range=0.910  {'Spatial Transcriptomics': '+0.246', 'Visium': '-0.664'}
+[05_batch]     GC_score                             range=0.844  {'Spatial Transcriptomics': '-0.228', 'Visium': '+0.616'}
+[05_batch]     Suppressive                          range=0.677  {'Spatial Transcriptomics': '+0.183', 'Visium': '-0.494'}
+[05_batch] 
+Wrote z-scored features → /mnt/e/hest/outputs/stage2_clustering/instance_features_scaled_spatial.tsv
+[05_batch] 
+Running ComBat...
+/usr/lib/python3.12/functools.py:909: ImplicitModificationWarning: Transforming to str index.
+  return dispatch(args[0].__class__)(*args, **kw)
+[05_batch]   [after ComBat] Cross-batch range (z-score units) — top 5:
+[05_batch]     GC_score                             range=0.054  {'Spatial Transcriptomics': '-0.020', 'Visium': '+0.034'}
+[05_batch]     Neighbor_TGFB1                       range=0.049  {'Spatial Transcriptomics': '+0.024', 'Visium': '-0.026'}
+[05_batch]     Neighbor_tumor_fraction              range=0.048  {'Spatial Transcriptomics': '+0.015', 'Visium': '-0.033'}
+[05_batch]     Myeloid_supp                         range=0.043  {'Spatial Transcriptomics': '-0.014', 'Visium': '+0.029'}
+[05_batch]     Neighbor_myeloid_fraction            range=0.039  {'Spatial Transcriptomics': '+0.021', 'Visium': '-0.019'}
+[05_batch] 
+  Mean cross-batch range: 0.366 → 0.020 (94.6% reduction)
+[05_batch] Wrote ComBat-corrected features → /mnt/e/hest/outputs/stage2_clustering/instance_features_corrected_spatial.tsv
+[05_batch] 
+Summary:
+[05_batch]   instance_features_scaled.tsv    — z-score only; preserves all inter-cohort differences
+[05_batch]   instance_features_corrected.tsv — ComBat on st_technology; removes platform offset
+[05_batch]   RECOMMENDATION: use corrected for clustering.
